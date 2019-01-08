@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Lokanta Vihara
 tagline:          'The Monastery at the End of the World'
 description:      'Two monks. One space. Imminent apocalypse. What could go wrong?'
-url:              https://lokanta.github.io
-baseurl:          
+url:              https://lokanta.github.io/
+baseurl:           https://lokanta.github.io/
 
 author:
   name:           'Bhikkhu Sujato'
