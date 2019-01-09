@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![ceiling](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/ceiling.jpg "The ceiling of the flat in Harris Park, filtered."
+![ceiling](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/ceiling.jpg "The ceiling of the flat in Harris Park, filtered.")
 
 So here we are in Harris Park. Ven Sujato and Ven Akaliko, two monks from the forest tradition. I’ve lived in the forest for nearly 25 years, and now I’m not. We’re in a small 2 bedroom flat, and what do you know? I like it! It’s simple and easy.
 
