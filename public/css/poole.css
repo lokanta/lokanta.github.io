@@ -330,6 +330,7 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 4em;
+  font-family: Alegreya;
 }
 
 /* Blog post or page title */
