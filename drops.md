@@ -37,3 +37,36 @@ After hearing the teaching, you meditate, giving the teachings the chance to set
 Keep the postcard as a message to your future self: remember this! 
 
 Take it home, put it on your fridge, or keep it by your bed or your shrine, and remind yourself from time to time: this is what I have learned.
+
+## When’s a good time for a Dhamma Drop?
+
+When isn’t, really? You can invite Bhante Sujato for a Dhamma Drop:
+
+- Lunch time at your work or University
+- A short evening session
+- Weekend dana, get the family together
+- Early morning before work
+
+## Hosting a Dhamma Drop
+
+Dhamma Drops are local and specific, so if you want to host one, make sure you reach out to the people around you. They are specifically designed to be short, so people shouldn't be travelling a long way. 
+
+The main requirements are simple:
+
+- A space that’s reasonably quiet and undisturbed
+- Some seats and mats
+- People!
+
+## Cost
+
+There’s no charge for a Dhamma Drop. We’ll collect donations to support the Monastery at the End of the World and SuttaCentral.
+
+If you need to hire a space, we can hopefully cover this from donations.
+
+## Transport
+
+Train is best. If we keep them at places near to public transport, we’ll come to you, no need to pick up. 
+
+## Contact
+
+If you’re interested, pop us off an email at lokanta.vihara@gmail.com or reach out on Signal (our preferred messaging app).
