@@ -5,13 +5,13 @@ title: Dhamma Drops
 
 **Remembering the Buddha’s teachings, one drop at a time.**
 
-Buddhists are the world experts in remembering things. We maintained our scriptures in memory for hundreds of years! 
+Buddhists are the world experts in remembering things. We kept our scriptures in memory for hundreds of years! 
 
-Each Sutta begins with by recording the time, the place, and the person. This helps memory by connecting a teaching to a specific set of circumstances. Why not use the same technique today to lock the teachings into memory?
+Each of the Buddhist scriptures begins with by recording the time, the place, and the person. This helps memory by connecting a teaching to a specific set of circumstances. Why not use the same technique today to lock the teachings into memory?
 
 ## What is a Dhamma Drop?
 
-A 50 minute session for learning and practicing the Dhamma. By focusing on one short passage at a time, you will carry that memory of that specific teaching.
+A 50 minute session for learning and practicing the Dhamma, that is, the teachings on peace and wisdom by the Buddha. By focusing on one short passage at a time, you will carry that memory of that specific teaching.
 
 - 5 minutes introduction
 - 20 minutes teaching
@@ -44,7 +44,7 @@ When isn’t, really? You can invite Bhante Sujato for a Dhamma Drop:
 
 - Lunch time at your work or University
 - A short evening session
-- Weekend dana, get the family together
+- Weekend meal offering (dana), get the family together
 - Early morning before work
 
 ## Hosting a Dhamma Drop
