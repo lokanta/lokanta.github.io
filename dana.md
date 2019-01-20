@@ -5,6 +5,9 @@ title: Making Offerings
 
 ## Almsround 
 
+<img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/pindapata.jpg" class="half-right">
+
+
 On weekdays the monks go walking for (*pindāpata*) alms-food in the local area. Come along and put some food in the monks' bowls. **Meet on the corner of Wigram and Marion streets, Harris Park, outside the Post Office around 11:30am.**
 
 Going on almsround is a tradition that dates back to the time of the Buddha. Here's a few words about the custom of pindāpata from Deepika Weerakoon.
@@ -13,10 +16,7 @@ Going on almsround is a tradition that dates back to the time of the Buddha. Her
 >
 >*Piṇḍapāta* is not just begging. It’s a totally different and more meaningful custom. It helps to develop qualities like contentedness and humility in the monks. The people offering the food also benefit by cultivating positive mindstates, like generosity and kindness... Keep this beautiful tradition alive! Please take time to offer some food to the monks on *piṇḍapāta*.
  
-
 Before you come, check our [calendar](https://lokanta.github.io/happenings) to see if the monks will be around.  
-
-![2 monks on pindapata](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/pindapata.jpg)
 
 
 ## Meal Invitations
@@ -35,8 +35,6 @@ Inviting the Sangha to your household to offer them a meal is a beautiful Buddhi
 
 **Time:**
 A good time to start proceedings is 10:30am. The monks need to receive their food by 11:30 at the latest as they cannot eat after midday.
-
-<img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/pindapata.jpg" class="half-right">
 
 
 **Transport:**
