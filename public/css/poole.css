@@ -66,7 +66,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  text-decoration-color: #ac4142;
+  text-decoration-color: rgba(172,65,66,0.5);
   text-decoration-skip-ink: auto;
   color: inherit;
 }
@@ -79,7 +79,8 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  color: #ac4142
+  color: #ac4142;
+  text-decoration-color: rgba(172,65,66,1);
 }
 
 /* Headings */
@@ -225,7 +226,6 @@ blockquote p:last-child {
 }
 @media (min-width: 30em) {
   blockquote {
-    padding-right: 5rem;
     padding-left: 1.25rem;
   }
 }
