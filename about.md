@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Bhante Sujato and Bhante Akaliko at Lokanta](https://raw.github.com/lokanta/lokanta.github.io/blob/master/BS%20%2B%20BA%20at%20Lokanta.jpg.")
+![Bhante Sujato and Bhante Akaliko at Lokanta](https://github.com/lokanta/lokanta.github.io/blob/master/Monks.jpg)
 
 ## Lokanta Vihara, the Monastery at the End of the World.
 
