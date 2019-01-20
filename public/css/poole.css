@@ -119,7 +119,14 @@ p {
 strong {
   color: #303030;
 }
-
+.author {
+  color: #9a9a9a;
+  font-style: italic;
+}
+.author:before {
+  content: "By: ";
+  font-style: normal;
+}
 
 /* Lists */
 ul, ol, dl {
