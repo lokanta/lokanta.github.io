@@ -81,7 +81,7 @@ a:hover,
 a:focus {
   color: #ac4142;
   text-decoration-color: rgba(172,65,66,1);
-  background-color: rgba(172,65,66,0.3);
+  background-color: rgba(172,65,66,0.1);
 }
 
 /* Headings */
