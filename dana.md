@@ -16,7 +16,7 @@ Going on almsround is a tradition that dates back to the time of the Buddha. Her
 >
 >*Piṇḍapāta* is not just begging. It’s a totally different and more meaningful custom. It helps to develop qualities like contentedness and humility in the monks. The people offering the food also benefit by cultivating positive mindstates, like generosity and kindness... Keep this beautiful tradition alive! Please take time to offer some food to the monks on *piṇḍapāta*.
  
-Before you come, check our [calendar](https://lokanta.github.io/happenings) to see if the monks will be around.  
+Before you come, check our [**calendar**](https://lokanta.github.io/happenings) to see if the monks will be around.  
 
 
 ## Meal Invitations
