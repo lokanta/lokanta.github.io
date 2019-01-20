@@ -235,7 +235,9 @@ img {
 
 img.half-right{
   float:right;
-  max-width:19rem
+  max-width:19rem;
+  margin: 1rem 0 1rem 1rem;
+  box-shadow: 3px 3px 3px red
 }
 /* Tables */
 table {
