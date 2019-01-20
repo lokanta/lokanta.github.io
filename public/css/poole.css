@@ -122,10 +122,8 @@ strong {
 .author {
   color: #9a9a9a;
   font-style: italic;
-}
-.author:before {
-  content: "By: ";
-  font-style: normal;
+  top: -0.9rem;
+  position: relative;
 }
 
 /* Lists */
