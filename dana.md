@@ -8,7 +8,7 @@ title: Making Offerings
 <img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/pindapata.jpg" class="half-right">
 
 
-On weekdays the monks go walking for (*pindāpata*) alms-food in the local area. Come along and put some food in the monks' bowls. **Meet on the corner of Wigram and Marion streets, Harris Park, outside the Post Office around 11:30am.**
+On weekdays, the monks go walking for (*pindāpata*) alms-food in the local area. Come along and put some food in the monks' bowls. **Meet on the corner of Wigram and Marion streets, Harris Park, outside the Post Office around 11:30am.**
 
 Going on almsround is a tradition that dates back to the time of the Buddha. Here's a few words about the custom of pindāpata from Deepika Weerakoon.
 
@@ -21,12 +21,12 @@ Before you come, check our [**calendar**](https://lokanta.github.io/happenings) 
 
 ## Meal Invitations
 
-On weekends you can invite the monks for a meal (*dana*) at your home. Contact the Dana Coordinator, Meera, by SMS on 0470 556 783.
+On weekends, you can invite the monks for a meal (*dana*) at your home. Contact the Dana Coordinator, Meera, by SMS on 0470 556 783.
 
 ### Frequently Asked Questions About Meal Invitations 
 
 **What happens at a House Dana?**
-Inviting the Sangha to your household to offer them a meal is a beautiful Buddhist tradition thousands of years old. You can invite the monks for:
+Inviting the Sangha to your household to offer a meal is a beautiful Buddhist tradition thousands of years old. You can invite the monks for:
 
 - 3 refuges and 5 precepts
 - Anumodana and sharing of merits
