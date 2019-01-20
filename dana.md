@@ -16,7 +16,7 @@ Pindāpata is not just begging. It’s a totally different and more meaningful c
 
 Before you come, check our [calendar](https://lokanta.github.io/happenings) to see if the monks will be around.  
 
-
+![2 monks on pindapata](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/pindapata.jpg)
 
 ## Meal Invitations
 
