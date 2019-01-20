@@ -3,14 +3,24 @@ layout: page
 title: About
 ---
 
-![ceiling](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/ceiling.jpg "The ceiling of the flat in Harris Park, filtered.")
+![Bhante Sujato and Bhante Akaliko at Lokanta](https://raw.github.com/lokanta/lokanta.github.io/blob/master/BS%20%2B%20BA%20at%20Lokanta.jpg.")
 
-So here we are in Harris Park. Ven Sujato and Ven Akaliko, two monks from the forest tradition. I’ve lived in the forest for nearly 25 years, and now I’m not. We’re in a small 2 bedroom flat, and what do you know? I like it! It’s simple and easy.
+## Lokanta Vihara, the Monastery at the End of the World.
 
-We want to make this a place we can practice and grow in our monastic life, while serving the Buddhist community.
+Bhante Sujato and Bhante Akāliko have arrived in Sydney's Harris Park just in time for the End of the World. Lokanta Vihara is part residence, part project; an experiment for living in uncertain times. We want to find out what it means to follow the Buddha's teachings in an era of climate change, globalised consumerism and political turmoil.
 
-Many times, when living in conventional monasteries, life is very beautiful, and the place is a delight and a refuge for many people. But there is also a cost, one that is not so obvious. Living in the forest, especially in modern times, takes a lot of time and effort and funding. At this time in my life, I want to put my main efforts into SuttaCentral.
+At the End of the World we try to be simple, frugal and content. The little we have is second-hand—where possible—borrowed, shared, or found on the street; just like the ancient tradition of *paṁsukula*, where monastics reused robes from the rubbish heap.
 
-We’re looking to keep the good traditions of Buddhist monastic life. We go for alms-round (*piṇḍapāta*) each day, accepting invitations to eat in houses only on the weekends. As far as possible, all the furnishings are second-hand, maintaining the *paṁsukula* tradition, of using robes from the rubbish heap. We will not accumulate belongings here, remembering that it is all impermanent, and we will be moving on.
+We rely on the kindness of others, going on alms-round (*piṇḍapāta*) in our local community for our only meal of the day just as monastics did at the time of the Buddha. Living in dependence on our community, we see people caring about each other in a busy world. We practice the Dhamma and share it in return.
+
+Lokanta Vihara offers an ongoing series of talks and events that will challenge and inspire you to think in new ways about your Dhamma practice. 
+
+Imagine our world is ending? How will you live your life?
 
 We have a lot of ideas for the coming weeks and months. We’ll be using this blog as a primary web hub, so check back in to see what we’re up to.
+
+Contact:
+**lokanta.vihara@gmail.com**
+
+
+
