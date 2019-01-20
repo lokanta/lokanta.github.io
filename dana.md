@@ -9,9 +9,9 @@ On weekdays the monks go walking for (*pindāpata*) alms-food in the local area.
 
 Going on almsround is a tradition that dates back to the time of the Buddha. Here's a few words about the custom of pindāpata from Deepika Weerakoon.
 
-“The word pindāpata is a combination of two words 'pinda' and 'pata'. 'pinda' means 'a lump of food' and 'pata' means 'bowl'. Therefore, pindāpata means literally 'placing of food in a bowl'.
-
-Pindāpata is not just begging. It’s a totally different and more meaningful custom. It helps to develop qualities like contentedness and humility in the monks. The people offering the food also benefit by cultivating positive mindstates, like generosity and kindness... Keep this beautiful tradition alive! Please take time to offer some food to the monks on pindāpata.”
+>The word *piṇḍapāta* is a combination of two words *piṇḍa* and *pāta*. *Piṇḍa* means “a lump of food” and *pāta* means “bowl”. So *piṇḍapāta* means literally “placing of food in a bowl”.
+>
+>*Piṇḍapāta* is not just begging. It’s a totally different and more meaningful custom. It helps to develop qualities like contentedness and humility in the monks. The people offering the food also benefit by cultivating positive mindstates, like generosity and kindness... Keep this beautiful tradition alive! Please take time to offer some food to the monks on *piṇḍapāta*.
  
 
 Before you come, check our [calendar](https://lokanta.github.io/happenings) to see if the monks will be around.  
