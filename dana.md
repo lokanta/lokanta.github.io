@@ -18,6 +18,7 @@ Before you come, check our [calendar](https://lokanta.github.io/happenings) to s
 
 ![2 monks on pindapata](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/pindapata.jpg)
 
+
 ## Meal Invitations
 
 On weekends you can invite the monks for a meal (*dana*) at your home. Contact the Dana Coordinator, Meera, by SMS on 0470 556 783.
@@ -34,6 +35,9 @@ Inviting the Sangha to your household to offer them a meal is a beautiful Buddhi
 
 **Time:**
 A good time to start proceedings is 10:30am. The monks need to receive their food by 11:30 at the latest as they cannot eat after midday.
+
+<img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/pindapata.jpg" class="half-right">
+
 
 **Transport:**
 The monks usually require transport to your home. Pick up the monks from: 6/16 Brisbane St Harris Park 2150
