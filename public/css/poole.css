@@ -331,7 +331,7 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 4em;
-  font-family: Alegreya;
+  font-family: EB Garamond;
 }
 
 /* Blog post or page title */
@@ -390,7 +390,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: sans-serif;
   color: #ccc;
   text-align: center;
 }
