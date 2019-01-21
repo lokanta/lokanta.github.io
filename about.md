@@ -20,7 +20,7 @@ Imagine our world is ending? How will you live your life?
 We have a lot of ideas for the coming weeks and months. We’ll be using this blog as a primary web hub, so check back in to see what we’re up to.
 
 Contact:
-**lokanta.vihara@gmail.com**
+[**lokanta.vihara@gmail.com**](lokanta.vihara@gmail.com)
 
 
 
