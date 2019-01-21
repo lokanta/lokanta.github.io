@@ -15,7 +15,7 @@ So here we are, two monks from the forest tradition, lost in the suburban jungle
 
 **Bhante Akāliko:** *What is the meaning of Lokanta Vihara?*
 
-**Bhante Sujato:** It literaly means The Monastery at the End of the World in Pāli.
+**Bhante Sujato:** It literally means The Monastery at the End of the World in Pāli.
 
 **BA:** *What where you thinking about when you named it that?*
 
