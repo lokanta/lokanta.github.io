@@ -19,11 +19,11 @@ So here we are, two monks from the forest tradition, lost in the suburban jungle
 
 **BA:** *What where you thinking about when you named it that?*
 
-**BS:** There are three different meanings I was thinking about. The first references the Rohitassa Sutta where the Buddha likens Enlightenment to reaching the end of the world. The second is that we are living in an age of climate change which means the world as we know it is pretty much ending. The third is about our location, in the Sydney suburb Harris Park, which many people might think is in the middle of nowhere; even the end of the world!   
+**BS:** There are three different meanings I was thinking about. The first references the **Rohitassa Sutta**(https://suttacentral.net/an4.45/en/sujato) where the Buddha likens Enlightenment to reaching the end of the world. The second is that we are living in an age of climate change which means the world as we know it is pretty much ending. The third is about our location, in the Sydney suburb Harris Park, which many people might think is in the middle of nowhere; even the end of the world!   
 
 **BA:** *Is this some sort of Buddhist Doomsday Cult type situation?*
 
-**BS:** No. Definitely not. Or maybe, perhaps… yes. 
+**BS:** No. Definitely not. Or maybe, perhaps… yes.
 
 **BA:** *Aren't monks supposed to live a forest? Why are we in an apartment?*
 
@@ -39,7 +39,7 @@ We’re looking to keep the good traditions of Buddhist monastic life. We go for
 
 **BA:** *What types of things are we going be doing here?*
 
-**BS:** We have already started doing some teaching and now have a regular Friday night session at the Harris Park Community Centre. We have a Monday Morning Meditation by the Parramatta River down at Queens Park Reserve. We are looking at doing some activities for young people, too.  I’ve been developing some different ways of presenting the Dhamma including [**Dhamma Drops**](https://lokanta.github.io/drop) which is a short form talk with a postcard to take away.
+**BS:** We have already started doing some teaching and now have a regular Friday night session at the Harris Park Community Centre. We have a Monday Morning Meditation by the Parramatta River down at Queens Park Reserve. We are looking at doing some activities for young people, too.  I’ve been developing some different ways of presenting the Dhamma including [**Dhamma Drops**](https://lokanta.github.io/drops/) which is a short form talk with a postcard to take away.
 
 **BA:** *How can people find out more about our activities?*
 
