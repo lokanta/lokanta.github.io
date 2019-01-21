@@ -46,7 +46,7 @@ The monks are vegetarian. They do not have any special dietary requirements.
 **Offering Requisites:**
 The Lokanta Vihara is a temporary residence, and the monks don’t want to accumulate lots of things. Please help them out by not offering robes, bowls, and other requisites. Instead, you can offer flowers for the shrine. 💐
 
-You can also support Lokanta Vihara by offering to help with rent and utilities by contacting Deepika Weerakoon, meditateasy@gmail.com. The monks do not accept any money directly.  
+You can also support Lokanta Vihara by offering to help with rent and utilities by contacting Deepika Weerakoon, [meditateasy@gmail.com](meditateasy@gmail.com). The monks do not accept any money directly.  
 
 
 
