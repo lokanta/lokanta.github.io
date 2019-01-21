@@ -19,7 +19,7 @@ So here we are, two monks from the forest tradition, lost in the suburban jungle
 
 **BA:** *What where you thinking about when you named it that?*
 
-**BS:** There are three different meanings I was thinking about. The first references the **Rohitassa Sutta**(https://suttacentral.net/an4.45/en/sujato) where the Buddha likens Enlightenment to reaching the end of the world. The second is that we are living in an age of climate change which means the world as we know it is pretty much ending. The third is about our location, in the Sydney suburb Harris Park, which many people might think is in the middle of nowhere; even the end of the world!   
+**BS:** There are three different meanings I was thinking about. The first references the [**Rohitassa Sutta**](https://suttacentral.net/an4.45/en/sujato) where the Buddha likens Enlightenment to reaching the end of the world. The second is that we are living in an age of climate change which means the world as we know it is pretty much ending. The third is about our location, in the Sydney suburb Harris Park, which many people might think is in the middle of nowhere; even the end of the world!   
 
 **BA:** *Is this some sort of Buddhist Doomsday Cult type situation?*
 
