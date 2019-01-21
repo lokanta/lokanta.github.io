@@ -8,9 +8,9 @@ title: Making Offerings
 <img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/pindapata.jpg" class="half-right">
 
 
-On weekdays, the monks go walking for (*pindāpata*) alms-food in the local area. Come along and put some food in the monks' bowls. **Meet on the corner of Wigram and Marion streets, Harris Park, outside the Post Office around 11:30am.**
+On weekdays, the monks go walking for (*pindāpata*) alms-food in the local area. Come along and put some food in the monks' bowls. **Meet on the corner of Wigram and Marion streets, Harris Park, outside the Post Office around 11:15am.**
 
-Going on almsround is a tradition that dates back to the time of the Buddha. Here's a few words about the custom of pindāpata from Deepika Weerakoon.
+Going on almsround is a tradition that dates back to the time of the Buddha. Here's a few words about the custom of *piṇḍapāta* from Deepika Weerakoon.
 
 >The word *piṇḍapāta* is a combination of two words *piṇḍa* and *pāta*. *Piṇḍa* means “a lump of food” and *pāta* means “bowl”. So *piṇḍapāta* means literally “placing of food in a bowl”.
 >
@@ -26,7 +26,7 @@ On weekends, you can invite the monks for a meal (*dana*) at your home. Contact 
 ### Frequently Asked Questions About Meal Invitations 
 
 **What happens at a House Dana?**
-Inviting the Sangha to your household to offer a meal is a beautiful Buddhist tradition thousands of years old. You can invite the monks for:
+Inviting the Sangha to your household to offer a meal is a beautiful Buddhist tradition that is thousands of years old. You can invite the monks for:
 
 - 3 refuges and 5 precepts
 - Anumodana and sharing of merits
