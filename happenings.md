@@ -3,7 +3,7 @@ layout: page
 title: Happenings
 ---
 
-It’s very busy here at the End of the World. To find out what we are up to, click on the Lokanta Doomsday Calendar below.
+To find out what we are up to, click on the Lokanta Doomsday Calendar below.
 
 
 
