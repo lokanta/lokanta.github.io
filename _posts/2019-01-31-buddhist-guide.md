@@ -30,7 +30,7 @@ The problem of what to do when the world is ending is answered for us in the Pab
  
 Having obtained the King's attention with this inescapable disaster, the Buddha then poses a single question, loaded with meaning:
  
->Should such a dire threat arise—a terrible loss of human life, when human birth is so rare—*what would you do?*”
+>Should such a dire threat arise—a terrible loss of human life, when human birth is so rare—*what would you do?*
  
 This is the same question that we, ourselves, would face at the End of the World. What would you do? The King's answer is textbook perfect:
  
@@ -38,7 +38,7 @@ This is the same question that we, ourselves, would face at the End of the World
  
 The Buddha does not immediately praise the king for his response, however, and instead changes tack from an abstract hypothetical question to a matter-of-fact reality check:
  
->“I tell you, great king, I announce to you: old age and death are advancing upon you. Since old age and death are advancing upon you, what would you do?”
+>I tell you, great king, I announce to you: old age and death are advancing upon you. Since old age and death are advancing upon you, what would you do?
  
 This is our real emergency, our true predicament, the slow unfolding catastrophe of old age, sickness, and death. Yet, like King Pasenadi, we are so often distracted by other activities in our life that we forget that these big things will inevitably happen to us. Even when reminded of this certainty, we don't want to think about it, we turn away and shut our eyes. It is for this reason that the Buddha used such a striking apocalyptic scenario; to break apart the layers of self-deception, cutting through our usual frivolous distractions, to issue an urgent reminder.
  
