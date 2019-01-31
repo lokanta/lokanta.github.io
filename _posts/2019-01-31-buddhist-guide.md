@@ -5,8 +5,11 @@ title: A Buddhist Guide to “Surviving” the Apocalypse
 
 <span class="author">Akāliko Bhikkhu</span>
 
-### *I saw a huge mountain that reached the clouds. And it was coming this way, crushing all creatures... Should such a dire threat arise... what would you do?”*  [(SN 3.25)](https://suttacentral.net/sn3.25)
+### *I saw a huge mountain that reached the clouds. And it was coming this way, crushing all creatures... Should such a dire threat arise... what would you do?”*   [(SN 3.25)](https://suttacentral.net/sn3.25)
+
+
  
+
 ![people film end of the world on phones as asteroids fly through sky](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/end%20of%20the%20world%20meme%20(1).jpg) 
 
 The End of the World is not likely to be an exclusive event. It's true that some religions have their own VIP versions of the apocalypse, where the Chosen Few are saved and the rest are doomed (think; *the Rapture, the Ascension,* or, *Judgement Day*) but given the differing views on which religion is correct, it's more likely that when the apocalypse comes, it's coming for us all.
