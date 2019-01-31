@@ -7,7 +7,7 @@ title: A Buddhist Guide to “Surviving” the Apocalypse
 
  ***I saw a huge mountain that reached the clouds. And it was coming this way, crushing all creatures... Should such a dire threat arise... what would you do?”*** [(SN 3.25)](https://suttacentral.net/sn3.25)
  
-![people film end of the world on phones as asteroids fly through sky](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/end%20of%20the%20world%20meme.jpg) 
+![people film end of the world on phones as asteroids fly through sky](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/end%20of%20the%20world%20meme%20(1).jpg) 
 
 The End of the World is not likely to be an exclusive event. It's true that some religions have their own VIP versions of the apocalypse, where the Chosen Few are saved and the rest are doomed (think; *the Rapture, the Ascension,* or, *Judgement Day*) but given the differing views on which religion is correct, it's more likely that when the apocalypse comes, it's coming for us all.
  
@@ -54,7 +54,7 @@ By understanding the Dhamma, and practicing in this way, a Buddhist at the End o
  
 So, as the Buddha asked King Pasenadi; what would *you* do if the world were ending? And would that so different from how you are living now, faced with old age, sickness and death?
 
-![this is fine meme of dog sitting in a burning house sipping coffee](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/this%20is%20fine.png)
+![this is fine meme of dog sitting in a burning house sipping coffee](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/this%20is%20fine.jpg)
 
 
 Read the full Pabbatūpa Sutta, *the Simile of the Mountain*, on [**SuttaCentral**](https://suttacentral.net/sn3.25)
