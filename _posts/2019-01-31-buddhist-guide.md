@@ -9,7 +9,7 @@ title: A Buddhist Guide to “Surviving” the Apocalypse
  
 ![people film end of the world on phones as asteroids fly through sky](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/end%20of%20the%20world%20meme.jpg) 
 
-The End of the World is not likely to be an exclusive event. It's true that some religions have their own VIP versions of the apocalypse, where the Chosen Few are saved and the rest are doomed (think; *the Rapture, the Ascension or Judgement Day*) but given the differing views on which religion is correct, it's more likely that when the apocalypse comes, it's coming for us all.
+The End of the World is not likely to be an exclusive event. It's true that some religions have their own VIP versions of the apocalypse, where the Chosen Few are saved and the rest are doomed (think; *the Rapture, the Ascension,* or, *Judgement Day*) but given the differing views on which religion is correct, it's more likely that when the apocalypse comes, it's coming for us all.
  
 So, how should people of different religions prepare themselves for The End? Christians might pray to God for deliverance, Muslims might praise Allah, but what about people like Hindus or Buddhists who believe in rebirth? Surely, an event like the apocalypse is just another routine death and nothing to be too bothered by? Perhaps we don't need to do any special preparation at all? We can just keep going about our normal business, doing our usual things; watching Netflix, arguing with our siblings, hating on politicians and going shopping… But if it really is The End, “situation normal” is not likely to be possible.
  
