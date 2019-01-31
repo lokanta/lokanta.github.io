@@ -41,8 +41,8 @@ This is our real emergency, our true predicament, the slow unfolding catastrophe
  
 Seeing the futility of all his power, wealth and status in the face of old age sickness and death, in answer to the Buddha's question, the king repeats the same response he made before:
 >“Sir, what else can I do but practice the teachings, practice morality, doing skillful and good actions?” 
-
-(*Adhivattamāne ca me, bhante, jarāmaraṇe kimassa karaṇīyaṃ aññatra dhammacariyāyasamacariyāya kusalakiriyāya puññakiriyāyā”ti?*)
+>
+>(*Adhivattamāne ca me, bhante, jarāmaraṇe kimassa karaṇīyaṃ aññatra dhammacariyāyasamacariyāya kusalakiriyāya puññakiriyāyā”ti?*)
  
 Thus, the qualities that we will need at the End of the World are the very same qualities that we need in our ordinary lives; in both situations, we face essentially the same problems, just with different external conditions. It is not just in extreme situations that our ethics and behaviour will be tested but also in the ordinariness of here and now. If we cannot practice ethical conduct in our everyday lives in the present, what hope will we have in the future, when things get really tough?
  
@@ -57,4 +57,4 @@ So, as the Buddha asked King Pasenadi; what would *you* do if the world were end
 ![this is fine meme of dog sitting in a burning house sipping coffee](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/this%20is%20fine.png)
 
 
-Read the full Pabbatūpa Sutta, *the Simile of the Mountain*, on [**sutta central**](https://suttacentral.net/sn3.25)
+Read the full Pabbatūpa Sutta, *the Simile of the Mountain*, on [**SuttaCentral**](https://suttacentral.net/sn3.25)
