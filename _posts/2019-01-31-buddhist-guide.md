@@ -55,7 +55,7 @@ Even in a broken world, virtuous action is always blameless. As such, keeping up
  
 By understanding the Dhamma, and practicing in this way, a Buddhist at the End of the World—or even just in ordinary daily life, here and now—can be a beacon of goodness and a source of inspiration to others.
  
-So, as the Buddha asked King Pasenadi; what would *you* do if the world were ending? And would that so different from how you are living now, faced with old age, sickness and death?
+So, as the Buddha asked King Pasenadi; what would *you* do if the world were ending? And would that be so different from how you are living now, faced with old age, sickness and death?
 
 ![this is fine meme of dog sitting in a burning house sipping coffee](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/this%20is%20fine.jpg)
 
