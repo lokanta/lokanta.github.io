@@ -126,6 +126,13 @@ strong {
   position: relative;
 }
 
+.preamble{
+  padding: 1em;
+    font-style: italic;
+    background-color: #e5e5e5;
+    text-align: center;
+}
+
 /* Lists */
 ul, ol, dl {
   margin-top: 0;
