@@ -34,7 +34,7 @@ The Buddha uses the abstract idea of total and utter destruction on a cosmic lev
 
 This complex sequence of emotions and reactions is known as *saṃvega*, a term that describes “a state of shock, agitation, fear, awe, wonder, or delight induced by some physically or mentally poignant experience.” [(Ananda K. Coomaraswamy, Saṃvega: 'Aesthetic Shock')](https://architexturez.net/doc/az-cf-166170) Saṃvega is presented in several forms in the suttas, most commonly in relation to seeing the inescapable nature of old age, sickness and death, creating a sense of inspired urgency. The Buddha’s story of the *Seven Suns*, is not so much a scientific prediction of the end, or even a prophecy of doom, but rather an awe-inspiring shock tactic, told to stimulate us to practice the path of Dhamma right now. Only by turning away from the impermanent, unstable and unreliable conditions of the world will we truly have a chance to escape our suffering.
 
-Elsewhere, the Buddha speaks of cycles of birth and death on a cosmic level, when the whole known universe collapses. Ajahn Brahmāli, in his recent essay on [Buddhist Cosmology](https://discourse.suttacentral.net/t/buddhist-cosmology/8213/26) says:
+Elsewhere, the Buddha speaks of cycles of birth and death on a cosmic level, when the whole known universe collapses. Ajahn Brahmāli, in his recent essay on [*Buddhist Cosmology*](https://discourse.suttacentral.net/t/buddhist-cosmology/8213/26) says:
 
 >The idea of a cycling cosmos is part of the fundamental Buddhist outlook that things don’t have absolute beginnings…. According to Buddhism, nothing arises without causes and conditions. There is no such thing as a first cause. Given this outlook, only a cyclic model of the universe makes sense.
 
