@@ -8,13 +8,13 @@ title: THE END IS NIGH!!!
 ![googled the end of the world was not disappointed. giant cat in the sky](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/catcatcat.jpg)
 
 
-### *There comes a time when, after a very long period has passed, a second sun appears…* (AN 7.66)
+### *There comes a time when, after a very long period has passed, a second sun appears…* [(AN 7.66)](https://suttacentral.net/an7.66)
 
 When it comes to doomsday prophecies, Buddhist texts might not immediately spring to mind. However, there are a few portentous suttas spoken by the Buddha scattered through the Nikayas that read like something out of a Hollywood disaster movie. There is a certain satisfaction in pondering the utter destruction of the world—hence the popularity of the apocalypse film genre—but what exactly was it that the Buddha was pointing to when he talked about the End of the World?
 
-In the *Sattasūriya Sutta, the Seven Suns* [(AN 7.66)](https://suttacentral.net/an7.66), we read about the slow, painful death of our planet. The beginning of the end is a long period of drought. In a cascade failure, even more terrifying than current climate change predictions, the lack of rain gradually causes the complete extinction of plant life on the planet. 
+In the *Sattasūriya Sutta, the Seven Suns* [(AN 7.66)](https://suttacentral.net/an7.66), we read about the slow, painful death of our planet. The beginning of the end is a long period of drought. In a cascade failure, even more terrifying than current climate change predictions, the lack of rain gradually causes the complete extinction of plant life on the planet: 
 
->...rain doesn’t fall. For many years, many hundreds, many thousands, many hundreds of thousands of years no rain falls. When this happens, the plants and seeds, the herbs, grass, and big trees wither away and dry up, and are no more…
+>...rain doesn’t fall. For many years, many hundreds, many thousands, many hundreds of thousands of years no rain falls. When this happens, the plants and seeds, the herbs, grass, and big trees wither away and dry up, and are no more…[(AN 7.66)](https://suttacentral.net/an7.66)
 
 Then a second sun appears in the sky, and another and another. All the rivers, lakes and oceans of the world dry up so much, that when a “fifth sun appears there’s not even enough water in the great ocean to wet a toe-joint”. 
 
@@ -50,7 +50,7 @@ Previously, scientists estimated that our galaxy, the Milky Way, would collide w
 
 Both the Sutta of the *Seven Suns* and the *Origin of the World* seem almost fantastical in their description of our universe. The cosmos falls apart and rebuilds over and over again, or our planet burns up and spectacularly explodes; it seems too farfetched to believe. It’s easy to dismiss ancient scriptures as fictional and take comfort in that. However, will we also deny the cold and factual rationality of science? The refusal to believe scientific data by climate change denialists today shows just how easy it is to ignore science, as does the recent phenomenon of believers in a Flat Earth. Even if we are convinced by a scientific version of the apocalyptic destruction of our planet one day in the far-off future, it is still very hard for us to make a jump from an abstract potential future to a reality that we might individually experience.
 
-<img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/supernova.jpg" class="half-right">
+![image of suernova](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/supernova.jpg)
 
  As with attitudes to climate change on our own planet, we might be tempted to take some solace in this impersonal and distant version of the universe's demise, since we prefer to imagine a scenario that doesn't include us personally. But thinking like this would completely miss the point of the Buddha's teaching about our own impending deaths, let alone our planets. Further, it would be a missed opportunity to experience the potentially transformative mind of saṃvega. Instead of generating urgency and dispassion, we could easily fall back into that pleasantly habitual cocoon of delusion that we usually occupy; thinking we are safe and secure on our planet, that the universe will not end today or tomorrow, our own lives are predictable and permanent; that the environment we depend upon will keep on supporting us, that society will not collapse, we should not worry too much about our death, or the death of others…
 
@@ -67,7 +67,7 @@ As with all prophets of doom, it might not have been easy for people to believe 
 Increasingly as the effects of climate change become more widely known, it is easy to believe in a looming apocalypse like that of the *Seven Suns*. A world where changing rainfall patterns bring droughts that gradually turn the earth into desert, where crops fail and people starve. When this banal and unspectacular sort of apocalypse is finally upon us, will we only realise too late? Will we believe the science? Will we believe it when it happens? Or will we continue in our coccon of denial? The world has already experienced incredible changes in the past; Is is also happening somewhere right now! Is it so difficult to imagine it happening again; but bigger?
 
 
-<img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/FB_IMG_1504692749004.jpg" class="half-right">
+![people play golf while the world burns](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/FB_IMG_1504692749004.jpg)
 
 When there is not enough water to fill a cow's hoof print, or enough food to feed your family... when society, civilisation, our whole world, even, our universe is ending—what will you do? It’s this question that I’ve been returning to over and over again. What does it mean to be a Buddhist at the End of the World? And how will the Buddha's teachings help us then if we don't practice now?
 
