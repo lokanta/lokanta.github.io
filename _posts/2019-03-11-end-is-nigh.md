@@ -71,7 +71,7 @@ Increasingly as the effects of climate change become more widely known, it is ea
 
 ![people play golf while the world burns](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/FB_IMG_1504692749004.jpg)
 
-When there is not enough water to fill a cow's hoof print, or enough food to feed your family... when society, civilisation, our whole world, even, our universe is ending—what will you do? It’s this question that I’ve been returning to over and over again. What does it mean to be a Buddhist at the End of the World? And how will the Buddha's teachings help us then if we don't practice now?
+When the world begins to heat up, when it starts to burn, when there is not enough water to fill a cow's hoof print, or enough food to feed your family... when society, civilisation, our whole world, even, our universe is ending—what will you do? It’s this question that I’ve been returning to over and over again. What does it mean to be a Buddhist at the End of the World? And how will the Buddha's teachings help us then if we don't practice now?
 
 Read Bhante Sujato's full translation of the *Seven Suns Sutta* on [Suttacentral](https://suttacentral.net/an7.66)
 
