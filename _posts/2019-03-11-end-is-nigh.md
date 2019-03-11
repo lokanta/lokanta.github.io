@@ -66,7 +66,7 @@ As with all prophets of doom, it might not have been easy for people to believe 
 
 >Mendicants, who would ever think or believe that this earth and Sineru, king of mountains, will burn and crumble and be no more, except for one who has seen the truth? [(AN 7.66)](https://suttacentral.net/an7.66)
 
-Increasingly as the effects of climate change become more widely known, it is easy to believe in a looming apocalypse like that of the *Seven Suns*. A world where changing rainfall patterns bring droughts that gradually turn the earth into desert, where crops fail and people starve. When this banal and unspectacular sort of apocalypse is finally upon us, will we only realise too late? Will we believe the science? Will we believe it when it happens? Or will we continue in our coccon of denial? The world has already experienced incredible changes in the past; Is is also happening somewhere right now! Is it so difficult to imagine it happening again; but bigger?
+Increasingly as the effects of climate change become more widely known, it is easy to believe in a looming apocalypse like that of the *Seven Suns*. A world where changing rainfall patterns bring droughts that gradually turn the earth into desert, where crops fail and people starve. When this banal and unspectacular sort of apocalypse is finally upon us, will we only realise too late? Will we believe the science? Will we believe it when it happens? Or will we continue in our coccon of denial? The world has already experienced incredible changes in the past; It is also happening somewhere right now! Is it so difficult to imagine it happening again; but bigger?
 
 
 ![people play golf while the world burns](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/FB_IMG_1504692749004.jpg)
