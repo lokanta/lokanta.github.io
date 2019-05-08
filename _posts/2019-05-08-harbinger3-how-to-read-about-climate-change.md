@@ -1,0 +1,69 @@
+# How to Read About the End of the World
+
+When reading about the harbingers of the end of the world—climate catastrophe, biodiversity collapse, pollution crisis, and so on—if we listen closely to the language, we start to discern a pattern. With few exceptions, statements on crisis look for a balance: yes things are serious, but here’s what we can do about it. They want to position things such that a reasonable person would give equal weight to both sides.
+
+The problem is, when you look more closely, these statements form a rather distinctive and somewhat disturbing pattern. In brief: bad things are facts; good things are fantasies. Let us see some examples of this.
+
+On May 6, the Guardian carried a major article on the [UN report on biodiversity collapse](https://www.theguardian.com/environment/2019/may/06/human-society-under-urgent-threat-loss-earth-natural-life-un-report). This is an official UN report, backed by 450 scientists and experts, a global consensus document compiled over three years. Biodiversity collapse, while distinct from climate change per se, is very intimately linked, as global warming is one of the major drivers of extinction.
+
+The headline is strong: “Human society under urgent threat from loss of Earth’s natural life”. The facts bear it out: “nature is being destroyed at a rate tens to hundreds of times higher than the average over the past 10m years”; “biomass of wild mammals has fallen by 82%”; “a million species are at risk of extinction”; and so the facts march on, like a nightmare army rendered in cold statistics.
+
+So then what is our response? How are we to paint the other side of the picture? Surely if we are to frame a positive response, it must be grounded on an equally strong basis of reality.
+
+> “We are eroding the very foundations of economies, livelihoods, food security, health and quality of life worldwide,” said Robert Watson, the chair of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (Ibpes). “We have lost time. We must act now.”
+
+We *must*, must we? “Must” is an odd word when you think about it. It conveys an inevitability, a logical necessity. Who are we saying “must” to, exactly? And who is the “we”? Well, “we” certainly doesn’t include “me”. I’ve done what I can over the years, and it hasn’t made any real difference. What he means is policy-makers, corporations and the like: those who have the power to make a difference. But who are we to compel them to do anything? “Must” exists to convey a forcefulness, but it doesn’t correspond with any reality, because the people saying “must” have no power, and “must” only matters when the powerful say it. When a cop says, “You must get out of the car now”, it means something strong and specific. When an activist says, “We must fundamentally change our society now”, the form of the language is the same, but the meaning is very different. The reality is, of course, that there is no “must” about it. We can, in fact, simply keep on doing nothing, and all the bad things will just happen. Not only is this possible, it seems pretty gosh-darn likely at this stage.
+
+What other positive news do we get? After the recent upsurge of climate activism—school strikes, extinction rebellion protests, and so on—the authors of the report “hope” this will push biodiversity into public awareness in the same way as the climate emergency.
+
+“Hope”. There it is. On the one hand, a terrifying and extensive litany of devastating facts; on the other side, “hope”. And what are they hoping for: that biodiversity will get the same attention as climate change? For all the attention climate has got, global warming is still happening, just as bad as ever. We have no effectively no dent whatsoever on the steady increase of CO2 in the atmosphere. We have demonstrated zero ability to actually solve the climate change crisis. What, we are now going to add yet *another* equally bad crisis to the list, and “hope” that suddenly decades of precedent will be overturned and we’ll do something about it?
+
+The article goes on:
+
+> David Obura, one of the main authors on the report and a global authority on corals, said: “We tried to document how far in trouble we are to focus people’s minds, but also to say it is not too late if we put a huge amount into transformational behavioural change.”
+
+He invokes the stock “it’s not too late”, without, however, giving any reason for *why* it’s not too late. This is one of the most popular incantations of the climate activist, so self-evident it needs not concern itself with mere facts.
+
+Again, see the language: the trouble is documented fact, the hope is fantasy. “If we put a huge amount into transformational behavioural change”. He’s right, no doubt. But the work that “if” is doing! Never in human history has there been anything like this. “If”, he is saying, we become effectively a completely different species. This is the nub of the problem: humans change, but they don’t change so far, so fast, in such numbers.
+
+What kinds of change might such a transformation entail? One of the many facts that march in dark procession suggests one specific change: 18% of greenhouse gas emissions are caused by cattle. This has a simple and obvious solution—ban cattle farming. There is no solving the climate crisis so long as we still eat beef. Yet who, even in the progressive parties, wants to come out and speak the simple truth? Banning cattle farming, and indeed all forms of livestock, is just one of the transformations that survival entails. Yet meat consumption continues to grow faster than the world population. We *must* stop eating meat; yet we *are* eating more and more.
+
+The article acknowledges that emissions continue to rise, passing 415 parts per million of CO2.
+
+> Even if global heating can be kept within the Paris agreement target of 1.5C to 2C, the ranges of most species will shrink profoundly, the paper warns.
+
+Again, that sneaky little “if”. Let’s be clear: it has been ages since a 1.5 degree rise was a plausible goal. The IPCC only includes it for hypothetical purposes. It’s not going to happen. 2 degrees is also pretty much in the rear view mirror, and almost everyone agrees that we’re headed far beyond that. So why do we keep discussing implausible scenarios as if they were reasonable? We don’t see astronomers saying, “If the earth doesn’t keep rotating around the sun”, or mechanics saying, “If cars were run on clown tears”. Sure, technically it’s possible we might keep to 2 degrees. It’s much more likely we’ll reach 6 degrees or beyond. Why are the upper estimates routinely omitted, while the lower estimates are endlessly repeated?
+
+The reality is, species are becoming extinct with incredible speed right now, when global warming has barely got its britches on. When we hit 4 degrees or 6 degrees, most of the earth will be a fiery desert, and the seas will be wastelands. [A Flinders Uni study last year](https://www.sciencedaily.com/releases/2018/11/181129122506.htm) showed that a 5 or 6 degree rise will cause an extinction collapse that will wipe out most life on the planet. To be clear: even under the conservative IPCC projections, we are currently on track for this kind of temperature rise by the end of the century. And of course, it doesn't stop just because the century ticks over. It just keeps going up.
+
+More horrifying facts:
+
+> Our species now extracts 60bn tons of resources each year, almost double the amount in 1980, though the world population has grown by only 66% in that time. The report notes how the discharges are overwhelming the Earth’s capacity to absorb them. More than 80% of wastewater is pumped into streams, lakes and oceans without treatment, along with 300m-400m tons of heavy metals, toxic slurry and other industrial discharges. Plastic waste has risen tenfold since 1980, affecting 86% of marine turtles, 44% of seabirds and 43% of marine mammals. Fertiliser run-off has created 400 “dead zones”, affecting an area the size of the UK.
+
+But never fear, for:
+
+> Andy Purvis, a professor at the Natural History Museum in London and one of the main authors of the report, said he was encouraged nations had agreed on the need for bitter medicine.
+
+“Encouraged”? Nations have “agreed”? By which he means, it’s on the agenda to be discussed at conferences, and there’s more reports on the way. Nice, that’ll fix it! If “must act now” is to mean anything, it cannot continue to mean “hold another conference and hope policy changes reflect reality”.
+
+The article shares with us more words of hope:
+
+> Cristiana Pașca Palmer, the head of the UN’s chief biodiversity organisation, said she was both concerned and hopeful. “The report today paints quite a worrying picture. The danger is that we put the planet in a position where it is hard to recover,” she said. “But there are a lot of positive things happening. Until now, we haven’t had the political will to act. But public pressure is high. People are worried and want action.”
+
+“Lots of positive things are happening”. Lots! And “people are worried”. Ooh, I can just see the Koch brothers tremble! Exxon is calling emergency meetings. The Saudis are urgently closing the oil plants. And the Liberal party is frantically figuring out how to stop Adani. Oh pardon me, I slipped into an alternate dimension for a moment there. In fact, we just saw the US Secretary of State Mike Pompeo [get excited at the trade opportunities opened up by the melting arctic](https://www.independent.co.uk/news/world/americas/us-politics/mike-pompeo-arctic-climate-change-ice-melt-trade-a8902206.html). And as the [Guardian’s follow-up article makes clear](https://www.theguardian.com/australia-news/2019/may/08/un-environment-report-how-australias-political-parties-plan-to-respond-to-the-crisis), the actual responses o the UN report by Australia’s political parties—even just the cheap words, not to speak of deeds—are “not adequate”; or as I would put it, “horrifyingly myopic”. So deep is the ingrained inaction, our Prime Minister has resorted to pretending to take action by [making up legislation that doesn’t actually exist](https://www.theguardian.com/australia-news/2019/may/09/pms-office-silent-after-apparent-reference-to-environment-bill-that-doesnt-exist).
+
+The article goes on, “values and goals need to change across governments”. I couldn’t agree more. But “needs” is another “must”. It implies necessity, but in the absence of power, it's really just an “ought” in boots. Values need to change: but decades of experience shows us they *won’t* change. Is there any reason to think that this time it will be any different?
+
+More expert advice from the article:
+
+> Josef Settele, an Ipbes co-chair and entomologist at the Helmholtz Centre for Environmental Research in Germany, said: “The situation is tricky and difficult but I would never give up. The report shows there is a way out. I believe we can still bend the curve. People shouldn’t panic, but they should begin drastic change. Business as usual with small adjustments won’t be enough.”
+
+By now, we’re used to the language: “I believe”; “people shouldn’t”; “should begin drastic change”; “won’t be enough”.
+
+“I would never give up” is a specially revealing turn of phrase. No matter what the facts, not matter what the reality, he would never give up; or so at least he says. What we will actually do in the uttermost of need is hard to say, hidden even to our innermost soul. But a realist would say, “I shall have hope so long as there are grounds for hope, and when hope is gone, I will prepare for what is to come.” For surely we can agree that in this world, there are things that we cannot change. When “hope” is an absolute virtue, to speak of reality is a sin. The activists become as priests, intoning a sacred doctrine whose persuasive power stems not from evidence, but from authority and the sheer constancy of repetition.
+
+The facts are hard, huge, weighing down like a mountain in the sky. Next to that is the ritual incantation of the need for hope. Since this is mere positive thinking, there is no need for facts to back it up. It’s great poetry—the power of sheer faith, the Davids of the world righteously standing up to the Goliath of death—but I just don’t believe it any more. Any incantation of the need for change that does not acknowledge the reality of how hard and unlikely it is; that does not include facts on how change has occurred in the past; that does not deal the very real presence of massive, powerful forces that will combat any change at all; to me, these are just empty words.
+
+I’m not meaning to criticise the Guardian or news media in general here. The Guardian has done a great job of climate reporting. It’s just a convenient source for the kind of language that is routinely employed by journalists, activists, scientists, and politicians. We are facing a crisis at which our beliefs and our language quail. “Crisis”, “emergency”, “collapse”; none of these are strong enough. How are we to speak of the coming times when our language was forged in plenty?
+
+Religions take a longer view and have a word at the ready: apocalypse. All those facts that are listed in the reports, they are real. They’re not just numbers, not just ideas. They depict the fabric of our world as it unravels before our eyes. Look around you: this is what apocalypse looks like. It doesn’t come all at once. For the people of Puerto Rico or Mozambique it is the lived reality. For the lucky ones such as myself, it is mere rumours and fears. But it is coming, and if anything is to save us, it will not be the potted incantations of positive thinking mantras.
