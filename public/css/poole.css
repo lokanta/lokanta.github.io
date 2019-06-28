@@ -132,6 +132,10 @@ strong {
     background-color: #e5e5e5;
     text-align: center;
 }
+figcaption{
+  font-family: "source sans pro", sans-serif;
+  font-size: 0.8rem
+}
 
 /* Lists */
 ul, ol, dl {
