@@ -5,6 +5,6 @@ title: Writings
 
 ## Bhante Sujato
 
-- [The Other Man](https://lokanta.github.io/the_other_man)
+- [The Other Chris](https://lokanta.github.io/the_other_chris)
 
 ## Bhante Akaliko
