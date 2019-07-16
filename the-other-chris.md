@@ -1,4 +1,4 @@
-# The Other Man
+# The Other Chris
 
 Just like the time before, and the time before that: he couldn’t take another step. Then he did. The next step was just too impossible, the deadly weariness in every pore, the overwhelming longing to just sink down and rest. But he did it anyway. And step after step, each one an Everest or a prize-fight, he inched forward through the dust.
 
