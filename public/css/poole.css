@@ -149,7 +149,18 @@ dt {
 dd {
   margin-bottom: .5rem;
 }
-
+ul.post-list{
+  list-style-type: none;
+  padding-left: 0;
+}
+.post-list li {
+  margin: 0.5rem 0;
+  padding: 0.5rem 0
+}
+.post-list a{
+  text-decoration: none;
+}
+  
 /* Misc */
 hr {
   position: relative;
