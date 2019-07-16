@@ -160,12 +160,12 @@ ul.post-list{
   text-decoration: none;
       display: inline-block;
     padding: 0.2rem 0.5rem;
+      vertical-align: middle;
 }
 .post-list a:hover:after {
     content: " 👉";
   margin-left:1rem;
   color: #f4bf75;
-  vertical-align: middle
 }
   
 /* Misc */
