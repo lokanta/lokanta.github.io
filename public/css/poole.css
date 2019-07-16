@@ -165,7 +165,7 @@ ul.post-list{
 .post-list a:hover:after {
     content: " 👉";
   margin-left:1rem;
-  color: #f4bf75;
+  color: #fffff;
 }
   
 /* Misc */
