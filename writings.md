@@ -3,7 +3,7 @@ layout: page
 title: Writings
 ---
 
-<ul>
+<ul class="post-list">
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
