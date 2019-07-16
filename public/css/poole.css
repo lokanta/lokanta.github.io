@@ -187,7 +187,16 @@ abbr[title] {
   cursor: help;
   border-bottom: 1px dotted #e5e5e5;
 }
-
+summary{
+  font-weight:bold
+}
+details iframe {
+    position: absolute;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    padding: 1rem;
+    background-color: white;
+    border-radius: 4px;
+}
 /* Code */
 code,
 pre {
