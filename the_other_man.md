@@ -1,0 +1,57 @@
+# The Other Man
+
+Just like the time before, and the time before that: he couldn’t take another step. Then he did. The next step was just too impossible, the deadly weariness in every pore, the overwhelming longing to just sink down and rest. But he did it anyway. And step after step, each one an Everest or a prize-fight, he inched forward through the dust.
+
+The heat was just incredible. And the dust-storm raged like a hurricane from hell. The heat and the abrasion and the gusting, he felt like his skin was being blasted off him.
+
+He could only see a few meters ahead. It was all a swirling mass of greyish-orange. From the heat, and from the dim light, he knew it was daytime. And he knew he had to find some shelter after his last was flooded. And soon. Like, real soon. He wouldn’t last the hour.
+
+He felt like a zombie, like the heat and the thirst and the hunger and the exhaustion had stripped away his life and humanity. He couldn’t think, couldn’t remember, couldn’t connect with any spark of his former self. He used to be a doctor, working for twenty-two years in the same clinic. His patients loved him. They came to his clinic, a simple place which might politely be described as “homely”. They came from all kinds of backgrounds, with all kinds of stories. He listened well, found translators when he needed, learned the difference between physical and emotional needs, and did his best. Sometimes, he had to admit, he preferred the cold comfort of his computer, the certainty and predictability of filling in forms. But mostly he liked his patients, and they liked him.
+
+Then the world ended.
+
+He thought he could be of some use, he thought he could save some people. But they just kept dying. Of hunger, of thirst, of fire, of flood, disease, violence. Over the years, he thought less of being a doctor, and more of just getting by for one more day. He had been with people, with communities and groups, but one way or another they had all fallen apart. For the last couple of years he’d been alone. And lonely.
+
+And a storm had come, greater than ever before, washing over his little home, right out of the blue. He’d almost drowned. Almost.
+
+Now he was barely walking. Stumbling to make one more step.
+
+But then … what was it? A shape, looming, like a man. A few metres away, no more. Then it vanished. He—he vanished. Looking, he forgot to stand; he didn’t have the energy for both. So he fell. But a strong pair of hands caught him and held him fast.
+
+***
+
+He woke, and the wind had gone, and the heat had receded.
+
+“Water,” he croaked, and the man brought him water. He lifted him up a little, and held the cup gently at his lips, tipping it in.
+
+“Here, lie down,” he said, “don’t take too much at once.” And he laid the helpless man down. And as he drifted back into sleep, he tenderly cleaned his wounds with water and cloth, and anointed his raw skin with soft oil.
+
+***
+
+Again he woke, this time with a measure of energy. The air was clear, and he could see the man, huddled over a fire, cooking something. The man got him up and said, “Here, you need to eat.” He chewed, each bite painful. But the food wasn’t bad; somehow the other man had found some tinned meat.
+
+They sat and ate and looked at the fire.
+
+“I’m Chris,” said the former doctor.
+
+“Shit, me too!” said the other. “The last two men, and we’ve got the same bloody name. And some people say God has no sense of humor. Said.”
+
+“My place was flooded. A tsunami, I guess.”
+
+“Yeah, that was a mother of a storm. I was caught out in the wind, just getting back to my cave when I ran into you.”
+
+Dr. Chris looked around for the first time. It was a spacious cave, receding into the sandstone. The floor was soft, white-gold sand. The opening, unusual for this area, was narrow, so you could get good shelter. All around was the furniture of survival: tarps, tins, some rough shelves. The more he looked, the more impressed he was. There were tools, some wood, pots and pans. It looked like this guy had managed to keep it together pretty well.
+
+Other Chris put out his hand, took the now empty dish. They were full, at least as full as you could be these days. He took them over to one side, and Dr. Chris noticed, for the first time, that there was a live spring of water here. Still dripping! Other Chris washed the dishes with a little water and stacked them neatly.
+
+“You can stay here,” he said. “I’ve been alone a while now, and it’s not getting any easier. Can you work?”
+
+“Yeah I can work.”
+
+“Good.”
+
+There wasn’t much that needed saying. Dr. Chris allowed himself to imagine that this might work out. Maybe together they could get by for a while.
+
+Other Chris looked outside. It was a new day, looked like, the dawn just fresh. “I’ll need to get out and look for some tucker. You stay and rest up some more, there’s no hurry. Who knows what today will bring, huh? Could be a beauty, could be we turn the corner. Gotta have hope, it can’t stay bad forever. I mean, we all know, the climate’s always been changing, right?”
+
+He looked back at Dr. Chris, pretend casual, but he couldn't hide the sudden scrutiny in his eyes. It took a moment to register; but when it did, Dr. Chris felt his veins turn to ice. Here he was: weak, helpless, trapped in a cave at the end of the world with a fucking denialist.
