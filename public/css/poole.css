@@ -181,6 +181,8 @@ hr {
   margin: 1.5rem 0;
   border: 0;
   border-bottom: 1px solid #ddd;
+  overflow:visible;
+  width: 60%;
 }
 hr:after{
   content: "❦";
