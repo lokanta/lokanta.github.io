@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Interview with Bhante Sujato
+author: Bhantes Sujato & Akaliko
+blurb: Discussing the Monastery at  the End of the World as well as, well, the actual end of the world.
 ---
 
 
