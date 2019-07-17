@@ -11,7 +11,7 @@ title: Writings
   <dt>{{ post.title }}</dt>
   <dd>
     <span class="author">{{ post.author }}</span>
-    <span class="date">{{ post.date }}</span>
+    <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
     <span class="blurb">{{ post.blurb }}</span>
   </dd>
     </a>
