@@ -145,15 +145,8 @@ dd {
 
 .post-list a{
   text-decoration: none;
-      display: inline-block;
-    padding: 0.2rem 0.5rem;
-      vertical-align: middle;
 }
-.post-list a:hover:after {
-    content: " 👉";
-  margin-left:1rem;
-  color: white;
-}
+
 .author {
   color: #9a9a9a;
   font-style: italic;
