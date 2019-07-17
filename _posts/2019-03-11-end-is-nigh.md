@@ -2,7 +2,7 @@
 layout: post
 title: THE END IS NIGH!!!
 author: Bhante Akaliko
-blurb: While we might not think of Buddhism as an apolcalyptic religion, there are a number of Suttas that speak of massive global climate breakdown. Now we see the future he prophesied becoming our present.
+blurb: While we might not think of Buddhism as an apocalyptic religion, there are a number of Suttas that speak of massive global climate breakdown. Now we see the future the Buddha prophesied becoming our present.
 ---
 
 ![googled the end of the world was not disappointed. giant cat in the sky](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/catcatcat.jpg)
