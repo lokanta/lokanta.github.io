@@ -16,12 +16,14 @@ title: Writings
 
  <dl class="post-list">
     {% for post in site.posts %}
-  <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
+  <a href="{{ post.url }}">
+  <dt>{{ post.title }}</dt>
   <dd>
     <span class="author">{{ post.author }}</span>
     <span class="date">{{ post.date }}</span>
-        <span class="blurb"{{ post.blurb }}></span>
+    <span class="blurb">{{ post.blurb }}></span>
   </dd>
+    </a>
     {% endfor %}
 </dl> 
 
