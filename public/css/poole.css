@@ -164,6 +164,8 @@ dt {
   margin: 0 1rem;
   font-style:normal;
   color:#ac4142;
+  vertical-align: middle;
+  line-height: 1;
 }
   .post-blurb{
     display:block;
