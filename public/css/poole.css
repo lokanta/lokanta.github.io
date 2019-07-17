@@ -156,9 +156,12 @@ dd {
 
 .post-date, .post-author{
   display:inline-block;
-  margin-right: 2rem;
   color: #9a9a9a;
   font-style: italic;
+}
+.post-author:after{
+  content: "⚫";
+  margin: 0 1rem;
 }
   .post-blurb{
     display:block;
