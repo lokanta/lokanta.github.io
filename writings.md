@@ -12,7 +12,7 @@ title: Writings
   <dd>
     <span class="author">{{ post.author }}</span>
     <span class="date">{{ post.date }}</span>
-    <span class="blurb">{{ post.blurb }}></span>
+    <span class="blurb">{{ post.blurb }}</span>
   </dd>
     </a>
     {% endfor %}
