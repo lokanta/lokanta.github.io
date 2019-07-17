@@ -148,8 +148,8 @@ dd {
 .post-list a{
    display: block;
   text-decoration: none;
-  margin: -0.5rem, -1rem;
-  padding: 0.5rem, 1rem
+  margin: -0.5rem -1rem;
+  padding: 0.5rem 1rem
 }
 .post-list a:hover{
   background-color: #eee;
@@ -165,6 +165,8 @@ dd {
 .post-author:after{
   content: "⬤";
   margin: 0 1rem;
+  font-style:normal;
+  font-size: 0.8rem;
 }
   .post-blurb{
     display:block;
