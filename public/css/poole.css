@@ -119,11 +119,6 @@ p {
 strong {
   color: #303030;
 }
-.author {
-  color: #9a9a9a;
-  font-style: italic;
-}
-
 .preamble{
   padding: 1em;
     font-style: italic;
@@ -147,13 +142,7 @@ dt {
 dd {
   margin-bottom: .5rem;
 }
-ul.post-list{
-  list-style-type: none;
-  padding-left: 0;
-}
-.post-list li {
-  margin: 0.5rem 0;
-}
+
 .post-list a{
   text-decoration: none;
       display: inline-block;
@@ -165,7 +154,19 @@ ul.post-list{
   margin-left:1rem;
   color: white;
 }
-  
+.author {
+  color: #9a9a9a;
+  font-style: italic;
+}
+.post-list .date, .post-list .author{
+  display:inline-block;
+  color: #9a9a9a;
+  font-style: italic;
+  margin-right: 2rem
+}
+  .post-list .blurb{
+    display:block;
+}
 /* Misc */
 hr {
   position: relative;
