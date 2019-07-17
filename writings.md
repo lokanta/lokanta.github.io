@@ -10,9 +10,9 @@ title: Writings
   <a href="{{ post.url }}">
   <dt>{{ post.title }}</dt>
   <dd>
-    <span class="author">{{ post.author }}</span>
-    <span class="date">{{ post.date | date: "%-d %B %Y" }}</span>
-    <span class="blurb">{{ post.blurb }}</span>
+    <span class="post-author">{{ post.author }}</span>
+    <span class="post-date">{{ post.date | date: "%-d %B %Y" }}</span>
+    <span class="post-blurb">{{ post.blurb }}</span>
   </dd>
     </a>
     {% endfor %}
