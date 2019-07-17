@@ -197,6 +197,9 @@ details iframe {
     background-color: white;
     border-radius: 4px;
 }
+.home-page-section{
+  margin: 0 0 4rem 0;
+}
 /* Code */
 code,
 pre {
