@@ -142,7 +142,7 @@ dt {
 dd {
   margin-bottom: .5rem;
 }
-dl.post-list{
+.post-list dd{
   margin-left: 0
 }
 .post-list a{
@@ -151,7 +151,7 @@ dl.post-list{
 .post-list a:hover{
   background-color: #eee;
   border-radius: 5px;
-  
+  color: blue!important
 }
 .author {
   color: #9a9a9a;
