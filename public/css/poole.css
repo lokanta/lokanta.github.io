@@ -179,11 +179,11 @@ div.post .post-date, div.post .post-author{
 hr {
   position: relative;
   display:block;
-  margin: 1rem auto 2rem;
+  margin: 1.5rem auto 2rem;
   border: 0;
   border-bottom: 1px solid #ddd;
   overflow:visible;
-  width: 60%;
+  width: 75%;
 }
 hr:after{
   content: "❦";
