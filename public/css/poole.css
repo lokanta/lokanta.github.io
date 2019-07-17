@@ -178,7 +178,8 @@ div.post .post-date, div.post .post-author{
 /* Misc */
 hr {
   position: relative;
-  margin: 1.5rem 0;
+  display:block;
+  margin: 1rem auto 2rem;
   border: 0;
   border-bottom: 1px solid #ddd;
   overflow:visible;
