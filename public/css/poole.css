@@ -179,6 +179,7 @@ div.post .post-date, div.post .post-author{
 hr {
   position: relative;
   margin: 1.5rem 0;
+  border: 0;
   border-bottom: 1px solid #ddd;
 }
 hr:after{
