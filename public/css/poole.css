@@ -199,8 +199,17 @@ details iframe {
 }
 .home-page-section{
   margin: 0 0 2rem 0;
-  padding: 0 0 2rem 0;
+  padding: 0 0 0rem 0;
   border-bottom: 1px solid #eee;
+}
+.home-page-section:after{
+  content: "❦";
+  text-align:center;
+  display:block;
+  margin-bottom:-0.7rem;
+  background-color:white;
+  width: 3rem;
+    color: #ac4142
 }
 /* Code */
 code,
