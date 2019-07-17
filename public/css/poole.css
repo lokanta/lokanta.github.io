@@ -138,6 +138,7 @@ ul, ol, dl {
 
 dt {
   font-weight: bold;
+  font-size: 1.25rem;
 }
 .post-list dd{
   margin-left: 0
@@ -160,8 +161,8 @@ dt {
   font-style: italic;
 }
 .post-author:after{
-  content: "•";
-  margin: 0 1rem;
+  content: " •";
+  margin: 0 0.5rem;
   font-style:normal;
   color:#ac4142;
   vertical-align: middle;
