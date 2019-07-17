@@ -9,6 +9,7 @@ title: Writings
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      <b>{{ post.author }}</b>
     </li>
   {% endfor %}
 </ul>
