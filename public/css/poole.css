@@ -159,10 +159,13 @@ dd {
   margin-right: 2rem;
   color: #9a9a9a;
   font-style: italic;
-  
 }
   .post-blurb{
     display:block;
+}
+div.post .post-date, div.post .post-author{
+    margin-top: -.5rem;
+  margin-bottom: 1rem;
 }
 /* Misc */
 hr {
