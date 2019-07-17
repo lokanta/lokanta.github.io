@@ -14,3 +14,14 @@ title: Writings
   {% endfor %}
 </ul>
 
+ <dl class="post-list">
+    {% for post in site.posts %}
+  <dt><a href="{{ post.url }}">{{ post.title }}</a></dt>
+  <dd>
+    <span class="author">{{ post.author }}</span>
+    <span class="date">{{ post.date }}</span>
+        <span class="blurb"{{ post.blurb }}></span>
+  </dd>
+    {% endfor %}
+</dl> 
+
