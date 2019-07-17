@@ -125,8 +125,9 @@ strong {
 .preamble{
   padding: 1em;
     font-style: italic;
-    background-color: #e5e5e5;
+    background-color: #efefef;
     text-align: center;
+  border-radius: 5px;
 }
 figcaption{
   font-family: "source sans pro", sans-serif;
