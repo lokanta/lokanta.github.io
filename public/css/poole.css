@@ -177,6 +177,7 @@ dt {
 }
 div.post .post-date, div.post .post-author{
   margin-bottom: 1rem;
+  font-style: normal;
 }
 /* Misc */
 hr {
