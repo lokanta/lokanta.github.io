@@ -150,9 +150,9 @@ dt {
   padding: 0.5rem 1rem
 }
 .post-list a:hover{
-  background-color: #eee;
+  background-color: #efefef;
   border-radius: 5px;
-
+  color:inherit;
 }
 
 .post-date, .post-author{
