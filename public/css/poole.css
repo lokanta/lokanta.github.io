@@ -146,12 +146,15 @@ dd {
   margin-left: 0
 }
 .post-list a{
+   display: block;
   text-decoration: none;
+  margin: -0.5rem, -1rem;
+  padding: 0.5rem, 1rem
 }
 .post-list a:hover{
   background-color: #eee;
   border-radius: 5px;
-  color: blue!important
+
 }
 
 .post-date, .post-author{
@@ -160,7 +163,7 @@ dd {
   font-style: italic;
 }
 .post-author:after{
-  content: "⚫";
+  content: "⬤";
   margin: 0 1rem;
 }
   .post-blurb{
