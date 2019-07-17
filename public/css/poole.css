@@ -142,7 +142,7 @@ dt {
 dd {
   margin-bottom: .5rem;
 }
-.post-list dl{
+dl.post-list{
   margin-left: 0
 }
 .post-list a{
