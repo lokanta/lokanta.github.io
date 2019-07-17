@@ -1,14 +1,11 @@
 ---
 layout: post
 title: A Buddhist Guide to “Surviving” the Apocalypse
+author: Bhante Akaliko
+blurb: Practical advice from the Suttas on how to deal with a crisis as vast as the global climate elergency.
 ---
 
-<span class="author">Akāliko Bhikkhu</span>
-
 ### _I saw a huge mountain that reached the clouds. And it was coming this way, crushing all creatures... Should such a dire threat arise... what would you do?”_   [(SN 3.25)](https://suttacentral.net/sn3.25)
-
-
- 
 
 ![people film end of the world on phones as asteroids fly through sky](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/end%20of%20the%20world%20meme%20(1).jpg) 
 
@@ -43,6 +40,7 @@ The Buddha does not immediately praise the king for his response, however, and i
 This is our real emergency, our true predicament, the slow unfolding catastrophe of old age, sickness, and death. Yet, like King Pasenadi, we are so often distracted by other activities in our life that we forget that these big things will inevitably happen to us. Even when reminded of this certainty, we don't want to think about it, we turn away and shut our eyes. It is for this reason that the Buddha used such a striking apocalyptic scenario; to break apart the layers of self-deception, cutting through our usual frivolous distractions, to issue an urgent reminder.
  
 Seeing the futility of all his power, wealth and status in the face of old age sickness and death, in answer to the Buddha's question, the king repeats the same response he made before:
+
 >“Sir, what else can I do but practice the teachings, practice morality, doing skillful and good actions?” 
 >
 >*Adhivattamāne ca me, bhante, jarāmaraṇe kimassa karaṇīyaṃ aññatra dhammacariyāyasamacariyāya kusalakiriyāya puññakiriyāyā”ti?*
