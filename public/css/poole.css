@@ -148,7 +148,11 @@ dd {
 .post-list a{
   text-decoration: none;
 }
-
+.post-list a:hover{
+  background-color: #eee;
+  border-radius: 5px;
+  
+}
 .author {
   color: #9a9a9a;
   font-style: italic;
