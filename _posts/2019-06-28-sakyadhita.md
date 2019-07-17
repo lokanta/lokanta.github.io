@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The serpent Gurrangatch and the hunter Mirragan
+author: Bhante Sujato
+blurb: This essay was presented by Bhante Sujato at a plenary session of the Sakyadhita 2019 conference in Leura, NSW. Global warming is an unprecedented threat to the survival of our civilization and culture, indeed our very lives. The aboriginal myth of Gurrangatch and Mirragan tells of a time when the land of the Blue Mountains was shaped in the struggle for life, a struggle marked by both passion and restraint. While the future has never been more uncertain, our wisdom traditions offer us ways of talking about and responding to change as conscious individuals able to reflect on and choose our own responses.
 ---
-
-<span class="author">Bhante Sujato</span>
 
 <p class="preamble">This essay was presented by Bhante Sujato at a plenary session of the Sakyadhita 2019 conference in Leura, NSW. Global warming is an unprecedented threat to the survival of our civilization and culture, indeed our very lives. The aboriginal myth of Gurrangatch and Mirragan tells of a time when the land of the Blue Mountains was shaped in the struggle for life, a struggle marked by both passion and restraint. While the future has never been more uncertain, our wisdom traditions offer us ways of talking about and responding to change as conscious individuals able to reflect on and choose our own responses.</p>
 
