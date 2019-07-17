@@ -173,7 +173,7 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid #eee;
+  border-top: 1px solid #ddd;
   border-bottom: 1px solid #fff;
 }
 
@@ -199,7 +199,7 @@ details iframe {
 }
 .home-page-section{
   margin: 0 0 2rem 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #ddd;
 }
 .home-page-section:after{
   content: "❦";
