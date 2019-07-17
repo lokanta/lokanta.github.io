@@ -142,7 +142,9 @@ dt {
 dd {
   margin-bottom: .5rem;
 }
-
+.post-list dl{
+  margin-left: 0
+}
 .post-list a{
   text-decoration: none;
 }
@@ -153,9 +155,12 @@ dd {
 }
 .post-list .date, .post-list .author{
   display:inline-block;
-  color: #9a9a9a;
-  font-style: italic;
-  margin-right: 2rem
+  margin-right: 2rem;
+  
+}
+.post-list .date{
+  font-family: "source sans pro", sans-serif;
+    color: #9a9a9a;
 }
   .post-list .blurb{
     display:block;
