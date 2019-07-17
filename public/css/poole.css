@@ -432,9 +432,21 @@ tbody tr:nth-child(odd) th {
   padding-left: 0;
   list-style: none;
 }
+.related-posts li a{
+  text-decoration:none;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+.related-posts li {
+      margin-left: -1rem;
+      color: #ac4142;
+}
 .related-posts li small {
   font-size: 75%;
-  color: #999;
+  color: #9a9a9a;
+  display: inline-block;
+  margin-left: 1rem
 }
 .related-posts li a:hover {
   color: #268bd2;
