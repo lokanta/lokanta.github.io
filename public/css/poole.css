@@ -139,16 +139,13 @@ ul, ol, dl {
 dt {
   font-weight: bold;
 }
-dd {
-  margin-bottom: .5rem;
-}
 .post-list dd{
   margin-left: 0
 }
 .post-list a{
    display: block;
   text-decoration: none;
-  margin: -0.5rem -1rem;
+  margin: 1rem -1rem;
   padding: 0.5rem 1rem
 }
 .post-list a:hover{
@@ -163,10 +160,10 @@ dd {
   font-style: italic;
 }
 .post-author:after{
-  content: "⬤";
+  content: "•";
   margin: 0 1rem;
   font-style:normal;
-  font-size: 0.8rem;
+  color:#ac4142;
 }
   .post-blurb{
     display:block;
