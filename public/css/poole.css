@@ -133,7 +133,12 @@ figcaption{
   font-family: "source sans pro", sans-serif;
   font-size: 0.8rem
 }
-
+figure{
+  margin: 0 0 1rem;
+}
+figure img{
+      margin: 0 0 0.5rem;
+}
 /* Lists */
 ul, ol, dl {
   margin-top: 0;
