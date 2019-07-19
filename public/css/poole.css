@@ -226,7 +226,7 @@ details iframe {
 }
 
 button.button-middle{
-     display: inline-block;
+     display: block;
     margin: 0 auto 1rem;
     padding: 0.5rem 1rem;
     border-radius: 5px;
