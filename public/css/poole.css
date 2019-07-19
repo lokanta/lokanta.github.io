@@ -224,6 +224,21 @@ details iframe {
     background-color: white;
     border-radius: 5px;
 }
+
+button.button-middle{
+     display: inline-block;
+    margin: 0 auto 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-family: "EB Garamond";
+    font-weight: 500;
+    color: white;
+    background-color: #ac4142;
+    border: 0;
+    cursor: pointer;
+}
 /* Code */
 code,
 pre {
