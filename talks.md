@@ -33,13 +33,13 @@ For more of Bhante’s New York talks, visit the Buddhist Insights [video page](
 
 ## Bhante Akāliko ##
 
-* [Overcoming Anger and Hatred](https://www.youtube.com/watch?v=bguMpoum8Qk&t=17s) 
+* *[Overcoming Anger and Hatred](https://www.youtube.com/watch?v=bguMpoum8Qk&t=17s)*<br>
 Bhante Akāliko describes the drawbacks of the hindrance of hatred and provides some strategies to deal with it. 
 
-* [Gratitude and Generosity](https://www.youtube.com/watch?v=U53wH04edfo&t=1165s) 
+* *[Gratitude and Generosity](https://www.youtube.com/watch?v=U53wH04edfo&t=1165s)*<br>
 By recollecting our generosity we brighten the mind and bring joy to our heart. Akāliko Bhikkhu discusses the importance of gratitude, giving and kindness to create happiness in our life
 
-* [Spiritual Friendship](https://www.youtube.com/watch?v=GrZASbKSpjw&t=2147s) 
+* *[Spiritual Friendship](https://www.youtube.com/watch?v=GrZASbKSpjw&t=2147s)*<br>
 Bhante Akāliko talks about the importance of spiritual friendship and outlines the Six Principles of Cordiality.
 
 
