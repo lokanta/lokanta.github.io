@@ -19,10 +19,10 @@ Bhante Sujato gives meditation advice on the first day of a five day retreat at 
 Responding to questions from retreatants,Bhante Sujato discusses meditation and the nature of the mind.
 
 * *[Death Contemplation](https://www.facebook.com/buddhistinsights/videos/767005073741131/)*<br>
-A meditation contemplating the theme of death followed by questions and answers.
+A meditation contemplating the theme of death, followed by questions and answers.
 
 * *[Introduction to Metta Meditation](https://www.facebook.com/buddhistinsights/videos/409374479759947/)*<br>
-Bhante Sujato describes how we can develop metta followed by a meditation.
+Bhante Sujato describes why we need metta and how to develop it, followed, by a meditation.
 
 
 For more of Bhante’s New York talks, visit the Buddhist Insights [video page](https://www.facebook.com/search/videos/?q=sujato&epa=SERP_TAB).
@@ -37,7 +37,7 @@ For more of Bhante’s New York talks, visit the Buddhist Insights [video page](
 Bhante Akāliko describes the drawbacks of the hindrance of hatred and provides some strategies to deal with it. 
 
 * *[Gratitude and Generosity](https://www.youtube.com/watch?v=U53wH04edfo&t=1165s)*<br>
-By recollecting our generosity we brighten the mind and bring joy to our heart. Akāliko Bhikkhu discusses the importance of gratitude, giving and kindness to create happiness in our life
+By recollecting our generosity we brighten the mind and bring joy to our heart. Akāliko Bhikkhu discusses the importance of gratitude, giving and kindness to create happiness in our life.
 
 * *[Spiritual Friendship](https://www.youtube.com/watch?v=GrZASbKSpjw&t=2147s)*<br>
 Bhante Akāliko talks about the importance of spiritual friendship and outlines the Six Principles of Cordiality.
