@@ -352,8 +352,8 @@ blockquote {
   margin: 1rem 0 0;
   border-left: .25rem solid #e5e5e5;
 }
-blockquote p:last-child {
-  margin-bottom: 0;
+blockquote p:first-child {
+  margin-top: 0;
 }
 .epigraph{
 padding: 1.777em;
