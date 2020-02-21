@@ -184,6 +184,9 @@ div.post .post-date, div.post .post-author{
   margin-bottom: 1rem;
   font-style: normal;
 }
+li b{
+  font-weight: 600
+}
 /* Misc */
 hr {
   position: relative;
@@ -203,7 +206,12 @@ hr:after{
   color: #ac4142;
   margin: 0 auto -0.7rem
 }
-
+#toc li{
+  font-weight: 500
+}
+.toc-heading{
+  margin-bottom: 1em;
+}
 abbr {
   font-size: 85%;
   font-weight: bold;
