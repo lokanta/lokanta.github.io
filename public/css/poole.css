@@ -355,10 +355,11 @@ blockquote {
 blockquote p:last-child {
   margin-bottom: 0;
 }
-blockquote .epigraph{
-	padding: 2em;
-	font-style: italic;
-	text-align: center;
+.epigraph{
+padding: 1.777em;
+    font-style: italic;
+    text-align: center;
+    border-left: none;
 }
 @media (min-width: 30em) {
   blockquote {
