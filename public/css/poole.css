@@ -216,6 +216,9 @@ nav#toc{
 #toc li a{
   text-decoration: none
 }
+#toc ul ul li{
+	margin-top: 0.333em
+}
 .toc-heading{
   margin-bottom: 1em;
 }
