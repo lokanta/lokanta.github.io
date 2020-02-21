@@ -144,7 +144,9 @@ ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
 }
-
+.loose-list li{
+  margin-top: 1em
+}
 dt {
   font-size: 1.25rem;
   font-weight: 500
