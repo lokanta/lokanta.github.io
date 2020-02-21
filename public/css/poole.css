@@ -212,8 +212,9 @@ hr:after{
   margin: 0 auto -0.7rem
 }
 nav#toc{
-  padding: 2.369em;
-	border: 1px solid #9a9a9a;;
+  padding: 1.777rem 2.369rem;
+border: 1px solid #9a9a9a;
+	margin-top: 1em
 }
 #toc li{
   font-weight: 500
@@ -221,7 +222,7 @@ nav#toc{
 #toc li a{
   text-decoration: none
 }
-#toc ul ul li{
+#toc li{
 	margin-top: 0.333em
 }
 .toc-heading{
