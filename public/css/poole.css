@@ -211,8 +211,21 @@ hr:after{
   color: #ac4142;
   margin: 0 auto -0.7rem
 }
+.math-thing{
+    display: block;
+    margin: 0.333rem auto;
+    text-align: center;
+    background-color: #ac4142;
+    width: 1em;
+    height: 1em;
+    border-radius: 50%;
+    color: white;
+    font-weight: bold;
+    line-height: 1;
+    font-size: 1.333rem;
+}
 nav#toc{
-  padding: 1.777rem 2.369rem;
+  padding: 1.333rem 1.777rem;
 border: 1px solid #9a9a9a;
 	margin-top: 1em
 }
