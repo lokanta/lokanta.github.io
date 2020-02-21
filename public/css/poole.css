@@ -238,6 +238,9 @@ border: 1px solid #9a9a9a;
 #toc li{
 	margin-top: 0.333em
 }
+#toc ul ul {
+	margin-top: 0
+}
 .toc-heading{
   margin-bottom: 1em;
 }
