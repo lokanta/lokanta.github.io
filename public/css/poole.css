@@ -221,7 +221,7 @@ hr:after{
     border-radius: 50%;
     color: white;
     font-weight: bold;
-    line-height: 1;
+    line-height: 0.9;
     font-size: 1.333rem;
 }
 nav#toc{
