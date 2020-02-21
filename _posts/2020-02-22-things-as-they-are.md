@@ -7,7 +7,8 @@ blurb: A Buddhist monk’s view of the climate emergency
 
 <p class="preamble"> A Buddhist monk’s view of the climate emergency.</p>
 
-<nav id="toc"><cite><em>Table of Contents</em></cite>
+<nav id="toc">
+<div class="toc-heading"><em>Table of Contents</em></div>
 <ul>
 <li data-level="2"><a href="#global-summary">Global summary</a>
 <ul>
