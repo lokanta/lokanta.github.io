@@ -87,43 +87,38 @@ a:focus {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
   font-weight: 500;
-  font-style:italic;
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
 }
-h1 {
-  font-size: 2rem;
-}
+
 h1.post-title{
   margin-bottom: 0
 }
+h1 {
+	font-size: 2.369rem;
+}
 h2 {
-  margin-top: 1rem;
-  font-size: 1.5rem;
+	font-size: 1.777rem;
 }
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.25rem;
+	font-size: 1.333rem;
 }
 h4, h5, h6 {
-  margin-top: 1rem;
   font-size: 1rem;
 }
 
 /* Body text */
-p {
-  margin-top: 0;
-  margin-bottom: 1rem;
+h1, h2, h3, h4, h5, h6, p {
+  margin-top: 1em;
 }
 
 strong {
   color: #303030;
 }
 .preamble{
-  padding: 1em;
+  padding: 1rem;
     font-style: italic;
     background-color: #efefef;
     text-align: center;
@@ -134,15 +129,14 @@ figcaption{
   font-size: 0.8rem
 }
 figure{
-  margin: 0 0 1rem;
+  margin: 1rem 0 0;
 }
 figure img{
       margin: 0 0 0.5rem;
 }
 /* Lists */
 ul, ol, dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
+  margin-top: 1em;
 }
 .loose-list li{
   margin-top: 1em
@@ -189,11 +183,15 @@ div.post .post-date, div.post .post-author{
 li b{
   font-weight: 600
 }
+li img{
+	display: block;
+	margin-top: 1em
+}
 /* Misc */
 hr {
   position: relative;
   display:block;
-  margin: 1.5rem auto 2rem;
+  margin: 2.369rem auto 1rem;
   border: 0;
   border-bottom: 1px solid #ddd;
   overflow:visible;
@@ -220,6 +218,10 @@ nav#toc{
 }
 .toc-heading{
   margin-bottom: 1em;
+}
+cite a {
+	text-decoration: none;
+	color: #ac4142;
 }
 abbr {
   font-size: 85%;
@@ -270,8 +272,8 @@ code {
 }
 pre {
   display: block;
-  margin-top: 0;
-  margin-bottom: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 0;
   padding: 1rem;
   font-size: .8rem;
   line-height: 1.4;
@@ -321,12 +323,17 @@ pre code {
 
 /* Quotes */
 blockquote {
-  padding: .5rem 0 .5rem 1rem;
-  margin: .8rem 0;
+  padding: 1rem 0 1rem 1rem;
+  margin: 1rem 0 0;
   border-left: .25rem solid #e5e5e5;
 }
 blockquote p:last-child {
   margin-bottom: 0;
+}
+blockquote .epigraph{
+	padding: 2em;
+	font-style: italic;
+	text-align: center;
 }
 @media (min-width: 30em) {
   blockquote {
@@ -337,7 +344,7 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
+  margin: 1rem 0 0;
   border-radius: 5px;
 }
 
@@ -348,7 +355,7 @@ img.half-right{
 }
 /* Tables */
 table {
-  margin-bottom: 1rem;
+  margin-top: 1rem;
   width: 100%;
   border: 1px solid #e5e5e5;
   border-collapse: collapse;
