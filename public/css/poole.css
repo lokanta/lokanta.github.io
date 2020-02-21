@@ -141,7 +141,7 @@ ul, ol, dl {
 .loose-list li{
   margin-top: 1em
 }
-.loose-list ul ol li{
+.loose-list ol li{
   margin-top: 0
 }
 dt {
