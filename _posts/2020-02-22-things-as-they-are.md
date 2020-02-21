@@ -262,7 +262,7 @@ blurb: A Buddhist monk’s view of the climate emergency
 <ul class="loose-list">
 <li><cite><a href="https://www.who.int/sustainable-development/AirPollution_Climate_Health_Factsheet.pdf">World Health Organization</a></cite>: <b>Air pollution, climate, and health.</b> The equation is simple:
 <ol>
-<li>An estimated 7 million people per year die from air pollution-related diseases. These include stroke and heart disease, respiratory illness and cancers. <br><span class="math-thing">+ </span</li>
+<li>An estimated 7 million people per year die from air pollution-related diseases. These include stroke and heart disease, respiratory illness and cancers. <br><span class="math-thing">+ </span></li>
 <li>Many health-harmful air pollutants also damage the climate. Fine particles of black carbon (soot) from diesel and biomass combustion and ground level ozone are leading examples. <br><span class="math-thing">=</span> </li>
 <li>Reducing air pollution would save lives and help slow the pace of near-term climate change.</li>
 </ol>
