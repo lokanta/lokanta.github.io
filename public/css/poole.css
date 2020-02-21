@@ -112,8 +112,8 @@ h4, h5, h6 {
 /* Body text */
 h1, h2, h3, h4, h5, h6, p {
   margin-top: 1em;
+	margin-bottom: 0
 }
-
 strong {
   color: #303030;
 }
@@ -141,6 +141,9 @@ ul, ol, dl {
 .loose-list li{
   margin-top: 1em
 }
+.loose-list ul ol li{
+  margin-top: 0
+}
 dt {
   font-size: 1.25rem;
   font-weight: 500
@@ -159,7 +162,9 @@ dt {
   border-radius: 5px;
   color:inherit;
 }
-
+iframe{
+		margin-top: 1em
+}
 .post-date, .post-author{
   display:inline-block;
   color: #9a9a9a;
