@@ -208,8 +208,15 @@ hr:after{
   color: #ac4142;
   margin: 0 auto -0.7rem
 }
+nav#toc{
+  padding: 2.369em;
+	border: 1px solid #9a9a9a;;
+}
 #toc li{
   font-weight: 500
+}
+#toc li a{
+  text-decoration: none
 }
 .toc-heading{
   margin-bottom: 1em;
