@@ -92,10 +92,6 @@ h1, h2, h3, h4, h5, h6 {
   color: #313131;
   text-rendering: optimizeLegibility;
 }
-
-h1.post-title{
-  margin-bottom: 0
-}
 h1 {
 	font-size: 2.369rem;
 }
@@ -183,7 +179,6 @@ iframe{
 }
 div.post .post-date, div.post .post-author{
   margin-bottom: 1rem;
-  font-style: normal;
 }
 li b{
   font-weight: 600
