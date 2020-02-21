@@ -547,8 +547,8 @@ blurb: A Buddhist monk’s view of the climate emergency
 <h3 id="child-slavery">Slavery</h3>
 <p>Slavery has been a scourge of mankind for millenia, and it is not obviously related to climate change. But the recent experience of the Rohingya has shown that when people are driven from their homes, they become far more vulnerable to human trafficking and slavers. Thus, even in the absence of total social breakdown, climate change will make slavery worse.</p>
 <ul class="loose-list">
-<li><a href="https://www.globalslaveryindex.org/2018/findings/global-findings/"><cite>
-Global Slavery Index</cite></a>: <b>Global Findings.</b> An estimated 40.3 million men, women, and children were victims of modern slavery on any given day in 2016.</li>
+<li><cite><a href="https://www.globalslaveryindex.org/2018/findings/global-findings/">
+Global Slavery Index</a></cite>: <b>Global Findings.</b> An estimated 40.3 million men, women, and children were victims of modern slavery on any given day in 2016.</li>
 <li><cite><a href="https://www.unodc.org/unodc/en/human-trafficking/global-report-on-trafficking-in-persons.html">UN</a></cite>: <b>UNODC report on human trafficking exposes modern form of slavery.</b> The most common form of human trafficking (79%) is sexual exploitation. The victims of sexual exploitation are predominantly women and girls. Almost 20% of all trafficking victims are children.</li>
 <li><cite><a href="https://www.cbc.ca/radio/asithappens/as-it-happens-tuesday-edition-1.5399491/tech-giants-sued-over-appalling-deaths-of-children-who-mine-their-cobalt-1.5399492">CBC.ca</a></cite>: <b>Tech giants sued over ‘appalling’ deaths of children who mine their cobalt.</b> Apple, Microsoft, Dell, Tesla and Google’s parent company, Alphabet are named in the lawsuit.</li>
 <li><cite><a href="https://www.insurancejournal.com/news/national/2018/10/24/505490.htm">Insurance Journal</a></cite>: <b>Court Says Nestle, Cargill Can Be Sued Over Child Labor Overseas.</b></li>
