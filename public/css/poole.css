@@ -264,9 +264,9 @@ details iframe {
     border-radius: 5px;
 }
 
-button.button-middle{
-     display: block;
-    margin: 0 auto 1rem;
+button.button-middle, p.button-middle{
+     display: table;
+    margin: 1rem auto 1rem;
     padding: 0.5rem 1rem;
     border-radius: 5px;
     text-transform: uppercase;
@@ -277,6 +277,7 @@ button.button-middle{
     background-color: #ac4142;
     border: 0;
     cursor: pointer;
+    text-align: center
 }
 /* Code */
 code,
@@ -419,7 +420,12 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
-
+.emergency-notice{
+	border: 3px solid #ac4142;
+	padding: 1rem;
+	font-size: 1.2rem;
+	background-color: #f4dedc
+}
 /*
  * Container
  *
