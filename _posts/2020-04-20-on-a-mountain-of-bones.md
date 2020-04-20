@@ -5,9 +5,9 @@ author: Bhante Akāliko
 blurb: The covid-19 pandemic presents us with an opportunity to see more deeply into the nature of our reality, especially to come to terms with the inescapable truths of old age, sickness and death.    
 ---
 
-##[Raṭṭhapāla] *“What do you think, great king? Can you get your friends and colleagues, relatives and family members to help: ‘Please, my dear friends and colleagues, relatives and family members, all of you here share my pain so that I may feel less pain.’ Or must you alone feel that pain?”*
-<br>##[King Koravya] *“I can’t get my friends to share my pain. Rather, I alone must feel it.”*
-<br>##[Raṭṭhapāla] *“This is what the Buddha was referring to when he said: ‘The world has no shelter and no protector.”* 
+##[Raṭṭhapāla] *“What do you think, great king? Can you get your friends and colleagues, relatives and family members to help: ‘Please, my dear friends and colleagues, relatives and family members, all of you here share my pain so that I may feel less pain.’ Or must you alone feel that pain?”*<br>
+##[King Koravya] *“I can’t get my friends to share my pain. Rather, I alone must feel it.”*<br>
+##[Raṭṭhapāla] *“This is what the Buddha was referring to when he said: ‘The world has no shelter and no protector.”* 
 [Raṭṭhapāla Sutta MN 82](https://suttacentral.net/mn82/en/sujato)
 <br>
 <br>
