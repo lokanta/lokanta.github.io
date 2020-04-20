@@ -5,7 +5,7 @@ author: Bhante Akāliko
 blurb: The covid-19 pandemic presents us with an opportunity to see more deeply into the nature of our reality, especially to come to terms with the inescapable truths of old age, sickness and death.    
 ---
 
-### *“This world is unstable, it is swept away... this world has no shelter and no protector.”
+### *“This world is unstable, it is swept away... this world has no shelter and no protector.”*
 [Raṭṭhapāla Sutta MN 82](https://suttacentral.net/mn82/en/sujato)
 
 ![melancholy painting of person with head on fire](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/head%20on%20fire%202.jpg)
