@@ -5,7 +5,7 @@ author: Bhante Akāliko
 blurb: The covid-19 pandemic presents us with an opportunity to see more deeply into the nature of our reality, especially to come to terms with the inescapable truths of old age, sickness and death.    
 ---
 
-###“This world is unstable, it is swept away... This world has no shelter and no protector.”
+### “This world is unstable, it is swept away... This world has no shelter and no protector.”
 [Raṭṭhapāla Sutta MN 82](https://suttacentral.net/mn82/en/sujato)
 
 ![melancholy painting of person with head on fire](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/head%20on%20fire%202.jpg)
@@ -13,14 +13,16 @@ blurb: The covid-19 pandemic presents us with an opportunity to see more deeply 
 ### Abnormally Normal
 There’s a pandemic going on. Currently, 165,257 people have died of covid-19, unconfirmed figures are thought to be much higher and many more will die yet. We stand on a mountain of bones. But yet, life goes on. We are self-isolating, sheltering in place, being socially distant. Maybe we feel a bit listless and lonely, rattling around our suburban houses, with nothing much to do. The dangers seem so far away, remaining unseen, a theoretical threat, a mere inconvenience. It’s easy to forget what the grim reality is like in the hospitals where this humanitarian disaster is playing out, over and over and over again. But if we allow ourselves, it doesn't take much to imagine a different scenario to the one we are currently experiencing in the comfort of our home. Real loneliness is dying all alone, without friends or family, in the ICU ward of a hospital. Or the loneliness of losing your partner and not being able to hold a funeral for them, or be held by loved ones as you grieve. Then there’s the loneliness of the health care workers; people will never understand the terrible, sad things they have experienced. And the loneliness of the grave diggers, who know all too well that this is how we will all end up, eventually. Who can protect us? Deep down we know the truth:*There is no shelter, or protector...*
 
-We hope that face masks and hand-washing will safeguard us from infection. But no oamount of Pesonal Protective Equipment can keep us free of illnesses forever. It is our nature to get sick. It is what happens to bodies. In the Raṭṭhapāla sutta, we meet the elderly but powerful King Koravya who is conversing with the determined young monk Raṭṭhapāla. The king mistakenly believes that his royal army of elephants, cavalry, chariots, and infantry will protect him, but Ven Raṭṭhapāla points out the king's vulnerablity is similar to a chronic illness, we alone must endure it. No-one can save us from getting sick.   
+We hope that face masks and hand-washing will safeguard us from infection. But no amount of Pesonal Protective Equipment can keep us free of illnesses forever. It is our nature to get sick. It is what happens to bodies. In the Raṭṭhapāla sutta, we meet the elderly but powerful King Koravya who is conversing with the determined young monk Raṭṭhapāla. The king mistakenly believes that his royal army of elephants, cavalry, chariots, and infantry will protect him, but Ven Raṭṭhapāla points out the king's vulnerablity is similar to a chronic illness, we alone must endure it. No-one can save us from getting sick.   
 
 >[Raṭṭhapāla] *“What do you think, great king? Can you get your friends and colleagues, relatives and family members to help: ‘Please, my dear friends and colleagues, relatives and family members, all of you here share my pain so that I may feel less pain.’ Or must you alone feel that pain?”*
+>
 >[King Koravya] *“I can’t get my friends to share my pain. Rather, I alone must feel it.”*
->[Raṭṭhapāla] *“This is what the Buddha was referring to when he said: ‘The world has no shelter and no protector.”*
+>
+>[Raṭṭhapāla] *“This is what the Buddha was referring to when he said: ‘The world has no shelter and no protector.”* <br>
 [Raṭṭhapāla Sutta MN 82](https://suttacentral.net/mn82/en/sujato)
 
-Things are not normal just now. And that’s okay. Isn’t it? We are doing our best to maintain our sense of normalcy. Everything can happen online! We can stay in touch. We will stay home and barely notice, it will be like a long weekend. We shall carry on, we shall adapt and we shall triumph! The human spirit will not be cowed by the Corona!!
+Protective gear, social distancing, not shaking hands; all this has become normal now. But things are not normal and that’s okay. Isn’t it? We are doing our best to maintain our sense of normalcy. Everything can happen online! We can stay in touch. We will stay home and barely notice, it will be like a long weekend. We shall carry on, we shall adapt and we shall triumph! The human spirit will not be cowed by the Corona!!
 
 Yet, looking at this kind of response—desperately pretending that everythings fine, making it feel ‘normal’, telling ourselves that it’s just a *little* bit different—maybe this reveals a big part of us that is not actually okay with situation un-normal, afterall. Nothing to see here! Sure, we can try to institute a sense of ordinariness amongst the uncertainty and keep up our familiar activities; we can work from home, move all our activities online, have zoom catch-ups with family, sing along in virtual choirs and watch theatre from our bedrooms. But in trying to recreate a sense of normalcy, perhaps we are missing an opportunity for some spiritual growth? 
 
