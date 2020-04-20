@@ -5,7 +5,7 @@ author: Bhante Akāliko
 blurb: The covid-19 pandemic presents us with an opportunity to see more deeply into the nature of our reality, especially to come to terms with the inescapable truths of old age, sickness and death.    
 ---
 
-### [Raṭṭhapāla] *“What do you think, great king? Can you get your friends and colleagues, relatives and family members to help: ‘Please, my dear friends and colleagues, relatives and family members, all of you here share my pain so that I may feel less pain.’ Or must you alone feel that pain?”*<br><br>[King Koravya] *“I can’t get my friends to share my pain. Rather, I alone must feel it.”*<br><br>[Raṭṭhapāla] *“This is what the Buddha was referring to when he said: ‘The world has no shelter and no protector.”* ###
+##[Raṭṭhapāla] *“What do you think, great king? Can you get your friends and colleagues, relatives and family members to help: ‘Please, my dear friends and colleagues, relatives and family members, all of you here share my pain so that I may feel less pain.’ Or must you alone feel that pain?”*<br>[King Koravya] *“I can’t get my friends to share my pain. Rather, I alone must feel it.”*<br>[Raṭṭhapāla] *“This is what the Buddha was referring to when he said: ‘The world has no shelter and no protector.”* ##
 [Raṭṭhapāla Sutta MN 82](https://suttacentral.net/mn82/en/sujato)
 <br>
 <br>
@@ -22,7 +22,7 @@ Yet, looking at this kind of response—desperately pretending that everythings 
 
 Afterall, is it really true that things are not normal? It does feel a bit unusual out there. People with face-masks crossing the road to avoid you on near-empty streets... Yes, something has certainly shifted. But what? Well… Maybe it’s that disease and death have recently stopped lurking in the shadowy corners of our minds and are now walking through our cities, stomping about in plain sight for all to see. We think this is not normal. But, actually, it is. What is ‘not normal’—the thing that has really changed— is that we have been suddenly compelled to take notice, forced to watch; the veil that usually covers the difficult truths of our human fragility has slipped, and suddenly we feel vulnerable and exposed. The human instinct is to hastily pull that veil back-up again, and mask the distressing truths. But maybe we shouldn't be in too much of a hurry; if we allow ourselves to glimpse these realities but all too quickly turn away, then we will deny ourselves a meaningful opportunity to learn something very profound about ourselves and what it means to be human. The desire to create normality and strive for business as usual is just like a fragile facade, doomed to collapse. Yet, here we are, convincing ourselves that if we can just adapt as swiftly as possible to embrace some different formats for all our activities, then the bogeyman won't become real enough to truly catch us, and we can carry on with delirious determination to fill up our lives once again with more of our usual distractions, and safe and untouched front the horrors of the pandemic. In truth,this is just all just smoke and mirrors; a tawdry, deceptive show. And deep down we know it. In order to maintain the illusion, we must collectively whisper to ourselves: *Pay no attention to the man behind the curtain!*
 <br>
-<br></br>
+<br>
 ![Still image from Wizard of Oz movie with quote "Pay no attention to the man behind the curtain!"](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/wizard-of-oz-dz-pay-no-attention-to-the-man-behind-the-curtain.jpg)
 <br>
 
@@ -41,7 +41,7 @@ The Buddha likened himself to a doctor, offering Dhamma as medicine. However, th
 
 Also, we should be cautious about using the powerful medicine of the Buddha’s teachings in the same way we use other activities and entertainments; merely to fill in the time and lessen the boredom of being stuck at home; casually flicking through Dhamma books but not actually reading, just skimming, not absorbing. Or, putting dhamma talk on in the background whilst cleaning the house, filling the air with the voice of another to distract us from their thoughts, or disguise the feeling of loneliness. Or, using meditation as a numbing spiritual balm, to just block everything out, to soothe and placate our feelings of unease or distress, to tune *out*, rather than tune *in* to what is really going on.
 <br>
-<br></br>
+<br>
 <img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/eliis%20abyss.jpg" alt="Cartoon by Ellis Rosen of child looking into abyss in living room, mother says 'it's just the abyss dear, try not to gaze into it'" width="600" height="500">
 <br></br>
 ### Dreading Death
