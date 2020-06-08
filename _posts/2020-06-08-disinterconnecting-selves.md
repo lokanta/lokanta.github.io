@@ -5,7 +5,7 @@ author: Bhante Akāliko
 blurb: In spiritual circles, people often talk about experiencing a feeling of being one with everything; existing in a state of interconnectedness with all living beings and the whole cosmos. Do such experiences reveal a truth that we are usually disconnected from or do they lead to wrong views? 
 ---
 
-### “I hope you’re living in harmony, appreciating each other, without quarrelling, blending like milk and water, and regarding each other with kindly eyes?”
+### *“I hope you’re living in harmony, appreciating each other, without quarrelling, blending like milk and water, and regarding each other with kindly eyes?”*
 [Shorter Discourse at Gosiṅga, MN31](https://suttacentral.net/mn31/en/sujato)
 
 ![Black and white painting by Cameron Gray showing someone who has lifted on part of their face and is holding it a mirror, the gap on their head is a cage with a writhing serpentine figure inside](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/cage_by_parablev-900x642.jpg)
@@ -20,7 +20,7 @@ At such moments, it is as if the barriers that usually keep me—a human—divid
 
 But this is just a trick of self view and says more about my underlying sense of ‘me’ than anything about nature itself. Usually, my sense of self is distinctly contained within myriad invented barriers and boundaries. The way we decide to participate in the experience of nature is often like an uninvited but curious observer, watching from the edges of the trees, still on the safety of the path; as if we are just visiting but yet remain separate somehow. After all, this is not our world; we belong instead to the human realm with all its shiny human things. However, this is just an illusion our mind has constructed. We have been conditioned to believe that humans belong outside of nature, or more precisely, above it: such is our conceit of superiority. This artificial separation causes us to forget that humans are very much a part of the natural landscape and that our ‘own’ human habitats are still a part of nature, too. Rats play amongst our garbage dumps, birds nest in our skyscrapers, figs sprout in our drainpipes. In the big picture, the natural world and the human world are very much interconnected; humans are entirely reliant on nature for survival, and increasingly, nature is reliant on humans for its protection, due to the ongoing destruction by our own kind. Mostly this goes on out of our sight, but sometimes happens right in front of us. If we look really hard at ourselves, we see that this destruction is also being done by us, by which I mean me and you.
 
-[!Photograph by Chris Jordon of dead seabird, decomposed body showing stomach is full of small pieces of plastic](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/bird%20plastic.jpg)
+![Photograph by Chris Jordon of dead seabird decomposed body showing stomach is full of small pieces of plastic](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/bird%20plastic.jpg)
 
 ### Dis/Connected to Our Shadows
 
@@ -28,7 +28,7 @@ It’s easy to paint nature as an idealised, romantic realm, as I did above, wit
  
 The covid-19 pandemic thrust a newfound awareness into view of our interconnected world, showing how a small outbreak in a faraway land could grow to affect the entire planet. Sickness and health are interconnected; sickness follows us around like a shadow. We quickly learnt how our own careless actions could lead to causing others to get sick and even die. We had to temper our personal desires to just go on doing whatever we want; other lives are in our hands, and our own lives are in the hands of others. Our quarantine is not just a sign of how much we care for our own health but how much we care about the health of others, too. The barriers of social distancing that physically divide us from each other are actually a visible sign of care, whilst the internal barriers of selfhood—based on greed, hatred and delusion—that usually separate us from others have been lowered. There is cooperation and solidarity; we strangers care for each other. We are all in this together.   
 
-![black and white image of protester holding a sign that says 'white silence = white violence'](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/white%20silence.jpg)
+![black and white image of protester holding a sign that says white silence = white violence](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/white%20silence.jpg)
 
 More recently, the brutal death of George Floyd in Minneapolis has shown that a seemingly isolated incident is in fact connected to a brutal and systematic oppression of a whole section of American society. Further connections were quickly made to the Australian context, where 432 First Nations people have died in custody since 1991, with no arrests made. It’s hard for us to look at this disturbing side of our society without flinching, without turning away. It’s tempting to close our eyes to it, in some sort of pseudo spiritual display of exaggerated detachment from the world, and ignore it all. But if we are truly interconnected, we need to understand that—just as with covid—we are all in this together. We need to examine our thoughts, speech and actions carefully, to see where we are contributing to a problem, or where we are helping to solve it. It is challenging for us to look and see our own shadow side and the connection we have to racist cultures; those occasional racist stereotypes that exist in the corners of our mind, that lingering suspicion of certain peoples, or those times where we heard something racist but didn’t do anything. If we look more broadly, we start to see that a system that provides certain people with wealth, power and privilege is connected to the denial of those things to others. It follows that if we benefit from privilege that we must also be connected to this unfair system. 
 
@@ -47,7 +47,7 @@ In the *[Shorter Discourse at Gosiṅga, MN31](https://suttacentral.net/mn31/en/
 Acknowledging the connections between our internal and external worlds is one way that we can experience interconnectedness. If we want to achieve a state of oneness, maybe a meaningful way to do this is by working together for each other’s benefit and being a good friend to all living beings. 
 
 
-![etching of snake eating a lizrd](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Snake-eating-Reptile-Image-GraphicsFairy.jpg)
+![etching of snake eating a lizard](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Snake-eating-Reptile-Image-GraphicsFairy.jpg)
 
 ### Cosmic Self Creationism
 
@@ -55,7 +55,7 @@ I admit that the ‘oneness’ I’ve described above based on ethics and harmon
 
 In the *[Simile of the Snake sutta, MN22](https://suttacentral.net/mn22/en/sujato)*, the Buddha talks about the problems that occur when we wrongly grasp the Dhamma, likening it to the danger of grabbing a snake the wrong way and getting bitten. Although the idea of interconnectedness allows us to understand that we are dependent on manifold phenomena in the world, there is a danger in that we might start to create think that this is our permanent state of selfhood. However, the Buddha specifically singled out the idea of universal oneness as a form of wrong view, linked to the wrong view of self: 
 
->*(They think) ‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, imperishable, and will last forever and ever.’ They also regard this: ‘This is mine, I am this, this is my self.’* 
+> *(They think) ‘The self and the cosmos are one and the same. After death I will be permanent, everlasting, eternal, imperishable, and will last forever and ever.’ They also regard this: ‘This is mine, I am this, this is my self.’* 
 
 This was a view that existed at the time of the Buddha and prior, and which has even come down to us today through the Brahmanical and Hindu traditions, including yoga, as well as the contemporary non-dual movement. When we hear people talk about oneness and interconnectedness, this sense of their self being in oneness with everything is what they are referring to. Maybe they had a blissful experience of oneness in meditation, or a deep feeling of being connected to nature. But they take this for evidence of a self and grasp at that. Seeing themselves as part of external phenomena, they come to think that their self exists beyond them and because the world around us seems eternal, their self is somehow permanent, too. They believe that they will continue to exist by virtue of the interconnectedness they feel—this sense of oneness. But if we truly want long lasting happiness, the Buddha says this is a wrong view that should be given up.
 
@@ -65,18 +65,18 @@ It is the same for all conditioned phenomena. This includes everything in the wo
 
 To make this point clearer, after pointing out the mendicants wrong view of an externalised self in the Simile of the Snake, the Buddha asks:
 
->[The Buddha]: *“What do you think, mendicants? Suppose a person was to carry off the grass, sticks, branches, and leaves in this Jeta’s Grove, or burn them, or do what they want with them. Would you think, ‘This person is carrying us off, burning us, or doing what they want with us?’”*
->[Mendicants]: *“No, sir.”* 
+> [The Buddha]: *“What do you think, mendicants? Suppose a person was to carry off the grass, sticks, branches, and leaves in this Jeta’s Grove, or burn them, or do what they want with them. Would you think, ‘This person is carrying us off, burning us, or doing what they want with us?’”*
+> [Mendicants]: *“No, sir.”* 
 >
->[The Buddha]: *“Why is that?”*
+> [The Buddha]: *“Why is that?”*
 >
->[Mendicants]: *“Because that’s neither self nor belonging to self.”*
+> [Mendicants]: *“Because that’s neither self nor belonging to self.”*
 >
->[The Buddha]: *“In the same way, mendicants, give up what isn't yours. Giving it up will be for your lasting welfare and happiness.”*
+> [The Buddha]: *“In the same way, mendicants, give up what isn't yours. Giving it up will be for your lasting welfare and happiness.”*
 
 Someone who sees like this will completely overcome ignorance and craving. They will overcome the five lower fetters (including the fetter of self view: *sakkaya ditthi*), and also overcome the persistent conceit of “I am”. There will be no future rebirths, only total extinguishment without remainder. The Buddha says that all these things are obliterated, like a palm stump cut off at the root, unable to arise again in the future. This state beyond birth, the ‘deathless’, is the aim of the Buddhist path, not merging into the oneness of the universe and continuing to exist as some form of intergalactic cosmic being.  
 
-![Painting of Indras Net by Phoebe Rathmell, black and white conected lines] (https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/indra%203%20phoebe.jpg)
+![Painting of Indras Net by Phoebe Rathmell black and white conected lines](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/indra%203%20phoebe.jpg)
 
 
 **Image Credits**
