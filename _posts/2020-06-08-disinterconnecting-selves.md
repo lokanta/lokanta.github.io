@@ -65,14 +65,14 @@ It is the same for all conditioned phenomena. This includes everything in the wo
 
 To make this point clearer, after pointing out the mendicants wrong view of an externalised self in the Simile of the Snake, the Buddha asks:
 
-> [The Buddha]: *“What do you think, mendicants? Suppose a person was to carry off the grass, sticks, branches, and leaves in this Jeta’s Grove, or burn them, or do what they want with them. Would you think, ‘This person is carrying us off, burning us, or doing what they want with us?’”*
-> [Mendicants]: *“No, sir.”* 
+> The Buddha: *“What do you think, mendicants? Suppose a person was to carry off the grass, sticks, branches, and leaves in this Jeta’s Grove, or burn them, or do what they want with them. Would you think, ‘This person is carrying us off, burning us, or doing what they want with us?’”*
+> Mendicants: *“No, sir.”* 
 >
-> [The Buddha]: *“Why is that?”*
+> The Buddha: *“Why is that?”*
 >
-> [Mendicants]: *“Because that’s neither self nor belonging to self.”*
+> Mendicants: *“Because that’s neither self nor belonging to self.”*
 >
-> [The Buddha]: *“In the same way, mendicants, give up what isn't yours. Giving it up will be for your lasting welfare and happiness.”*
+> The Buddha: *“In the same way, mendicants, give up what isn't yours. Giving it up will be for your lasting welfare and happiness.”*
 
 Someone who sees like this will completely overcome ignorance and craving. They will overcome the five lower fetters (including the fetter of self view: *sakkaya ditthi*), and also overcome the persistent conceit of “I am”. There will be no future rebirths, only total extinguishment without remainder. The Buddha says that all these things are obliterated, like a palm stump cut off at the root, unable to arise again in the future. This state beyond birth, the ‘deathless’, is the aim of the Buddhist path, not merging into the oneness of the universe and continuing to exist as some form of intergalactic cosmic being.  
 
