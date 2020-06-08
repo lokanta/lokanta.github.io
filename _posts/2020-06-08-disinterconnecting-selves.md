@@ -25,14 +25,18 @@ But this is just a trick of self view and says more about my underlying sense of
 ### Dis/Connected to Our Shadows
 
 It’s easy to paint nature as an idealised, romantic realm, as I did above, with animals frolicking about happily. When humans say they feel one with nature, it is this picturesque form of nature they feel connected to. But the truth is that nature is also a brutal place full of fear and suffering; animals are always searching for food, there are some who graze with ears twitching, constantly looking up whilst drinking at the waterhole, wary of predators; and then there are the predators searching out those same animals for food... We don’t want the doe-eyed prey to die, but the predator must also eat. This is what interconnectivity truly means. We, too, are part of such heartbreaking systems. We cannot just choose the pretty parts of nature that we want to be connected to and separate ourselves from the things that we don’t like. If everything is interconnected, we need to acknowledge that there are some difficult and problematic things that we are connected to. Our love of nature doesn’t stop us from consuming vast amounts of forest to make new wooden furniture, or clearing land for raising animals that we slaughter for food. We love the convenience of plastic packaging but are reluctant to admit that we are part of the problem of plastics polluting our cities, forests and oceans. We cannot be partially interconnected; we need to see our connectedness in its totality. 
- 
-The covid-19 pandemic thrust a newfound awareness into view of our interconnected world, showing how a small outbreak in a faraway land could grow to affect the entire planet. Sickness and health are interconnected; sickness follows us around like a shadow. We quickly learnt how our own careless actions could lead to causing others to get sick and even die. We had to temper our personal desires to just go on doing whatever we want; other lives are in our hands, and our own lives are in the hands of others. Our quarantine is not just a sign of how much we care for our own health but how much we care about the health of others, too. The barriers of social distancing that physically divide us from each other are actually a visible sign of care, whilst the internal barriers of selfhood—based on greed, hatred and delusion—that usually separate us from others have been lowered. There is cooperation and solidarity; we strangers care for each other. We are all in this together.   
 
-![black and white image of protester holding a sign that says white silence = white violence](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/white%20silence.jpg)
+![etching of snake eating a lizard](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Snake-eating-Reptile-Image-GraphicsFairy.jpg)
+
+The covid-19 pandemic thrust a newfound awareness into view of our interconnected world, showing how a small outbreak in a faraway land could grow to affect the entire planet. Sickness and health are interconnected; sickness follows us around like a shadow. We quickly learnt how our own careless actions could lead to causing others to get sick and even die. We had to temper our personal desires to just go on doing whatever we want; other lives are in our hands, and our own lives are in the hands of others. Our quarantine is not just a sign of how much we care for our own health but how much we care about the health of others, too. The barriers of social distancing that physically divide us from each other are actually a visible sign of care, whilst the internal barriers of selfhood—based on greed, hatred and delusion—that usually separate us from others have been lowered. There is cooperation and solidarity; we strangers care for each other. We are all in this together.   
 
 More recently, the brutal death of George Floyd in Minneapolis has shown that a seemingly isolated incident is in fact connected to a brutal and systematic oppression of a whole section of American society. Further connections were quickly made to the Australian context, where 432 First Nations people have died in custody since 1991, with no arrests made. It’s hard for us to look at this disturbing side of our society without flinching, without turning away. It’s tempting to close our eyes to it, in some sort of pseudo spiritual display of exaggerated detachment from the world, and ignore it all. But if we are truly interconnected, we need to understand that—just as with covid—we are all in this together. We need to examine our thoughts, speech and actions carefully, to see where we are contributing to a problem, or where we are helping to solve it. It is challenging for us to look and see our own shadow side and the connection we have to racist cultures; those occasional racist stereotypes that exist in the corners of our mind, that lingering suspicion of certain peoples, or those times where we heard something racist but didn’t do anything. If we look more broadly, we start to see that a system that provides certain people with wealth, power and privilege is connected to the denial of those things to others. It follows that if we benefit from privilege that we must also be connected to this unfair system. 
 
+![black and white image of protester holding a sign that says white silence = white violence](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/white%20silence.jpg)
+
+
 If we are truly connected to each other, we wouldn’t still have these barriers that divide us from others. We would treat others how we want t be treated our self. This is the type of connection with others that the Buddha asks us to make in the ethical conduct outlined in the Five Precepts; by not killing, not stealing, not committing sexual misconduct, avoiding wrong speech, and not being intoxicated, we protect others as well as our self. Other practices, like cultivating loving-kindness and compassion, deliberately break down the barriers and divisions between our self and others, by including all living beings within our mental sphere. Such practices are profound and beautiful, overcoming overt and subtle ill will and cruelty in our own minds and heightening a sense of connection with an unlimited number of beings. However, if this remains a purely internalised experience and fails to show up in our life through our thoughts, speech and actions towards people around us, then the connection we feel toward others will be tenuous and short lived. We need to examine our minds seriously to see if we are merely engaging in some intellectualised spiritual fantasy, or really making progress on the spiritual path.
+
 
 In the *[Shorter Discourse at Gosiṅga, MN31](https://suttacentral.net/mn31/en/sujato)* we learn how harmonious relations are achieved by combining loving kindness with ethical conduct in both private and in public. Here the Buddha asks the Venerable Anuruddha how he and his fellow monks live together:
  
@@ -46,8 +50,8 @@ In the *[Shorter Discourse at Gosiṅga, MN31](https://suttacentral.net/mn31/en/
 
 Acknowledging the connections between our internal and external worlds is one way that we can experience interconnectedness. If we want to achieve a state of oneness, maybe a meaningful way to do this is by working together for each other’s benefit and being a good friend to all living beings. 
 
+![Painting of Indras Net by Phoebe Rathmell black and white conected lines](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/indra%203%20phoebe.jpg)
 
-![etching of snake eating a lizard](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Snake-eating-Reptile-Image-GraphicsFairy.jpg)
 
 ### Cosmic Self Creationism
 
@@ -76,12 +80,12 @@ To make this point clearer, after pointing out the mendicants wrong view of an e
 
 Someone who sees like this will completely overcome ignorance and craving. They will overcome the five lower fetters (including the fetter of self view: *sakkaya ditthi*), and also overcome the persistent conceit of “I am”. There will be no future rebirths, only total extinguishment without remainder. The Buddha says that all these things are obliterated, like a palm stump cut off at the root, unable to arise again in the future. This state beyond birth, the ‘deathless’, is the aim of the Buddhist path, not merging into the oneness of the universe and continuing to exist as some form of intergalactic cosmic being.  
 
-![Painting of Indras Net by Phoebe Rathmell black and white conected lines](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/indra%203%20phoebe.jpg)
+
 
 
 **Image Credits**
 1. *Cage*, Cameron Gray AKA [Parablev](https://www.deviantart.com/parablev)
 2. Photo by Chris Jordon from the series *[Midway: Message from the Gyre](http://www.chrisjordan.com/gallery/midway/#CF000313%2018x24)*
-3. Photo from Black Lives Matter Rally in Sydney June 2020, by the author
-4. Etching of snake eating a lizard, artist unkown
+3. Etching of snake eating a lizard, artist unkown
+4. Photo from Black Lives Matter Rally in Sydney June 2020, by the author
 5. *Indras Net*, [Phoebe Rathmell](https://phoeberathmell.weebly.com/indra-net.html) 
