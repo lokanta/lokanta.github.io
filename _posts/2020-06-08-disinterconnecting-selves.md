@@ -7,9 +7,11 @@ blurb: In spiritual circles, people often talk about experiencing a feeling of b
 
 ### *“I hope you’re living in harmony, appreciating each other, without quarrelling, blending like milk and water, and regarding each other with kindly eyes?”*
 [Shorter Discourse at Gosiṅga, MN31](https://suttacentral.net/mn31/en/sujato)
-
+<br>
+<br/>
 ![Black and white painting by Cameron Gray showing someone who has lifted on part of their face and is holding it a mirror, the gap on their head is a cage with a writhing serpentine figure inside](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/cage_by_parablev-900x642.jpg)
-
+<br>
+<br/>
 In spiritual circles, people often talk about experiencing a feeling of being one with everything, a state of interconnectedness with all living beings and with nature—even the whole cosmos. Do such experiences reveal a truth that we are usually disconnected from, uncovering our real self? Are such moments an experience of enlightenment or do they lead to wrong views? In this essay I approach the idea of interconnectedness in a few different ways using personal experiences and recent events, and then interrogate these ideas in view of the Buddha’s teachings. 
 
 ### Connections of a Romantic Nature
@@ -75,7 +77,7 @@ This notion of ‘oneness’ is based on a deluded view of self, the Buddha says
 
 It is the same for all conditioned phenomena. This includes everything in the world around us: none of it can be regarded as an intrinsic part of our self that is fixed and stable. Nor can external phenomena be our intrinsic self, existing in some sort of interconnected totality. Like all conditioned things, we arise in dependence on causes. We do not exist in isolation but in relation to other phenomena, causes and conditions.  So, even though we are interconnected with all the things on this earth—in that we are dependent on its resources of oxygen, water and food—we are not ‘one’ with all the things in the sense that they are also ‘us’. Everything that makes up our bodies, all the elements of earth, water, air heat arise out of causes and conditions, and are merely borrowed by our bodies for a short time only, in an ongoing process of change. 
 
-To make this point clearer, after pointing out the mendicants wrong view of an externalised self in the Simile of the Snake, the Buddha asks:
+To make this point clearer, after pointing out the mendicants wrong view of an externalised self in the *Simile of the Snake*, the Buddha asks:
 
 > The Buddha: *“What do you think, mendicants? Suppose a person was to carry off the grass, sticks, branches, and leaves in this Jeta’s Grove, or burn them, or do what they want with them. Would you think, ‘This person is carrying us off, burning us, or doing what they want with us?’”*
 > Mendicants: *“No, sir.”* 
@@ -90,7 +92,8 @@ Someone who sees like this will completely overcome ignorance and craving. They 
 
 
 
-
+<br>
+<br/>
 **Image Credits**
 1. *Cage*, Cameron Gray AKA [Parablev](https://www.deviantart.com/parablev)
 2. Photo by Chris Jordon from the series *[Midway: Message from the Gyre](http://www.chrisjordan.com/gallery/midway/#CF000313%2018x24)*
