@@ -19,21 +19,27 @@ Living in forest monasteries, one of my favourite things to do is to plunge off 
 At such moments, it is as if the barriers that usually keep me—a human—divided from the natural realm all collapse and dissolve. I feel that I am actually a part *of* nature, within it, rather than outside of it. I belong; I feel one with nature—to utilise an overly sentimental cliché. 
 
 But this is just a trick of self view and says more about my underlying sense of ‘me’ than anything about nature itself. Usually, my sense of self is distinctly contained within myriad invented barriers and boundaries. The way we decide to participate in the experience of nature is often like an uninvited but curious observer, watching from the edges of the trees, still on the safety of the path; as if we are just visiting but yet remain separate somehow. After all, this is not our world; we belong instead to the human realm with all its shiny human things. However, this is just an illusion our mind has constructed. We have been conditioned to believe that humans belong outside of nature, or more precisely, above it: such is our conceit of superiority. This artificial separation causes us to forget that humans are very much a part of the natural landscape and that our ‘own’ human habitats are still a part of nature, too. Rats play amongst our garbage dumps, birds nest in our skyscrapers, figs sprout in our drainpipes. In the big picture, the natural world and the human world are very much interconnected; humans are entirely reliant on nature for survival, and increasingly, nature is reliant on humans for its protection, due to the ongoing destruction by our own kind. Mostly this goes on out of our sight, but sometimes happens right in front of us. If we look really hard at ourselves, we see that this destruction is also being done by us, by which I mean me and you.
-
+<br>
+<br/>
 ![Photograph by Chris Jordon of dead seabird decomposed body showing stomach is full of small pieces of plastic](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/bird%20plastic.jpg)
-
+<br>
+<br/>
 ### Dis/Connected to Our Shadows
 
 It’s easy to paint nature as an idealised, romantic realm, as I did above, with animals frolicking about happily. When humans say they feel one with nature, it is this picturesque form of nature they feel connected to. But the truth is that nature is also a brutal place full of fear and suffering; animals are always searching for food, there are some who graze with ears twitching, constantly looking up whilst drinking at the waterhole, wary of predators; and then there are the predators searching out those same animals for food... We don’t want the doe-eyed prey to die, but the predator must also eat. This is what interconnectivity truly means. We, too, are part of such heartbreaking systems. We cannot just choose the pretty parts of nature that we want to be connected to and separate ourselves from the things that we don’t like. If everything is interconnected, we need to acknowledge that there are some difficult and problematic things that we are connected to. Our love of nature doesn’t stop us from consuming vast amounts of forest to make new wooden furniture, or clearing land for raising animals that we slaughter for food. We love the convenience of plastic packaging but are reluctant to admit that we are part of the problem of plastics polluting our cities, forests and oceans. We cannot be partially interconnected; we need to see our connectedness in its totality. 
-
+<br>
+<br/>
 ![etching of snake eating a lizard](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Snake-eating-Reptile-Image-GraphicsFairy.jpg)
-
+<br>
+<br/>
 The covid-19 pandemic thrust a newfound awareness into view of our interconnected world, showing how a small outbreak in a faraway land could grow to affect the entire planet. Sickness and health are interconnected; sickness follows us around like a shadow. We quickly learnt how our own careless actions could lead to causing others to get sick and even die. We had to temper our personal desires to just go on doing whatever we want; other lives are in our hands, and our own lives are in the hands of others. Our quarantine is not just a sign of how much we care for our own health but how much we care about the health of others, too. The barriers of social distancing that physically divide us from each other are actually a visible sign of care, whilst the internal barriers of selfhood—based on greed, hatred and delusion—that usually separate us from others have been lowered. There is cooperation and solidarity; we strangers care for each other. We are all in this together.   
 
 More recently, the brutal death of George Floyd in Minneapolis has shown that a seemingly isolated incident is in fact connected to a brutal and systematic oppression of a whole section of American society. Further connections were quickly made to the Australian context, where 432 First Nations people have died in custody since 1991, with no arrests made. It’s hard for us to look at this disturbing side of our society without flinching, without turning away. It’s tempting to close our eyes to it, in some sort of pseudo spiritual display of exaggerated detachment from the world, and ignore it all. But if we are truly interconnected, we need to understand that—just as with covid—we are all in this together. We need to examine our thoughts, speech and actions carefully, to see where we are contributing to a problem, or where we are helping to solve it. It is challenging for us to look and see our own shadow side and the connection we have to racist cultures; those occasional racist stereotypes that exist in the corners of our mind, that lingering suspicion of certain peoples, or those times where we heard something racist but didn’t do anything. If we look more broadly, we start to see that a system that provides certain people with wealth, power and privilege is connected to the denial of those things to others. It follows that if we benefit from privilege that we must also be connected to this unfair system. 
-
+<br>
+<br/>
 ![black and white image of protester holding a sign that says white silence = white violence](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/white%20silence.jpg)
-
+<br>
+<br/>
 
 If we are truly connected to each other, we wouldn’t still have these barriers that divide us from others. We would treat others how we want t be treated our self. This is the type of connection with others that the Buddha asks us to make in the ethical conduct outlined in the Five Precepts; by not killing, not stealing, not committing sexual misconduct, avoiding wrong speech, and not being intoxicated, we protect others as well as our self. Other practices, like cultivating loving-kindness and compassion, deliberately break down the barriers and divisions between our self and others, by including all living beings within our mental sphere. Such practices are profound and beautiful, overcoming overt and subtle ill will and cruelty in our own minds and heightening a sense of connection with an unlimited number of beings. However, if this remains a purely internalised experience and fails to show up in our life through our thoughts, speech and actions towards people around us, then the connection we feel toward others will be tenuous and short lived. We need to examine our minds seriously to see if we are merely engaging in some intellectualised spiritual fantasy, or really making progress on the spiritual path.
 
@@ -49,9 +55,11 @@ In the *[Shorter Discourse at Gosiṅga, MN31](https://suttacentral.net/mn31/en/
 >Anuruddha: *“In this case, sir, I think, ‘I’m fortunate, so very fortunate, to live together with spiritual companions such as these.’ I consistently treat these venerables with kindness by way of body, speech, and mind, both in public and in private. I think, ‘Why don’t I set aside my own ideas and just go along with these venerables’ ideas?’ And that’s what I do. Though we’re different in body, sir, we’re one in mind, it seems to me.”*
 
 Acknowledging the connections between our internal and external worlds is one way that we can experience interconnectedness. If we want to achieve a state of oneness, maybe a meaningful way to do this is by working together for each other’s benefit and being a good friend to all living beings. 
-
+<br>
+<br/>
 ![Painting of Indras Net by Phoebe Rathmell black and white conected lines](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/indra%203%20phoebe.jpg)
-
+<br>
+<br/>
 
 ### Cosmic Self Creationism
 
