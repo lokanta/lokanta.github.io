@@ -35,7 +35,7 @@ They parted, and the first entered their nice home. It was a warm, comforting ho
 
 That night, the first friend couldn’t shake the feeling of worry. What was up with their friend?
 
-He tried searching online and what they found was worrying.
+They tried searching online and what they found was worrying.
 
 When they typed “fairy castles …” they got a whole series of auto-complete suggestions.
 
