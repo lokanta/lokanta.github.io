@@ -2,7 +2,7 @@
 layout: post
 title: Fairy castles
 author: Bhante Sujato
-blurb: A fable by Bhante Sujato on living in a world of alternate realities
+blurb: A fable by Bhante Sujato on living in a world of alternate realities.
 ---
 
 Once two friends were strolling down the street. It was a daily walk they took together. 
