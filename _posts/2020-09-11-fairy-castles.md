@@ -19,11 +19,11 @@ The other said, “Now that’s a nice fairy castle!”
 
 The first hesitated, and said, “Ahh …?”
 
-“You know, right there,” said the other. “With the walls of marshmallow, floating fourteen feet in the sky! Oh, and rainbow colored unicorns guarding the sapphire stairway are such a lovely touch!”
+“You know, right there,” said the other. “With the walls of marshmallow, floating fourteen feet in the sky! Oh, and the rainbow colored unicorns guarding the sapphire stairway are such a lovely touch!”
 
 “Ahh, hah,” said the first, catching on with the joke, “And the goblins by the path there!”
 
-The other stopped and turned to him. “There’s no goblins, what are you talking about? Are you taking the micky?”
+The other stopped and turned to them, a serious expression on their face. “There’s no goblins, what are you talking about? Are you taking the micky?”
 
 “No, I just … sorry I guess.” 
 
@@ -37,18 +37,18 @@ That night, the first friend couldn’t shake the feeling of worry. What was up 
 
 They tried searching online and what they found was worrying.
 
-When they typed “fairy castles …” they got a whole series of auto-complete suggestions.
+When they typed “fairy castles …” they got a series of auto-complete suggestions.
 
 - fairly castles are real
 - fairy castles are really made of marshmallow
-- the conspiracy to hide the truth about fairy castles 
+- fairy castles facts
 - why fairy castles are the best place to live
 
 There were thousands of videos, entertaining produced and brazenly confident, explaining how fairy castles were built, what their history was, and why their reality was suppressed. 
 
-There were plenty of explanations for why brick houses were not as solid as you might think. After all, bricks were just atoms, and atoms were just energies in space. What’s the difference on an atomic level between bricks and marshmallows? Physicists couldn’t even agree on the fundamental interpretation of reality in quantum theory. How could they so confidently say things like, “Castles can’t float?”
+There were plenty of explanations for why brick houses were not as solid as you might think. After all, bricks were just atoms, and atoms were just energies in space. On an atomic level, what’s the difference  between bricks and marshmallows? Physicists couldn’t even agree on the fundamental interpretation of reality in quantum theory. How could they so confidently say things like, “Castles can’t float?”
 
-It was hard to find information arguing for the reality of brick houses. It was strange, now that they came to think of it: how could we just live in brick houses all our lives and never wonder whether they are real? Media accounts were careful to not alienate their audience by presenting both sides of the argument. Experts from the fairy castle community spoke eloquently about the joys of soft diamond pillows and mermaid ponds, while the “scientists” mostly gaped open-mouthed like fish.
+It was hard to find information arguing for the reality of brick houses. People seemed to just take it for granted. It was strange, now that they came to think of it: how could we just live in brick houses all our lives and never wonder whether they are real? Media accounts were careful to not alienate their audience, presenting both sides of the argument with an even hand. Experts from the fairy castle community spoke eloquently about the joys of soft diamond pillows and mermaid ponds, while the “scientists” mostly gaped open-mouthed like fish.
 
 The next day, the friend came by for a walk as usual. Off they went. The other friend was excited.
 
@@ -56,9 +56,9 @@ The next day, the friend came by for a walk as usual. Off they went. The other f
 
 The first friend didn’t know what to say. They felt awkward. Normally they were happy to walk together, but now it was weird. So they stayed silent.
 
-“Oh see,” said the other, “Now there’s even more fairy castles! It’s as if they are just springing up everywhere!” 
+“Oh see,” said the other, “Now there’s even more fairy castles! They are just springing up everywhere!” 
 
-But the first friend could not see. They turned away, tried to focus on other things. But the other was just so happy, it really was as if they were walking in the air!
+But the first friend could not see. They turned away, tried to focus on other things. But the other was just so happy, it really was as if they were walking on sunshine.
 
 During the walk, the first friend found themself tuning out more and more from the other. They didn’t hear them, didn’t see them. They walked in separate worlds, as it were. One followed the path of the sun, the other the path of the moon.
 
@@ -70,4 +70,4 @@ There was nothing to be done. The other was gone.
 
 The first went back into their house. It was brick. Drab grey brick, with bare walls and bars on the windows.
 
-As they locked the door behind them for the last time, they wondered, “Did I ever have a friend?”
+As they locked the door behind themself for the last time, they wondered, “Did I ever have a friend?”
