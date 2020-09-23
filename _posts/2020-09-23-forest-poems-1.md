@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Forest Poems 1: Faux-kus
+title: Forest Poems 1—Faux-kus
 author: Bhante Akāliko
 blurb:  Part One of a collection of poems written during 2016–2018 whilst residing at Bodhinyana Monastery in Serpentine, Western Australia. Inspired by the poems of the senior nuns and monks from the *Therīgāthā* and *Theragāthā*, as well as the later Chan and Zen literary traditions, these poems are a homage to the ideal of the rustic solitude of a forest monastic. They explore themes of impermanence, death, melancholy, as well as the joys and struggles of meditation.   
 ---
@@ -31,7 +31,7 @@ I'm a monk! I'm a monk!
 
 
 
-**Shioak **
+**Shioak**
 
 If anyone ever asks<br>
 if plants have feelings<br>
