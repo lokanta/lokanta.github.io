@@ -79,7 +79,6 @@ Go on little robin!<br>
 Take as much thread<br> 
 as you need<br>
 <br> 
-
 Make your nest<br> 
 warm and cosy.<br>
 <br>
@@ -139,7 +138,6 @@ in the darkness.<br>
 <br>
 <br>
 <br>
-**Content** 
 
 Sitting in the forest<br>
 Rain clouds coming.<br> 
@@ -192,7 +190,6 @@ Radiating light.<br>
 <br>
 <br>
 <br>
-**Listening**
 
 Winter’s first rain<br> 
 drips into the drain pipe.<br>
