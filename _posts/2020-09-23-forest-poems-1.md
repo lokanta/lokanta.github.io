@@ -72,7 +72,7 @@ winter’s melancholy.<br>
 
 ![robin bird stealing thread from a shoe](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/robin%20thief.jpg)
 
-
+<br>
 **Permission to a thief**
 
 Go on little robin!<br> 
@@ -138,7 +138,6 @@ in the darkness.<br>
 <br>
 <br>
 <br>
-
 Sitting in the forest<br>
 Rain clouds coming.<br> 
 I don't care if I get wet.<br>
@@ -190,7 +189,6 @@ Radiating light.<br>
 <br>
 <br>
 <br>
-
 Winter’s first rain<br> 
 drips into the drain pipe.<br>
 
