@@ -28,7 +28,7 @@ I'm a monk! I'm a monk!
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 <br>
@@ -43,7 +43,7 @@ in loving bent arms.
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 <br>
@@ -66,7 +66,7 @@ winter’s melancholy.<br>
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 
@@ -85,7 +85,7 @@ warm and cosy.<br>
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 <br>
@@ -97,7 +97,7 @@ Bliss.<br>
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 <br>
@@ -108,7 +108,7 @@ The rain is coming.<br>
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 <br>
@@ -123,7 +123,7 @@ Forgotten.<br>
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 <br>
@@ -135,7 +135,7 @@ in the darkness.<br>
 <br>
 <br>
 
-\* * *
+     <br>\* * *
 <br>
 <br>
 <br>
@@ -145,7 +145,7 @@ I don't care if I get wet.<br>
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 <br>
@@ -166,7 +166,7 @@ and warm themselves up.<br>
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 <br>
@@ -186,7 +186,7 @@ Radiating light.<br>
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 <br>
@@ -197,7 +197,7 @@ Music.<br>
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 <br>
@@ -213,7 +213,7 @@ And so it is. And so it is.<br>
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 <br>
@@ -227,7 +227,7 @@ Satisfied.<br>
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 <br>
@@ -245,7 +245,7 @@ on the celestial fruit.<br>
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 <br>
@@ -265,7 +265,7 @@ Always knowing.<br>
 <br>
 <br>
 
-\* * *
+     \* * *<br>
 <br>
 <br>
 <br>
