@@ -13,7 +13,7 @@ blurb:  Part One of a collection of poems written during 2016–2018 whilst resi
 I call these poems *Faux-kus* because they are faux haikus; written in a deliberate stylistic homage to Zen poetry but not adhering to haiku’s rigid metrical structure. Many of the haiku genre’s conventions are retained, such as brevity, seasonal references and the use of impressionistic suggestion to convey mood. 
 
 ***
-
+<br>
 
 **Just Ordained**
 
@@ -28,7 +28,7 @@ I'm a monk! I'm a monk!
 
 
 \* * *
-
+<br>
 
 
 **Shioak**
@@ -42,7 +42,7 @@ in loving bent arms.
 
 
 \* * *
-
+<br>
 
 
 **Spring Green** 
@@ -53,7 +53,7 @@ into cool thick clouds of clover.<br>
 
 
 \* * *
-
+<br>
 
 
 The coldness of the<br> 
@@ -63,7 +63,7 @@ winter’s melancholy.<br>
 
 
 \* * *
-
+<br>
 
 
 ![robin bird stealing thread from a shoe](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/robin%20thief.jpg)
@@ -74,14 +74,14 @@ winter’s melancholy.<br>
 Go on little robin!<br> 
 Take as much thread<br> 
 as you need<br>
-from my shoes.<br> 
+<br> 
 
 Make your nest<br> 
 warm and cosy.<br>
 
 
 \* * *
-
+<br>
 
 
 Ah nature!<br> 
@@ -92,7 +92,7 @@ Bliss.<br>
 
 
 \* * *
-
+<br>
 
 
 Go ahead little ants,<br> 
@@ -102,7 +102,7 @@ The rain is coming.<br>
 
 
 \* * *
-
+<br>
 
 
 Since I moved huts<br> 
@@ -116,7 +116,7 @@ Forgotten.<br>
 
 
 \* * *
-
+<br>
 
 
 The wisdom<br> 
@@ -127,7 +127,7 @@ in the darkness.<br>
 
 
 \* * *
-
+<br>
 
 
 **Content** 
@@ -138,7 +138,7 @@ I don't care if I get wet.<br>
 
 
 \* * *
-
+<br>
 
 
 **Matinée**
@@ -158,7 +158,7 @@ and warm themselves up.<br>
 
 
 \* * *
-
+<br>
 
 
 **Night**
@@ -177,7 +177,7 @@ Radiating light.<br>
 
 
 \* * *
-
+<br>
 
 
 **Listening**
@@ -189,7 +189,7 @@ Music.<br>
 
 
 \* * *
-
+<br>
 
 
 **Bones**
@@ -204,7 +204,7 @@ And so it is. And so it is.<br>
 
 
 \* * *
-
+<br>
 
 
 Resting now<br> 
@@ -217,7 +217,7 @@ Satisfied.<br>
 
 
 \* * *
-
+<br>
 
 
 **Heavenly Realms**
@@ -234,7 +234,7 @@ on the celestial fruit.<br>
 
 
 \* * *
-
+<br>
 
 
 **Illusion**
@@ -253,7 +253,7 @@ Always knowing.<br>
 
 
 \* * *
-
+<br>
 
 
  **Winter Winds**
