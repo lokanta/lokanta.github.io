@@ -1,10 +1,8 @@
 ---
-
 layout: post
 title: Forest Poems 1: Faux-kus 
 author: Bhante Akāliko
 blurb: Part One of a collection of poems written during 2016–2018 whilst residing at Bodhinyana Monastery in Serpentine, Western Australia. Inspired by the poems of the senior nuns and monks from the *Therīgāthā* and *Theragāthā*, as well as the later Chan and Zen literary traditions, these poems are a homage to the ideal of the rustic solitude of a forest monastic. They explore themes of impermanence, death, melancholy, as well as the joys and struggles of meditation.
-
 ---
 
 ![Image of a hut in the forest](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/hut2.jpg)
@@ -17,12 +15,12 @@ I call these poems *Faux-kus* because they are faux haikus; written in a deliber
 
 **Just Ordained**
 
-Waking in my little hut 
-to see my new robes
+Waking in my little hut<br> 
+to see my new robes<br>
 hanging up
 
-Hugging them 
-out of happiness.
+Hugging them<br> 
+out of happiness.<br>
 
 I'm a monk! I'm a monk!
 
@@ -32,11 +30,11 @@ I'm a monk! I'm a monk!
 
 **Shioak **
 
-If anyone ever asks
-if plants have feelings 
-just tell them to look 
-at the tender way 
-the shioak tree cradles her dead children
+If anyone ever asks<br>
+if plants have feelings<br>
+just tell them to look<br>
+at the tender way<br> 
+the shioak tree cradles her dead children<br>
 in loving bent arms.
 
 
@@ -45,18 +43,18 @@ in loving bent arms.
 
 **Spring Green** 
 
-Today my treat 
-is sinking my feet 
-into cool thick clouds of clover.
+Today my treat<br> 
+is sinking my feet<br> 
+into cool thick clouds of clover.<br>
 
 
 \* * *
 
 
-The coldness of the 
-Late spring rain 
-has brought back 
-winter’s melancholy.
+The coldness of the<br> 
+Late spring rain<br> 
+has brought back<br>
+winter’s melancholy.<br>
 
 
 \* * *
@@ -67,55 +65,55 @@ winter’s melancholy.
 
 **Permission to a thief**
 
-Go on little robin! 
-Take as much thread 
-as you need
-from my shoes. 
+Go on little robin!<br> 
+Take as much thread<br> 
+as you need<br>
+from my shoes.<br> 
 
-Make your nest 
-warm and cosy.
-
-
-\* * *
-
-
-Ah nature! 
-I inhale you deeply.
-Eyes to the sky
-
-Bliss.
+Make your nest<br> 
+warm and cosy.<br>
 
 
 \* * *
 
 
-Go ahead little ants, 
-make your home in my umbrella. 
+Ah nature!<br> 
+I inhale you deeply.<br>
+Eyes to the sky<br>
 
-The rain is coming.
-
-
-\* * *
-
-
-Since I moved huts 
-my old forest paths 
-have started to disappear. 
-
-My footsteps 
-gone. 
-
-Forgotten. 
+Bliss.<br>
 
 
 \* * *
 
 
-The wisdom 
-of the flower
-blossoming
+Go ahead little ants,<br> 
+make your home in my umbrella.<br> 
 
-in the darkness.
+The rain is coming.<br>
+
+
+\* * *
+
+
+Since I moved huts<br> 
+my old forest paths<br> 
+have started to disappear.<br> 
+
+My footsteps<br> 
+gone.<br> 
+
+Forgotten.<br> 
+
+
+\* * *
+
+
+The wisdom<br> 
+of the flower<br>
+blossoming<br>
+
+in the darkness.<br>
 
 
 \* * *
@@ -123,9 +121,9 @@ in the darkness.
 
 **Content** 
 
-Sitting in the forest
-Rain clouds coming. 
-I don't care if I get wet.
+Sitting in the forest<br>
+Rain clouds coming.<br> 
+I don't care if I get wet.<br>
 
 
 \* * *
@@ -133,18 +131,18 @@ I don't care if I get wet.
 
 **Matinée**
 
-When the sun is shining,
-the metal roof of my hut 
-becomes a stage 
-for little lizard’s
-to dance. 
-Their footsteps 
-drumming a beat, 
+When the sun is shining,<br>
+the metal roof of my hut <br>
+becomes a stage<br> 
+for little lizard’s<br>
+to dance.<br> 
+Their footsteps<br> 
+drumming a beat,<br> 
 
-then 
-a theatrical pause 
-to strike a pose
-and warm themselves up. 
+then<br> 
+a theatrical pause<br> 
+to strike a pose<br>
+and warm themselves up.<br> 
 
 
 \* * *
@@ -152,17 +150,17 @@ and warm themselves up.
 
 **Night**
 
-The shadows are malevolent. 
-The mosquito's buzz
-is full of anger.
+The shadows are malevolent.<br> 
+The mosquito's buzz<br>
+is full of anger.<br>
 
-Tonight I am 
-an unwelcome guest
-but still I'll stay 
-and sit a while longer. 
-Unafraid of the darkness. 
+Tonight I am<br> 
+an unwelcome guest<br>
+but still I'll stay<br> 
+and sit a while longer.<br>
+Unafraid of the darkness.<br> 
 
-Radiating light.
+Radiating light.<br>
 
 
 \* * *
@@ -170,10 +168,10 @@ Radiating light.
 
 **Listening**
 
-Winter’s first rain 
-drips into the drain pipe.
+Winter’s first rain<br> 
+drips into the drain pipe.<br>
 
-Music.
+Music.<br>
 
 
 \* * *
@@ -181,25 +179,25 @@ Music.
 
 **Bones**
 
-On the wet earth, 
-everywhere bones. 
-Bones of animal bones
-Bones of trees 
-all broken now and useless. 
+On the wet earth,<br> 
+everywhere bones.<br> 
+Bones of animal bones<br>
+Bones of trees<br>
+all broken now and useless.<br> 
 
-And so it is. And so it is.
+And so it is. And so it is.<br>
 
 
 \* * *
 
 
-Resting now 
-Face to the sky 
-Eyes closed
-Feeling the sunlight through branches. 
-Warm. 
-Content. 
-Satisfied.
+Resting now<br> 
+Face to the sky<br> 
+Eyes closed<br>
+Feeling the sunlight through branches.<br>
+Warm.<br> 
+Content.<br> 
+Satisfied.<br>
 
 
 \* * *
@@ -207,15 +205,15 @@ Satisfied.
 
 **Heavenly Realms**
 
-If you want to join 
-the feeders of heavenly nectar
+If you want to join<br> 
+the feeders of heavenly nectar<br>
 
-first you’ll need 
-to seek the nectar in the earthy flower
+first you’ll need<br>
+to seek the nectar in the earthy flower<br>
 
-then set your intention
-and expectation 
-on the celestial fruit.
+then set your intention<br>
+and expectation<br> 
+on the celestial fruit.<br>
 
 
 \* * *
@@ -223,17 +221,17 @@ on the celestial fruit.
 
 **Illusion**
 
-Little children 
-offering 
-imaginary tea from imaginary cups—
-Make believe.
-Illusion. 
+Little children<br> 
+offering<br> 
+imaginary tea from imaginary cups—<br>
+Make believe.<br>
+Illusion.<br>
 
-This is how to see the world; 
-Playing games for children.
+This is how to see the world;<br>
+Playing games for children.<br>
 
-But knowing. 
-Always knowing.
+But knowing.<br> 
+Always knowing.<br>
 
 
 \* * *
@@ -241,16 +239,16 @@ Always knowing.
 
  **Winter Winds**
 
-Screw you wind. 
-Throw yourself at my hut. 
-Snap branches
-Crack trees. 
-But 
-you will not break me! 
-I shall sit here 
+Screw you wind.<br> 
+Throw yourself at my hut.<br> 
+Snap branches<br>
+Crack trees.<br>
+But<br> 
+you will not break me!<br> 
+I shall sit here<br> 
 
-still 
-silent 
+still<br> 
+silent<br> 
 and resolute. 
 
 
