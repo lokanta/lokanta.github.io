@@ -69,7 +69,7 @@ winter’s melancholy.<br>
 \* * *
 <br>
 <br>
-<br>
+
 ![robin bird stealing thread from a shoe](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/robin%20thief.jpg)
 
 
@@ -94,7 +94,8 @@ I inhale you deeply.<br>
 Eyes to the sky<br>
 
 Bliss.<br>
-
+<br>
+<br>
 
 \* * *
 <br>
