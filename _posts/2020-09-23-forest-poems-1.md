@@ -29,8 +29,8 @@ I'm a monk! I'm a monk!
 
 \* * *
 <br>
-
-
+<br>
+<br>
 **Shioak**
 
 If anyone ever asks<br>
@@ -43,8 +43,8 @@ in loving bent arms.
 
 \* * *
 <br>
-
-
+<br>
+<br>
 **Spring Green** 
 
 Today my treat<br> 
@@ -54,8 +54,8 @@ into cool thick clouds of clover.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
 The coldness of the<br> 
 Late spring rain<br> 
 has brought back<br>
@@ -64,8 +64,8 @@ winter’s melancholy.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
 ![robin bird stealing thread from a shoe](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/robin%20thief.jpg)
 
 
@@ -82,8 +82,8 @@ warm and cosy.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
 Ah nature!<br> 
 I inhale you deeply.<br>
 Eyes to the sky<br>
@@ -93,8 +93,8 @@ Bliss.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
 Go ahead little ants,<br> 
 make your home in my umbrella.<br> 
 
@@ -103,8 +103,8 @@ The rain is coming.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
 Since I moved huts<br> 
 my old forest paths<br> 
 have started to disappear.<br> 
@@ -117,8 +117,8 @@ Forgotten.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
 The wisdom<br> 
 of the flower<br>
 blossoming<br>
@@ -128,8 +128,8 @@ in the darkness.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
 **Content** 
 
 Sitting in the forest<br>
@@ -139,8 +139,8 @@ I don't care if I get wet.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
 **Matinée**
 
 When the sun is shining,<br>
@@ -159,8 +159,8 @@ and warm themselves up.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
 **Night**
 
 The shadows are malevolent.<br> 
@@ -178,8 +178,8 @@ Radiating light.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
 **Listening**
 
 Winter’s first rain<br> 
@@ -190,8 +190,8 @@ Music.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
 **Bones**
 
 On the wet earth,<br> 
@@ -205,8 +205,8 @@ And so it is. And so it is.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
 Resting now<br> 
 Face to the sky<br> 
 Eyes closed<br>
@@ -218,8 +218,8 @@ Satisfied.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
 **Heavenly Realms**
 
 If you want to join<br> 
@@ -235,8 +235,8 @@ on the celestial fruit.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
 **Illusion**
 
 Little children<br> 
@@ -254,8 +254,8 @@ Always knowing.<br>
 
 \* * *
 <br>
-
-
+<br>
+<br>
  **Winter Winds**
 
 Screw you wind.<br> 
