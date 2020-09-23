@@ -25,7 +25,8 @@ Hugging them<br>
 out of happiness.<br>
 
 I'm a monk! I'm a monk!
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -39,7 +40,8 @@ just tell them to look<br>
 at the tender way<br> 
 the shioak tree cradles her dead children<br>
 in loving bent arms.
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -50,7 +52,8 @@ in loving bent arms.
 Today my treat<br> 
 is sinking my feet<br> 
 into cool thick clouds of clover.<br>
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -60,7 +63,8 @@ The coldness of the<br>
 Late spring rain<br> 
 has brought back<br>
 winter’s melancholy.<br>
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -78,7 +82,8 @@ as you need<br>
 
 Make your nest<br> 
 warm and cosy.<br>
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -99,7 +104,8 @@ Go ahead little ants,<br>
 make your home in my umbrella.<br> 
 
 The rain is coming.<br>
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -113,7 +119,8 @@ My footsteps<br>
 gone.<br> 
 
 Forgotten.<br> 
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -124,7 +131,8 @@ of the flower<br>
 blossoming<br>
 
 in the darkness.<br>
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -135,7 +143,8 @@ in the darkness.<br>
 Sitting in the forest<br>
 Rain clouds coming.<br> 
 I don't care if I get wet.<br>
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -155,7 +164,8 @@ then<br>
 a theatrical pause<br> 
 to strike a pose<br>
 and warm themselves up.<br> 
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -174,7 +184,8 @@ and sit a while longer.<br>
 Unafraid of the darkness.<br> 
 
 Radiating light.<br>
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -186,7 +197,8 @@ Winter’s first rain<br>
 drips into the drain pipe.<br>
 
 Music.<br>
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -201,7 +213,8 @@ Bones of trees<br>
 all broken now and useless.<br> 
 
 And so it is. And so it is.<br>
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -214,7 +227,8 @@ Feeling the sunlight through branches.<br>
 Warm.<br> 
 Content.<br> 
 Satisfied.<br>
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -231,7 +245,8 @@ to seek the nectar in the earthy flower<br>
 then set your intention<br>
 and expectation<br> 
 on the celestial fruit.<br>
-
+<br>
+<br>
 
 \* * *
 <br>
@@ -250,7 +265,8 @@ Playing games for children.<br>
 
 But knowing.<br> 
 Always knowing.<br>
-
+<br>
+<br>
 
 \* * *
 <br>
