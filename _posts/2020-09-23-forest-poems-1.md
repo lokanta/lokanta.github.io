@@ -1,10 +1,10 @@
-
 ---
 layout: post
-title: Forest Poems 1: Faux-kus 
+title: Forest Poems 1: Faux-kus
 author: Bhante Akāliko
-blurb: Part One of a collection of poems written during 2016–2018 whilst residing at Bodhinyana Monastery in Serpentine, Western Australia. Inspired by the poems of the senior nuns and monks from the *Therīgāthā* and *Theragāthā*, as well as the later Chan and Zen literary traditions, these poems are a homage to the ideal of the rustic solitude of a forest monastic. They explore themes of impermanence, death, melancholy, as well as the joys and struggles of meditation.
+blurb:  Part One of a collection of poems written during 2016–2018 whilst residing at Bodhinyana Monastery in Serpentine, Western Australia. Inspired by the poems of the senior nuns and monks from the *Therīgāthā* and *Theragāthā*, as well as the later Chan and Zen literary traditions, these poems are a homage to the ideal of the rustic solitude of a forest monastic. They explore themes of impermanence, death, melancholy, as well as the joys and struggles of meditation.   
 ---
+
 
 ![Image of a hut in the forest](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/hut2.jpg)
 
@@ -13,6 +13,7 @@ blurb: Part One of a collection of poems written during 2016–2018 whilst resid
 I call these poems *Faux-kus* because they are faux haikus; written in a deliberate stylistic homage to Zen poetry but not adhering to haiku’s rigid metrical structure. Many of the haiku genre’s conventions are retained, such as brevity, seasonal references and the use of impressionistic suggestion to convey mood. 
 
 ***
+
 
 **Just Ordained**
 
@@ -29,6 +30,7 @@ I'm a monk! I'm a monk!
 \* * *
 
 
+
 **Shioak **
 
 If anyone ever asks<br>
@@ -42,6 +44,7 @@ in loving bent arms.
 \* * *
 
 
+
 **Spring Green** 
 
 Today my treat<br> 
@@ -52,6 +55,7 @@ into cool thick clouds of clover.<br>
 \* * *
 
 
+
 The coldness of the<br> 
 Late spring rain<br> 
 has brought back<br>
@@ -59,6 +63,7 @@ winter’s melancholy.<br>
 
 
 \* * *
+
 
 
 ![robin bird stealing thread from a shoe](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/robin%20thief.jpg)
@@ -78,6 +83,7 @@ warm and cosy.<br>
 \* * *
 
 
+
 Ah nature!<br> 
 I inhale you deeply.<br>
 Eyes to the sky<br>
@@ -88,6 +94,7 @@ Bliss.<br>
 \* * *
 
 
+
 Go ahead little ants,<br> 
 make your home in my umbrella.<br> 
 
@@ -95,6 +102,7 @@ The rain is coming.<br>
 
 
 \* * *
+
 
 
 Since I moved huts<br> 
@@ -110,6 +118,7 @@ Forgotten.<br>
 \* * *
 
 
+
 The wisdom<br> 
 of the flower<br>
 blossoming<br>
@@ -120,6 +129,7 @@ in the darkness.<br>
 \* * *
 
 
+
 **Content** 
 
 Sitting in the forest<br>
@@ -128,6 +138,7 @@ I don't care if I get wet.<br>
 
 
 \* * *
+
 
 
 **Matinée**
@@ -149,6 +160,7 @@ and warm themselves up.<br>
 \* * *
 
 
+
 **Night**
 
 The shadows are malevolent.<br> 
@@ -167,6 +179,7 @@ Radiating light.<br>
 \* * *
 
 
+
 **Listening**
 
 Winter’s first rain<br> 
@@ -176,6 +189,7 @@ Music.<br>
 
 
 \* * *
+
 
 
 **Bones**
@@ -192,6 +206,7 @@ And so it is. And so it is.<br>
 \* * *
 
 
+
 Resting now<br> 
 Face to the sky<br> 
 Eyes closed<br>
@@ -202,6 +217,7 @@ Satisfied.<br>
 
 
 \* * *
+
 
 
 **Heavenly Realms**
@@ -220,6 +236,7 @@ on the celestial fruit.<br>
 \* * *
 
 
+
 **Illusion**
 
 Little children<br> 
@@ -236,6 +253,7 @@ Always knowing.<br>
 
 
 \* * *
+
 
 
  **Winter Winds**
