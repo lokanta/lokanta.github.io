@@ -27,9 +27,7 @@ out of happiness.<br>
 I'm a monk! I'm a monk!
 <br>
 <br>
-
-&emsp;\* * *<br>
-<br>
+&emsp; &emsp;\* * *<br>
 <br>
 <br>
 
@@ -43,9 +41,7 @@ the shioak tree cradles her dead children<br>
 in loving bent arms.
 <br>
 <br>
-
-&emsp;\* * *<br>
-<br>
+&emsp; &emsp;\* * *<br>
 <br>
 <br>
 
@@ -56,19 +52,17 @@ is sinking my feet<br>
 into cool thick clouds of clover.<br>
 <br>
 <br>
+&emsp; &emsp;\* * *<br>
+<br>
+<br>
 
-&emsp;\* * *<br>
-<br>
-<br>
-<br>
 The coldness of the<br> 
 Late spring rain<br> 
 has brought back<br>
 winter’s melancholy.<br>
 <br>
 <br>
-
-&emsp;\* * *<br>
+&emsp; &emsp;\* * *<br>
 <br>
 <br>
 
@@ -86,11 +80,10 @@ Make your nest<br>
 warm and cosy.<br>
 <br>
 <br>
+&emsp; &emsp;\* * *<br>
+<br>
+<br>
 
-&emsp;\* * *<br>
-<br>
-<br>
-<br>
 Ah nature!<br> 
 I inhale you deeply.<br>
 Eyes to the sky<br>
@@ -98,22 +91,20 @@ Eyes to the sky<br>
 Bliss.<br>
 <br>
 <br>
+&emsp; &emsp;\* * *<br>
+<br>
+<br>
 
-&emsp;\* * *<br>
-<br>
-<br>
-<br>
 Go ahead little ants,<br> 
 make your home in my umbrella.<br> 
 
 The rain is coming.<br>
 <br>
 <br>
+&emsp; &emsp;\* * *<br>
+<br>
+<br>
 
-&emsp;\* * *<br>
-<br>
-<br>
-<br>
 Since I moved huts<br> 
 my old forest paths<br> 
 have started to disappear.<br> 
@@ -124,11 +115,10 @@ gone.<br>
 Forgotten.<br> 
 <br>
 <br>
+&emsp; &emsp;\* * *<br>
+<br>
+<br>
 
-&emsp;\* * *<br>
-<br>
-<br>
-<br>
 The wisdom<br> 
 of the flower<br>
 blossoming<br>
@@ -136,21 +126,19 @@ blossoming<br>
 in the darkness.<br>
 <br>
 <br>
+&emsp; &emsp;\* * *<br>
+<br>
+<br>
 
-&emsp;\* * *<br>
-<br>
-<br>
-<br>
 Sitting in the forest<br>
 Rain clouds coming.<br> 
 I don't care if I get wet.<br>
 <br>
 <br>
+&emsp; &emsp;\* * *<br>
+<br>
+<br>
 
-&emsp;\* * *<br>
-<br>
-<br>
-<br>
 **Matinée**
 
 When the sun is shining,<br>
@@ -167,11 +155,10 @@ to strike a pose<br>
 and warm themselves up.<br> 
 <br>
 <br>
+&emsp; &emsp;\* * *<br>
+<br>
+<br>
 
-&emsp;\* * *<br>
-<br>
-<br>
-<br>
 **Night**
 
 The shadows are malevolent.<br> 
@@ -187,22 +174,20 @@ Unafraid of the darkness.<br>
 Radiating light.<br>
 <br>
 <br>
+&emsp; &emsp;\* * *<br>
+<br>
+<br>
 
-&emsp;\* * *<br>
-<br>
-<br>
-<br>
 Winter’s first rain<br> 
 drips into the drain pipe.<br>
 
 Music.<br>
 <br>
 <br>
+&emsp; &emsp;\* * *<br>
+<br>
+<br>
 
-&emsp;\* * *<br>
-<br>
-<br>
-<br>
 **Bones**
 
 On the wet earth,<br> 
@@ -214,11 +199,10 @@ all broken now and useless.<br>
 And so it is. And so it is.<br>
 <br>
 <br>
+&emsp; &emsp;\* * *<br>
+<br>
+<br>
 
-&emsp;\* * *<br>
-<br>
-<br>
-<br>
 Resting now<br> 
 Face to the sky<br> 
 Eyes closed<br>
@@ -228,11 +212,10 @@ Content.<br>
 Satisfied.<br>
 <br>
 <br>
+&emsp; &emsp;\* * *<br>
+<br>
+<br>
 
-&emsp;\* * *<br>
-<br>
-<br>
-<br>
 **Heavenly Realms**
 
 If you want to join<br> 
@@ -246,11 +229,10 @@ and expectation<br>
 on the celestial fruit.<br>
 <br>
 <br>
+&emsp; &emsp;\* * *<br>
+<br>
+<br>
 
-&emsp;\* * *<br>
-<br>
-<br>
-<br>
 **Illusion**
 
 Little children<br> 
@@ -266,11 +248,10 @@ But knowing.<br>
 Always knowing.<br>
 <br>
 <br>
+&emsp; &emsp;\* * *<br>
+<br>
+<br>
 
-&emsp;\* * *<br>
-<br>
-<br>
-<br>
  **Winter Winds**
 
 Screw you wind.<br> 
@@ -284,6 +265,8 @@ I shall sit here<br>
 still<br> 
 silent<br> 
 and resolute. 
-
+<br>
+<br>
+&emsp; &emsp;\* * *<br>
 
 
