@@ -96,9 +96,9 @@ all broken now and useless.</p>
 looking at cow bones<br>
 thinking about death.</p> 
 
-<p>‘This body of mine. 
-These bone of mine. 
-I am just bones 
+<p>‘This body of mine.<br> 
+These bone of mine.<br> 
+I am just bones<br> 
 that will lie here, too,’ says the monk</p> 
 
 <p>‘<i>Your</i> bones??’ says the tree deva watching,</p> 
