@@ -67,7 +67,7 @@ Only water, flowing.<br>
 The whole world is suffering.<br>
 My heart cannot bear it.<br> 
 <br>
-Instead of *meditative equipoise—*<br>
+Instead of <i>meditative equipoise</i>—<br>
 a sobbing mess!<br>
 <br>
 Some monk!<br>
