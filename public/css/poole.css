@@ -214,7 +214,8 @@ hr:after{
 }
 
 .poetry hr {
-	width: 50%
+	width: 50%;
+	margin: 3rem auto 2rem;
 }
 .poetry hr:after{
 	content: "";
