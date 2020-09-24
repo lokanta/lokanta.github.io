@@ -8,6 +8,7 @@ blurb: Part Two of a collection of poems written during 2016–2018 whilst resid
 
 ## Tears of a Monk
 The Buddha said that in our countless rebirths in samsara, the flow of tears we have shed is greater than all the water in the oceans, and therefore: 'This is quite enough for you to become disillusioned, dispassionate, and freed regarding all conditions.' Sometimes the suffering of the world affects us deeply, escpecially during intensive meditation when the mind becomes very sensitive. Bodhisattas who weep tears of compassion for the world are a common motif in the Mahayana tradition. Often meditators report experiencing an emotional release that brings a flood of tears. Sometimes, thinking about the kindness and generosity we have received from others can overwhelm us with tears of gratitude. And then there are tears of happiness and joy. 
+---
 <br>
 <br>
 Silently I scream at sorrow.<br>
