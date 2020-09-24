@@ -30,7 +30,7 @@ out of happiness.
 
 <hr>
 
-</section>
+
 
 <section class="poem">
 <h3>Shioak</h3>
@@ -44,7 +44,7 @@ in loving bent arms.
 
 <hr>
 
-</section>
+
 
 <section class="poem">
 <h3>Spring Green </h3>
@@ -64,7 +64,7 @@ winter’s melancholy.
 
 <img alt="robin bird stealing thread from a shoe" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/robin%20thief.jpg">
 
-</section>
+
 
 <section class="poem">
 <h3>Permission to a thief</h3>
@@ -117,7 +117,7 @@ I don't care if I get wet.
 
 <hr>
 
-</section>
+
 
 <section class="poem">
 <h3>Matinée</h3>
@@ -137,7 +137,7 @@ and warm themselves up.
 
 <hr>
 
-</section>
+
 
 <section class="poem">
 <h3>Night</h3>
@@ -163,7 +163,7 @@ drips into the drain pipe.
 
 <hr>
 
-</section>
+
 
 <section class="poem">
 <h3>Bones</h3>
@@ -188,7 +188,7 @@ Satisfied.
 
 <hr>
 
-</section>
+
 
 <section class="poem">
 <h3>Heavenly Realms</h3>
@@ -205,7 +205,7 @@ on the celestial fruit.
 
 <hr>
 
-</section>
+
 
 <section class="poem">
 <h3>Illusion</h3>
@@ -224,7 +224,7 @@ Always knowing.
 
 <hr>
 
-</section>
+
 
 <section class="poem">
 <h3>Winter Winds</h3>
@@ -242,4 +242,3 @@ silent<br>
 and resolute. 
 
 </section>
-
