@@ -206,6 +206,13 @@ hr:after{
   color: #ac4142;
   margin: 0 auto -0.7rem
 }
+
+.plain-break {
+	width: 50%
+}
+.plain-break:after{
+	content: "";
+}
 .math-thing{
     display: block;
     margin: 0.333rem auto;
