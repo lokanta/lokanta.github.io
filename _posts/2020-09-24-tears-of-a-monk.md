@@ -20,6 +20,7 @@ Breathing deeply again now.<br>
 Whispering:<br> 
 Freedom.<br> 
 Escape.
+
 </article> 
 <hr>
 
@@ -30,6 +31,7 @@ Unexpected<br>
 Unasked for<br> 
 Unwanted<br>
 But needed, perhaps.
+
 </article> 
 <hr>
 
@@ -38,6 +40,7 @@ But needed, perhaps.
 <p>I add my tears<br>
 to the great<br>
 ocean of sorrow.
+
 </article> 
 <hr>
 
@@ -48,6 +51,7 @@ I am no use to others.<br>
 If not for me,<br> 
 then,<br>
 for them.
+
 </article> 
 <hr>
 
@@ -59,6 +63,7 @@ soothed by its trickling gurgle.<br>
 To be like that—<br> 
 <br>
 Only water, flowing.
+
 </article> 
 <hr>
 
@@ -71,6 +76,7 @@ Instead of <i>meditative equipoise</i>—<br>
 a sobbing mess!<br>
 <br>
 Some monk!
+
 </article> 
 <hr>
 
@@ -79,6 +85,7 @@ Some monk!
 <p>My heart bursts<br> 
 at the sorrows<br>
 of this world.
+
 </article> 
 <hr>
 
@@ -87,11 +94,12 @@ of this world.
 <p>I dry my cheeks<br> 
 with my robe.<br>
 I'll not cry for long.
+
 </article> 
 <hr>
 
 
-![white crocus flowers in a gree field with trees in the background](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/tears%20of%20a%20monk%202.jpg)
+<img alt="white crocus flowers in a gree field with trees in the background" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/tears%20of%20a%20monk%202.jpg">
 
 
 <article class="poem">
@@ -99,6 +107,7 @@ I'll not cry for long.
 for my tears, perhaps,<br>
 the morning dew<br>
 still lingers on the clover.
+
 </article> 
 <hr>
 
@@ -108,6 +117,7 @@ still lingers on the clover.
 <br>
 I'll use these fallen leaves<br>
 to wipe away my tears.
+
 </article> 
 <hr>
 
@@ -125,5 +135,6 @@ They taste of freedom.
 Do not grieve.<br>
 Seeing only the suffering<br>
 you miss the hope.
+
 </article>
-<hr>
+</section>
