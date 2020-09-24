@@ -5,7 +5,7 @@ author: Bhante Akāliko
 blurb:  Part One of a collection of poems written during 2016–2018 whilst residing at Bodhinyana Monastery in Serpentine, Western Australia. Inspired by the poems of the senior nuns and monks from the <i>Therīgāthā</i> and <i>Theragāthā</i>, as well as the later Chan and Zen literary traditions, these poems are a homage to the ideal of the rustic solitude of a forest monastic. They explore themes of impermanence, death, melancholy, as well as the joys and struggles of meditation.   
 ---
 
-![Image of a hut in the forest](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/hut2.jpg)
+<img alt="Image of a hut in the forest" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/hut2.jpg">
 
 ## Faux-kus
 
@@ -15,7 +15,9 @@ I call these poems *Faux-kus* because they are faux haikus; written in a deliber
 
 <section class="poetry">
 
-### Just Ordained
+
+<section class="poem">
+<h3>Just Ordained</h3>
 
 <p>Waking in my little hut<br> 
 to see my new robes<br>
@@ -28,7 +30,10 @@ out of happiness.
 
 <hr>
 
-### Shioak
+</section>
+
+<section class="poem">
+<h3>Shioak</h3>
 
 <p>If anyone ever asks<br>
 if plants have feelings<br>
@@ -39,7 +44,10 @@ in loving bent arms.
 
 <hr>
 
-### Spring Green 
+</section>
+
+<section class="poem">
+<h3>Spring Green </h3>
 
 <p>Today my treat<br> 
 is sinking my feet<br> 
@@ -54,9 +62,12 @@ winter’s melancholy.
 
 <hr>
 
-![robin bird stealing thread from a shoe](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/robin%20thief.jpg)
+<img alt="robin bird stealing thread from a shoe" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/robin%20thief.jpg">
 
-### Permission to a thief
+</section>
+
+<section class="poem">
+<h3>Permission to a thief</h3>
 
 <p>Go on little robin!<br> 
 Take as much thread<br> 
@@ -106,7 +117,10 @@ I don't care if I get wet.
 
 <hr>
 
-### Matinée
+</section>
+
+<section class="poem">
+<h3>Matinée</h3>
 
 <p>When the sun is shining,<br>
 the metal roof of my hut <br>
@@ -123,7 +137,10 @@ and warm themselves up.
 
 <hr>
 
-### Night
+</section>
+
+<section class="poem">
+<h3>Night</h3>
 
 <p>The shadows are malevolent.<br> 
 The mosquito's buzz<br>
@@ -146,7 +163,10 @@ drips into the drain pipe.
 
 <hr>
 
-### Bones
+</section>
+
+<section class="poem">
+<h3>Bones</h3>
 
 <p>On the wet earth,<br> 
 everywhere bones.<br> 
@@ -168,7 +188,10 @@ Satisfied.
 
 <hr>
 
-### Heavenly Realms
+</section>
+
+<section class="poem">
+<h3>Heavenly Realms</h3>
 
 <p>If you want to join<br> 
 the feeders of heavenly nectar
@@ -182,7 +205,10 @@ on the celestial fruit.
 
 <hr>
 
-### Illusion
+</section>
+
+<section class="poem">
+<h3>Illusion</h3>
 
 <p>Little children<br> 
 offering<br> 
@@ -198,7 +224,10 @@ Always knowing.
 
 <hr>
 
-### Winter Winds
+</section>
+
+<section class="poem">
+<h3>Winter Winds</h3>
 
 <p>Screw you wind.<br> 
 Throw yourself at my hut.<br> 
