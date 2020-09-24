@@ -22,11 +22,11 @@ I call these poems *Faux-kus* because they are faux haikus; written in a deliber
 <p>Waking in my little hut<br> 
 to see my new robes<br>
 hanging up
-
+</p>
 <p>Hugging them<br> 
-out of happiness.
+out of happiness.</p>
 
-<p>I'm a monk! I'm a monk!
+<p>I'm a monk! I'm a monk!</p>
 
 </div>
 <hr>
