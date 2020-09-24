@@ -208,13 +208,12 @@ hr:after{
 }
 .poetry{
 	display: flex;
-	justify-content: center;
 	flex-direction: column;
 	align-items: center;	
 }
 
 .poetry hr {
-	width: 50%;
+	width: 6em;
 	margin: 3rem auto 2rem;
 }
 .poetry hr:after{
