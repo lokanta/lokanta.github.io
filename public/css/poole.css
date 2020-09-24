@@ -224,7 +224,8 @@ hr:after{
 	font-weight: bold
 }
 .poetry p{
-	margin: 1em 0;
+	margin: 1em auto;
+	display: table
 }
 .math-thing{
     display: block;
