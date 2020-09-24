@@ -22,7 +22,8 @@ These poems explore the practice of <i>asubha</i>, or reflecting on the repulsiv
 <article class="poem">
 <p>Ticks. Mosquitoes. Flies.<br> 
 Today in the forest<br> 
-I am a feast for many.</article>
+I am a feast for many.
+</article>
 <hr>
 
 
