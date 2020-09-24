@@ -62,7 +62,6 @@ Late spring rain<br>
 has brought back<br>
 winter’s melancholy.</p>
 
-<hr>
 </article>
 <img alt="robin bird stealing thread from a shoe" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/robin%20thief.jpg">
   
