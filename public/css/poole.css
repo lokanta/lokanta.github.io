@@ -210,7 +210,6 @@ hr:after{
 	display: flex;
 	flex-direction: column;
 	align-items: center;	
-	scroll-snap-type: y mandatory;
 }
 
 .poetry hr {
@@ -228,13 +227,7 @@ hr:after{
 	margin: 1em 0;
 }
 .poem{
-	margin: 2em 0;
-	height: 100vh;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	scroll-snap-align: start;
-	
+	margin: 2em 0;	
 }
 .math-thing{
     display: block;
