@@ -225,11 +225,10 @@ hr:after{
 }
 .poetry p{
 	margin: 1em 0;
-	display: table
 }
 .poem{
-	margin: 1em auto;
-	display: table
+	margin: 2em 0;
+	
 }
 .math-thing{
     display: block;
