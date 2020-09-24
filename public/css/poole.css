@@ -224,6 +224,10 @@ hr:after{
 	font-weight: bold
 }
 .poetry p{
+	margin: 1em 0;
+	display: table
+}
+.poem{
 	margin: 1em auto;
 	display: table
 }
