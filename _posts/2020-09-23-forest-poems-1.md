@@ -241,4 +241,3 @@ I shall sit here
 silent<br> 
 and resolute. 
 
-</section>
