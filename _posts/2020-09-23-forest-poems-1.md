@@ -13,10 +13,10 @@ I call these poems *Faux-kus* because they are faux haikus; written in a deliber
 
 <hr>
 
-<section class="poetry">
+<div class="poetry">
 
 
-<section class="poem">
+<div class="poem">
 <h3>Just Ordained</h3>
 
 <p>Waking in my little hut<br> 
@@ -28,11 +28,12 @@ out of happiness.
 
 <p>I'm a monk! I'm a monk!
 
+</div>
 <hr>
 
 
 
-<section class="poem">
+<div class="poem">
 <h3>Shioak</h3>
 
 <p>If anyone ever asks<br>
@@ -42,11 +43,12 @@ at the tender way<br>
 the shioak tree cradles her dead children<br>
 in loving bent arms.
 
+</div>
 <hr>
 
 
 
-<section class="poem">
+<div class="poem">
 <h3>Spring Green </h3>
 
 <p>Today my treat<br> 
@@ -61,12 +63,10 @@ has brought back<br>
 winter’s melancholy.
 
 <hr>
-
+</div>
 <img alt="robin bird stealing thread from a shoe" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/robin%20thief.jpg">
-
-<section class="poetry">
   
-<section class="poem">
+<div class="poem">
 <h3>Permission to a thief</h3>
 
 <p>Go on little robin!<br> 
@@ -114,12 +114,10 @@ blossoming
 <p>Sitting in the forest<br>
 Rain clouds coming.<br> 
 I don't care if I get wet.
-
+</div>
 <hr>
 
-
-
-<section class="poem">
+<div class="poem">
 <h3>Matinée</h3>
 
 <p>When the sun is shining,<br>
@@ -134,12 +132,12 @@ drumming a beat,
 a theatrical pause<br> 
 to strike a pose<br>
 and warm themselves up.
-
+</div>
 <hr>
 
 
 
-<section class="poem">
+<div class="poem">
 <h3>Night</h3>
 
 <p>The shadows are malevolent.<br> 
@@ -160,12 +158,12 @@ Unafraid of the darkness.
 drips into the drain pipe.
 
 <p>Music.
-
+</div>
 <hr>
 
 
 
-<section class="poem">
+<div class="poem">
 <h3>Bones</h3>
 
 <p>On the wet earth,<br> 
@@ -185,12 +183,12 @@ Feeling the sunlight through branches.<br>
 Warm.<br> 
 Content.<br> 
 Satisfied.
-
+</div>
 <hr>
 
 
 
-<section class="poem">
+<div class="poem">
 <h3>Heavenly Realms</h3>
 
 <p>If you want to join<br> 
@@ -202,12 +200,12 @@ to seek the nectar in the earthy flower
 <p>then set your intention<br>
 and expectation<br> 
 on the celestial fruit.
-
+</div>
 <hr>
 
 
 
-<section class="poem">
+<div class="poem">
 <h3>Illusion</h3>
 
 <p>Little children<br> 
@@ -221,12 +219,12 @@ Playing games for children.
 
 <p>But knowing.<br> 
 Always knowing.
-
+</div>
 <hr>
 
 
 
-<section class="poem">
+<div class="poem">
 <h3>Winter Winds</h3>
 
 <p>Screw you wind.<br> 
@@ -240,4 +238,5 @@ I shall sit here
 <p>still<br> 
 silent<br> 
 and resolute. 
-
+</div>
+</div>
