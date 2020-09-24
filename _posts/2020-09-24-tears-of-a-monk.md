@@ -19,7 +19,7 @@ The Buddha said that in our countless rebirths in samsara, the flow of tears we 
 Breathing deeply again now.<br>
 Whispering:<br> 
 Freedom.<br> 
-Escape.
+  Escape.</p>
 
 </article> 
 <hr>
@@ -30,7 +30,7 @@ Escape.
 Unexpected<br>
 Unasked for<br> 
 Unwanted<br>
-But needed, perhaps.
+But needed, perhaps.</p>
 
 </article> 
 <hr>
@@ -39,7 +39,7 @@ But needed, perhaps.
 <article class="poem">
 <p>I add my tears<br>
 to the great<br>
-ocean of sorrow.
+ocean of sorrow.</p>
 
 </article> 
 <hr>
@@ -50,7 +50,7 @@ ocean of sorrow.
 I am no use to others.<br> 
 If not for me,<br> 
 then,<br>
-for them.
+for them.</p>
 
 </article> 
 <hr>
@@ -60,9 +60,9 @@ for them.
 <p>Cheeks damp,<br> 
 Sitting by the stream,<br>
 soothed by its trickling gurgle.<br>
-To be like that—<br> 
-<br>
-Only water, flowing.
+To be like that—</p>
+
+<p>Only water, flowing.</p>
 
 </article> 
 <hr>
@@ -70,12 +70,12 @@ Only water, flowing.
 
 <article class="poem">
 <p>The whole world is suffering.<br>
-My heart cannot bear it.<br> 
-<br>
-Instead of <i>meditative equipoise</i>—<br>
-a sobbing mess!<br>
-<br>
-Some monk!
+My heart cannot bear it.</p> 
+
+<p>Instead of <i>meditative equipoise</i>—<br>
+a sobbing mess!</p>
+
+<p>Some monk!</p>
 
 </article> 
 <hr>
@@ -84,7 +84,7 @@ Some monk!
 <article class="poem">
 <p>My heart bursts<br> 
 at the sorrows<br>
-of this world.
+of this world.</p>
 
 </article> 
 <hr>
@@ -93,7 +93,7 @@ of this world.
 <article class="poem">
 <p>I dry my cheeks<br> 
 with my robe.<br>
-I'll not cry for long.
+I'll not cry for long.</p>
 
 </article> 
 <hr>
@@ -106,7 +106,7 @@ I'll not cry for long.
 <p>Out of sympathy<br>
 for my tears, perhaps,<br>
 the morning dew<br>
-still lingers on the clover.
+still lingers on the clover.</p>
 
 </article> 
 <hr>
@@ -116,7 +116,7 @@ still lingers on the clover.
 <p>The Buddha’s teachings—<br>
 <br>
 I'll use these fallen leaves<br>
-to wipe away my tears.
+to wipe away my tears.</p>
 
 </article> 
 <hr>
@@ -125,7 +125,7 @@ to wipe away my tears.
 <article class="poem">
 <p>Meditation tears<br>
 don’t taste of salt.<br> 
-They taste of freedom.
+They taste of freedom.</p>
 </article> 
 <hr>
 
@@ -134,7 +134,7 @@ They taste of freedom.
 <p>Do not sorrow.<br> 
 Do not grieve.<br>
 Seeing only the suffering<br>
-you miss the hope.
+you miss the hope.</p>
 
 </article>
 </section>
