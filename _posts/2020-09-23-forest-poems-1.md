@@ -60,12 +60,14 @@ Late spring rain<br>
 has brought back<br>
 winter’s melancholy.
 
+</section>
+</section>
 <hr>
 
 <img alt="robin bird stealing thread from a shoe" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/robin%20thief.jpg">
 
-
-
+<section class="poetry">
+  
 <section class="poem">
 <h3>Permission to a thief</h3>
 
