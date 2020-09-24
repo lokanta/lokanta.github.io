@@ -206,12 +206,25 @@ hr:after{
   color: #ac4142;
   margin: 0 auto -0.7rem
 }
+.poetry{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;	
+}
 
-.plain-break {
+.poetry hr {
 	width: 50%
 }
-.plain-break:after{
+.poetry hr:after{
 	content: "";
+}
+.poetry h3{
+	font-size: 1rem;
+	font-weight: bold
+}
+.poetry p{
+	margin: 1em 0;
 }
 .math-thing{
     display: block;
