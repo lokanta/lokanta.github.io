@@ -287,7 +287,7 @@ details iframe {
     border-radius: 5px;
 }
 
-button.button-middle, p.button-middle{
+button.button-middle, p.button-middle, .call-to-action{
      display: table;
     margin: 1rem auto 1rem;
     padding: 0.5rem 1rem;
