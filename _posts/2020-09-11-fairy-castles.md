@@ -62,7 +62,7 @@ But the first friend could not see. They turned away, tried to focus on other th
 
 During the walk, the first friend found themself tuning out more and more from the other. They didn’t hear them, didn’t see them. They walked in separate worlds, as it were. One followed the path of the sun, the other the path of the moon.
 
-When they arrived back home, the first friend turned to the other. They meant to say something, so suggest that maybe they need not walk together every day, that they preferred to just be quiet rather than to listen about fairy castles all the way. 
+When they arrived back home, the first friend turned to the other. They meant to say something, to suggest that maybe they need not walk together every day, that they preferred to just be quiet rather than to listen about fairy castles all the time. 
 
 But to their surprise, the other was hardly there. They had faded and become transparent. Their voice echoed as if from the bottom of a distant well. And as the first friend watched, the other rippled in and out of existence like a face under water. The world was splitting and they could only watch in silent puzzlement.
 
