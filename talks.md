@@ -11,7 +11,7 @@ title: Dhamma Talks
      
 <p>With the Covid-19 pandemic, we became aware that the world that we know is rapidly changing. But this is just a small test for the challenges that still await us. The icesheets in Greenland have passed a critical point of melting, the North Pole will likely become ice free within the next decades. The sea level will rise and with that large numbers of people will be displaced. The unseen wildfires in Australia and California have shown us the destruction that global heating can cause and many places in the world are running out of drinking water. Hurricanes and other natural disasters are becoming more severe than ever and are wreaking havoc around the world. This is just the beginning of what awaits us. So how do we as Buddhists deal with these challenges and how can we help others through the difficult times that are still to come?</p>     
           
-<p><b>Watch the entire series</b>    
+<p><b>Watch the entire series</b></p>    
 * <b>Part 1: LIFE</b>
 <p>Watch  on <a href="https://youtu.be/Mchiiz5MBA8">YouTube.</a></p>
      
