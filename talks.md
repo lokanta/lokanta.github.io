@@ -59,7 +59,7 @@ For more of Bhante’s New York talks, visit the Buddhist Insights [video page](
 
 ## Bhante Akāliko ##
 
-* *[Saddha Faith and Confidence](https://www.youtube.com/watch?v=Eiy1C0CfYXk&t=754s)*<br>
+* *[Saddha: Faith and Confidence](https://www.youtube.com/watch?v=Eiy1C0CfYXk&t=754s)*<br>
 Bhante talks about the various ways we can give rise to a sense of confidence in the Buddha's teachings and explains the benefits of a deep conviction in the spiritual path
 
 * *[The Five Frequent Reflections.](https://www.youtube.com/watch?v=vl8XK-0-hxo&t=781s)*<br>
