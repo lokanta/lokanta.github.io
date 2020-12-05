@@ -16,13 +16,13 @@ title: Dhamma Talks
 <p>Watch  on <a href="https://youtu.be/Mchiiz5MBA8">YouTube.</a></p>
      
 * <b> Part 2: LOVE</b>
-<p>Watch on <a href="https://youtu.be/QHiZczAkDcM">YouTube.</a></p>
+<p>Watch on <a href="https://youtu.be/8sqyfuIU0Yc">YouTube.</a></p>
      
 * <b>Part 3: JOY</b>
-<p>Watch  on <a href="https://youtu.be/-6X8zFCcqgo">YouTube.</a></p>     
+<p>Watch  on <a href="https://youtu.be/5aoa7X9RHTY">YouTube.</a></p>     
 
 * <b>Part 4: ACCEPTANCE</b>
- <p>Watch on <a href="https://youtu.be/PS5YxKeQ4mk">YouTube.</a></p> 
+ <p>Watch on <a href="https://youtu.be/EFjLqKIcptI">YouTube.</a></p> 
  
  <hr>
 
