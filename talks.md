@@ -6,6 +6,12 @@ title: Dhamma Talks
 <img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/bhante%20sujato%20image.jpg" alt="image of Bhante Sujato">  
 
 ## Bhante Sujato
+
+<h3>Dhammanet Youtube Channel</h3>
+Many of Bhante Sujato's old and recent talks can be found on the [Dhammanet youtube channel.](https://www.youtube.com/c/DhammanetOrg) 
+
+* *[Why I am an Anarchist](https://www.youtube.com/watch?v=jwFOZX813iw&t=27s)*<br>
+  
      
 <h3>Life Hacks for the End of the World: 4-part Online Series with Bhante Sujato</h3>
      
@@ -51,6 +57,10 @@ For more of Bhante’s New York talks, visit the Buddhist Insights [video page](
 ![Akaliko Bhikkhu gives a dhamma talk](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Akaliko%20Bhikkhu%20Photo.png)
 
 ## Bhante Akāliko ##
+
+* *[Saddha Faith and Confidence](https://www.youtube.com/watch?v=Eiy1C0CfYXk&t=754s)*<br>
+
+* *[The Five Frequent Reflections].(https://www.youtube.com/watch?v=vl8XK-0-hxo&t=781s)*<br>
 
 * *[Overcoming Anger and Hatred](https://www.youtube.com/watch?v=bguMpoum8Qk&t=17s)*<br>
 Bhante Akāliko describes the drawbacks of the hindrance of hatred and provides some strategies to deal with it. 
