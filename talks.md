@@ -8,9 +8,10 @@ title: Dhamma Talks
 ## Bhante Sujato
 
 <h3>Dhammanet Youtube Channel</h3>
-Many of Bhante Sujato's old and recent talks can be found on the [Dhammanet youtube channel.](https://www.youtube.com/c/DhammanetOrg) 
+Many of Bhante Sujato's older and recent talks can be found on the [Dhammanet youtube channel.](https://www.youtube.com/c/DhammanetOrg) 
 
 * *[Why I am an Anarchist](https://www.youtube.com/watch?v=jwFOZX813iw&t=27s)*<br>
+Bhante discusses similarities between anarchism and the way the Buddha set up the Sangha.
   
      
 <h3>Life Hacks for the End of the World: 4-part Online Series with Bhante Sujato</h3>
@@ -59,8 +60,10 @@ For more of Bhante’s New York talks, visit the Buddhist Insights [video page](
 ## Bhante Akāliko ##
 
 * *[Saddha Faith and Confidence](https://www.youtube.com/watch?v=Eiy1C0CfYXk&t=754s)*<br>
+Bhante talks about the various ways we can give rise to a sense of confidence in the Buddha's teachings and explains the benefits of a deep conviction in the spiritual path
 
-* *[The Five Frequent Reflections].(https://www.youtube.com/watch?v=vl8XK-0-hxo&t=781s)*<br>
+* *[The Five Frequent Reflections.](https://www.youtube.com/watch?v=vl8XK-0-hxo&t=781s)*<br>
+Bhante guides a meditation on each of the themes: old age, sickness, death, separation, and kamma.
 
 * *[Overcoming Anger and Hatred](https://www.youtube.com/watch?v=bguMpoum8Qk&t=17s)*<br>
 Bhante Akāliko describes the drawbacks of the hindrance of hatred and provides some strategies to deal with it. 
