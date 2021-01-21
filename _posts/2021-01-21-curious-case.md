@@ -107,7 +107,7 @@ Translating poetry from Pali is difficult. As a first time translator, it seems 
 
 > *My approach was to read a poem many, many times, to find the essential teaching each enlightened nun was trying to communicate. Then reconstruct the poem around that primary image or the instruction. In many ways it became something other than a translation, more in the line of what Coleman Barks did for Rumi. Some poems remained close to the original, some spun off.*
 >
-> *I had no training in this, and I wasn’t telling people what I was doing because the whole thing was so weird. But something allowed me to say: let’s see where this goes. I was in over my head, not properly trained to do this, but that allowed it to turn into whatever it wanted. I didn’t know what I was doing. I was certain of that. And I really think that’s the best, whether in our practice, our life, or in the creative process. It’s so clear that that place of not knowing is where we want to be.*
+> *I had no training in this, and I wasn’t telling people what I was doing because the whole thing was so weird. But something allowed me to say: let’s see where this goes. I was in over my head, not properly trained to do this, but that allowed it to turn into whatever it wanted. I didn’t know what I was doing. I was certain of that. And I really think that’s the best, whether in our practice, our life, or in the creative process. It’s so clear that that place of not knowing is where we want to be.*<br>
 > Source: [Creative Dharma Podcast](https://creativedharma.substack.com/p/cd06-translating-the-first-free-women)
 
 
@@ -181,7 +181,7 @@ Knowing just where that line is would be clear to the majority of Buddhists arou
 
 In the book’s introduction, Weingast himself says:
 
-> *Many of the poems here closely resemble the originals, with shifts here and there of varying degrees. Others are more like variations on a classic tune. Though these are not literal translations, even in the freest renderings, I do not hear my voice. I hear Uppalavanna, Khema, Mahapajapati, Anopama, Patachara, Siha, Dhammadinna, Isidati...* 
+> *Many of the poems here closely resemble the originals, with shifts here and there of varying degrees. Others are more like variations on a classic tune. Though these are not literal translations, even in the freest renderings, I do not hear my voice. I hear Uppalavanna, Khema, Mahapajapati, Anopama, Patachara, Siha, Dhammadinna, Isidati...*<br> 
 >Source: The First Free Women
 
 
@@ -196,14 +196,14 @@ In a revealing interview with Pamela Weiss, Weingast talks about his translation
 >
 > **Pamela Weiss:** *Could you give an example of a line or couple of lines that like what a literal translation would be like and what, as an example of what you did?*
 >
-> **Weingast:** *Uh, [deep sigh] I mean, it’s almost, it’s almost gets even wider than that really. Um, [Pamela Weiss: laugh] so yeah, I mean, like, luckily I had no idea what I was doing, so like, it just kind of allowed me to just make it up as I went along and I spent a long time doing it and a lot of time editing them, some of these poems, I rewrote, you know, a hundred, 150 times more. So it was kind of always just this, um, seeing what it was, seeing, what it was for me, that was the important part. And then trying to kind of let that come through, um, how much of it was me and how much of it was the originals, something in between there. Yeah.*   
+> **Weingast:** *Uh, [deep sigh] I mean, it’s almost, it’s almost gets even wider than that really. Um, [Pamela Weiss: laugh] so yeah, I mean, like, luckily I had no idea what I was doing, so like, it just kind of allowed me to just make it up as I went along and I spent a long time doing it and a lot of time editing them, some of these poems, I rewrote, you know, a hundred, 150 times more. So it was kind of always just this, um, seeing what it was, seeing, what it was for me, that was the important part. And then trying to kind of let that come through, um, how much of it was me and how much of it was the originals, something in between there. Yeah.*<br>   
 >  Source: [Interview with Pamela Weiss](https://soundcloud.com/user-426156245/the-first-free-women-with) 
 
 
 
 With every insertion and re-write Weingast made, the line protecting the integrity of a scriptural tradition lasting thousands of years was incrementally eroded until it simply became irrelevant. In the end, that line was deliberately disregarded by Weingast and his scared responsibility as translator was completely discarded with it. As Weingast says himself:
 
-> *Um, and the whole thing was really crazy. There was a lot of doubt, you know, and I was like, well, what business do I have doing something like this? You know, and it’s, you know, I shouldn’t be doing it anyway. And like, what am I doing? Um, it did take on a life of its own. Um, but people are, anyways, people are going to have feelings about it one way or the other, not everyone’s going to like that. I did this or the way in which I did it. I have friends who were pretty hardcore monastics and some of them are going to think what I did wasn’t good. Um, but at this point, I’m okay with that. I, it was definitely, um, the coolest thing that I’ve been part of in my life and the thing I most had the most joy from. So yeah. You know, I, I wouldn’t take it back now...*   
+> *Um, and the whole thing was really crazy. There was a lot of doubt, you know, and I was like, well, what business do I have doing something like this? You know, and it’s, you know, I shouldn’t be doing it anyway. And like, what am I doing? Um, it did take on a life of its own. Um, but people are, anyways, people are going to have feelings about it one way or the other, not everyone’s going to like that. I did this or the way in which I did it. I have friends who were pretty hardcore monastics and some of them are going to think what I did wasn’t good. Um, but at this point, I’m okay with that. I, it was definitely, um, the coolest thing that I’ve been part of in my life and the thing I most had the most joy from. So yeah. You know, I, I wouldn’t take it back now...*<br>   
 > Source: [Interview with Pamela Weiss](https://soundcloud.com/user-426156245/the-first-free-women-with)
 
 
@@ -218,7 +218,7 @@ The importance of maintaining the Dhamma faithfully and accurately is repeated m
 
 >*The true teaching doesn’t disappear as long the counterfeit of the true teaching hasn’t appeared in the world. But when the counterfeit of the true teaching appears in the world then the true teaching disappears.It’s like true gold, which doesn’t disappear as long as counterfeit gold hasn’t appeared in the world. But when counterfeit gold appears in the world then real gold disappears.
 >
->*In the same way, the true teaching doesn’t disappear as long the counterfeit of the true teaching hasn’t appeared in the world. But when the counterfeit of the true teaching appears in the world then the true teaching disappears.* 
+>*In the same way, the true teaching doesn’t disappear as long the counterfeit of the true teaching hasn’t appeared in the world. But when the counterfeit of the true teaching appears in the world then the true teaching disappears.*<br>
 >Source:[Saddhammappatirūpaka Sutta SN 16.13 Trans. Sujato](https://suttacentral.net/sn16.13/en/sujato)
 
 It’s important to remember that this book is not Buddhist scripture. Like Colema’s Bark treatment of Rumi, where references to Islam were removed, Weingast systematically erases fundamental Buddhist doctrinal concepts from the original texts, often changing the meaning and doctrinal message entirely. He frequently removes references to the Buddha’s instructions from the poems; despite the nun’s themselves including these teachings, after all, those instructions helped them attain enlightenment, yet they are extraneous to Weingast. He also removes essential Buddhist concepts like the Eightfold Noble Path, the three enlightenment knowledges, stages of attainment, and the super-human powers claimed by the women themselves. References to Mara, rebirth, people and place names are frequently omitted. Even the Buddha himself is unceremoniously excluded!
@@ -326,7 +326,7 @@ Weinsgast was aware of this problem. He has spoken about his ongoing personal di
 
 > *You know, like the best I could do was kind of be quiet, you know, and allow, especially female voices to kind of guide things for a while, because as we know, male voices have been doing the guiding and that’s been a big part of the problem. Um, so it wasn’t really conscious where I was like, Oh, I want to be involved in this. And I want to be part of this, you know, but it was playing somewhere in the background. And, but then once it started to happen and then, yeah, it was very uncomfortable for me knowing that I didn’t want to be one more male co-opting female voices. Um, there’s been a lot of that in for thousands of years, this has been going on. Um, and I knew that one way or another, if I was going to do this project, I would be one more male co-opting female voices.*
 >
->  *And still to this day, I’m still very uncomfortable with it*
+>  *And still to this day, I’m still very uncomfortable with it.*<br>
 > Source: [New Books Podcast](https://newbooksnetwork.com/matty-weingast-the-first-free-women-poems-of-the-early-buddhist-nuns-shambhala-2020) 
 
 
@@ -334,7 +334,7 @@ Weinsgast was aware of this problem. He has spoken about his ongoing personal di
 In another interview, Weingast again speaks of his discomfort and his awareness that what he was doing was controversial. Yet he seems to make out that the process was somehow out of his control: 
 
 >  *I was very uncomfortable knowing I was a man trying to interpret these poems by our female ancestors. I was even more uncomfortable when I saw that the poems were coming out as adaptations or interpretations. I imagined that many people would find that offensive, very presumptuous of me*.
-> *This was a daily battle for me.* 
+> *This was a daily battle for me.* <br>
 > Source: [Dharma Podcast](https://creativedharma.substack.com/p/cd06-translating-the-first-free-women Creative)
 
 
@@ -349,7 +349,7 @@ When writing the voices of other groups, it’s possible to do so in an ethical 
 >
 > **Audience member:** *It was her interpretation of the word or, not this word or that word?*
 >
-> **Weingast:** *Not so much to Pali, um, because she doesn’t have Pali actually. Um, so at that point we were just kind of reading the drafts that I had and it was kind of like, no, this one doesn’t ring true. This one does. And what can we do? You know? And then I would kind of go back to the drawing board and kind of see what else, and then we would be and she would be reading them aloud and I’d be like, read it aloud this way. We know that that way she’d be like, how about this way? How about that way?*   
+> **Weingast:** *Not so much to Pali, um, because she doesn’t have Pali actually. Um, so at that point we were just kind of reading the drafts that I had and it was kind of like, no, this one doesn’t ring true. This one does. And what can we do? You know? And then I would kind of go back to the drawing board and kind of see what else, and then we would be and she would be reading them aloud and I’d be like, read it aloud this way. We know that that way she’d be like, how about this way? How about that way?* <br>
 > Source: [Interview with Pamela Weiss](https://soundcloud.com/user-426156245/the-first-free-women-with) 
 
 
@@ -363,7 +363,7 @@ This is not what it means to be an ally. The golden rule for ally-ship is to alw
 
 Weingast sincerely wants to be an ally but contradictorily, he ends up making it all about himself. It’s about his creative and spiritual journey, his idea of these women's stories, his idea of what is kept and added to their stories. Weingast is certainly not a misogynist, but despite his seemingly good intentions, he acts just like any other man who refuses to give up his own privilege and instead takes over the space women should have. It’s no wonder there has been criticism of his process. This was not unexpected by him, and whilst writing the book his method did not go unchallenged. In interviews he mentions encountering strong resistance to his unorthodox approach: 
 
-> *But, I would say, I’m here to do the best I can. If for any reason people want to disagree – and some people have strongly disagreed – that’s an important conversation. Let’s empower ourselves to disagree. We all learn from that conversation.*   
+> *But, I would say, I’m here to do the best I can. If for any reason people want to disagree – and some people have strongly disagreed – that’s an important conversation. Let’s empower ourselves to disagree. We all learn from that conversation.* <br>  
 > Source: [Creative Dharma Podcast](https://creativedharma.substack.com/p/cd06-translating-the-first-free-women)
 
 
