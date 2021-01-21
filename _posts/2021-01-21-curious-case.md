@@ -117,7 +117,7 @@ It’s worth noting that Coleman Barks makes a dubious mentor for a newbie trans
 
 Let’s have a look at another poem, this time the verses of Saṃghā Therī. 
 
-The original Pali ((Saṃghātherīgāthā Thig 1.1):
+The original Pali (Saṃghātherīgāthā Thig 1.1):
 
 >  Hitvā ghare pabbajitvā,
 >  hitvā puttaṃ pasuṃ piyaṃ;
@@ -192,7 +192,7 @@ Weingast is happy to blur the lines between translation and invention, and muddy
 
 In a revealing interview with Pamela Weiss, Weingast talks about his translation practice and demonstrates he was very much aware of blurring the line between translation and his own content:
 
-> **Weingast:** *...Oh, I’ll just make it something, but a little bit more accessible. It got way wider than that. [Pamela Weiss: laugh] How wide? Some poems are wider than others and depart more from the texts, you know, are fairly close and some are not. That’s a whole other discussion. That’s as clear as I go.*
+> **Weingast:** *...Oh, I’ll just make it something, but a little bit more accessible. It got way wider than that. How wide? Some poems are wider than others and depart more from the texts, you know, are fairly close and some are not. That’s a whole other discussion. That’s as clear as I go.*
 >
 > **Pamela Weiss:** *Could you give an example of a line or couple of lines that like what a literal translation would be like and what, as an example of what you did?*
 >
