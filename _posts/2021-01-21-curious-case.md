@@ -256,7 +256,7 @@ A translation by Bhante Sujato:
 >  I’ve attained the three knowledges,
 >  and fulfilled the Buddha’s instructions.
 
-Weingast’s Version
+Weingast’s Version:
 
 >  I know my older sister passed this way.
 >
