@@ -89,7 +89,7 @@ Further, the vast majority of online reviews on [Amazon](https://www.amazon.com.
 > * These translations of 2500 year old women's poems are powerful and touching. I have ordered copies for my women friends.
 > * This collection is a new translation that should resonate with modern readers
 
-Examining the books poems and seeing the high proportion of Weingast’s interventions, it is astonishing that the Shambhala had the audacity to label it a translation in the first place. Seeing so many reviews that mistake it for a translation is disheartening, but at least these people have simply been deceived by the publisher’s marketing. After all, not everyone is a Pali expert, and Shambhala constantly places references to the real Therīgāthā front and centre of their publicity. Is it any wonder people are confused about the truth of this book? How could this have happened?  Why on earth would they choose do this?  
+Examining the book's poems and seeing the high proportion of Weingast’s interventions, it is astonishing that the Shambhala had the audacity to label it a translation in the first place. Seeing so many reviews that mistake it for a translation is disheartening, but at least these people have simply been deceived by the publisher’s marketing. After all, not everyone is a Pali expert, and Shambhala constantly places references to the real Therīgāthā front and centre of their publicity. Is it any wonder people are confused about the truth of this book? How could this have happened?  Why on earth would they choose do this?  
 
 The truth is this: poetry books by unknown translators and first time authors simply don’t sell all that well. The author and publisher have unscrupulously exploited the name of the Therīgāthā in their marketing purely for commercial and personal gain. This is a deceptive act of cultural insensitivity and a disrespectful cultural appropriation of a sacred text. Weingast’s original poetry certainly would not have enjoyed the popularity it has done if it was released on its own merits, without the tenuous connection to the original Therīgāthā. This is a shameless example of standing on the shoulders of giants, simply for the pursuit of sales.
 
@@ -108,8 +108,7 @@ Translating poetry from Pali is difficult. As a first time translator, it seems 
 > *My approach was to read a poem many, many times, to find the essential teaching each enlightened nun was trying to communicate. Then reconstruct the poem around that primary image or the instruction. In many ways it became something other than a translation, more in the line of what Coleman Barks did for Rumi. Some poems remained close to the original, some spun off.*
 >
 > *I had no training in this, and I wasn’t telling people what I was doing because the whole thing was so weird. But something allowed me to say: let’s see where this goes. I was in over my head, not properly trained to do this, but that allowed it to turn into whatever it wanted. I didn’t know what I was doing. I was certain of that. And I really think that’s the best, whether in our practice, our life, or in the creative process. It’s so clear that that place of not knowing is where we want to be.*
-
-Source: [Creative Dharma Podcast](https://creativedharma.substack.com/p/cd06-translating-the-first-free-women)
+> Source: [Creative Dharma Podcast](https://creativedharma.substack.com/p/cd06-translating-the-first-free-women)
 
 
 It’s worth noting that Coleman Barks makes a dubious mentor for a newbie translator. Barks [has been heavily criticised](https://www.newyorker.com/books/page-turner/the-erasure-of-islam-from-the-poetry-of-rumi) for his interpretation of Rumi’s work, because he does not know Arabic or Farsi, the two languages Rumi wrote in. In addition Barks takes an excessively free approach, changing whole texts and removing references to Islam from Rumi’s poems.  As for Weingast’s nebulous praise for ‘not knowing’; this is exactly the opposite of where a reader wants ‘to be’. The whole purpose of having a translation is to know what the text says. 
@@ -183,6 +182,7 @@ Knowing just where that line is would be clear to the majority of Buddhists arou
 In the book’s introduction, Weingast himself says:
 
 > *Many of the poems here closely resemble the originals, with shifts here and there of varying degrees. Others are more like variations on a classic tune. Though these are not literal translations, even in the freest renderings, I do not hear my voice. I hear Uppalavanna, Khema, Mahapajapati, Anopama, Patachara, Siha, Dhammadinna, Isidati...* 
+>Source: The First Free Women
 
 
 
@@ -196,14 +196,14 @@ In a revealing interview with Pamela Weiss, Weingast talks about his translation
 >
 > **Pamela Weiss:** *Could you give an example of a line or couple of lines that like what a literal translation would be like and what, as an example of what you did?*
 >
-> **Weingast:** *Uh, [deep sigh] I mean, it’s almost, it’s almost gets even wider than that really. Um, [Pamela Weiss: laugh] so yeah, I mean, like, luckily I had no idea what I was doing, so like, it just kind of allowed me to just make it up as I went along and I spent a long time doing it and a lot of time editing them, some of these poems, I rewrote, you know, a hundred, 150 times more. So it was kind of always just this, um, seeing what it was, seeing, what it was for me, that was the important part. And then trying to kind of let that come through, um, how much of it was me and how much of it was the originals, something in between there. Yeah.*
+> **Weingast:** *Uh, [deep sigh] I mean, it’s almost, it’s almost gets even wider than that really. Um, [Pamela Weiss: laugh] so yeah, I mean, like, luckily I had no idea what I was doing, so like, it just kind of allowed me to just make it up as I went along and I spent a long time doing it and a lot of time editing them, some of these poems, I rewrote, you know, a hundred, 150 times more. So it was kind of always just this, um, seeing what it was, seeing, what it was for me, that was the important part. And then trying to kind of let that come through, um, how much of it was me and how much of it was the originals, something in between there. Yeah.*   
 >  Source: [Interview with Pamela Weiss](https://soundcloud.com/user-426156245/the-first-free-women-with) 
 
 
 
 With every insertion and re-write Weingast made, the line protecting the integrity of a scriptural tradition lasting thousands of years was incrementally eroded until it simply became irrelevant. In the end, that line was deliberately disregarded by Weingast and his scared responsibility as translator was completely discarded with it. As Weingast says himself:
 
-> *Um, and the whole thing was really crazy. There was a lot of doubt, you know, and I was like, well, what business do I have doing something like this? You know, and it’s, you know, I shouldn’t be doing it anyway. And like, what am I doing? Um, it did take on a life of its own. Um, but people are, anyways, people are going to have feelings about it one way or the other, not everyone’s going to like that. I did this or the way in which I did it. I have friends who were pretty hardcore monastics and some of them are going to think what I did wasn’t good. Um, but at this point, I’m okay with that. I, it was definitely, um, the coolest thing that I’ve been part of in my life and the thing I most had the most joy from. So yeah. You know, I, I wouldn’t take it back now*
+> *Um, and the whole thing was really crazy. There was a lot of doubt, you know, and I was like, well, what business do I have doing something like this? You know, and it’s, you know, I shouldn’t be doing it anyway. And like, what am I doing? Um, it did take on a life of its own. Um, but people are, anyways, people are going to have feelings about it one way or the other, not everyone’s going to like that. I did this or the way in which I did it. I have friends who were pretty hardcore monastics and some of them are going to think what I did wasn’t good. Um, but at this point, I’m okay with that. I, it was definitely, um, the coolest thing that I’ve been part of in my life and the thing I most had the most joy from. So yeah. You know, I, I wouldn’t take it back now...*   
 > Source: [Interview with Pamela Weiss](https://soundcloud.com/user-426156245/the-first-free-women-with)
 
 
@@ -224,17 +224,6 @@ The importance of maintaining the Dhamma faithfully and accurately is repeated m
 It’s important to remember that this book is not Buddhist scripture. Like Colema’s Bark treatment of Rumi, where references to Islam were removed, Weingast systematically erases fundamental Buddhist doctrinal concepts from the original texts, often changing the meaning and doctrinal message entirely. He frequently removes references to the Buddha’s instructions from the poems; despite the nun’s themselves including these teachings, after all, those instructions helped them attain enlightenment, yet they are extraneous to Weingast. He also removes essential Buddhist concepts like the Eightfold Noble Path, the three enlightenment knowledges, stages of attainment, and the super-human powers claimed by the women themselves. References to Mara, rebirth, people and place names are frequently omitted. Even the Buddha himself is unceremoniously excluded!
 
 
-
-## Erasing the Buddha Dhamma 
-
-The importance of maintaining the Dhamma faithfully and accurately is repeated many times in the scriptures.  In the sutta called *The Counterfeit of the True Teaching,* the Buddha states that the disappearance of the true teaching wont happen like a ship that sinks all at once, but rather it will disappears gradually, bit by bit. Looking at Weingast’s approach above, where step by step he strayed further and further away from the source text and introduced his own versions, one can see how easy it is for the true teachings to become lost. The widespread distribution and popularity of Weingasts’s book is a great concern, because people will end up being more familiar with Weingast’s so-called version, whilst completely unfamiliar with the actual poems of the Therīgāthā. The Buddha compares this situation to people unknowingly being fooled by counterfeit gold: 
-
-> *The true teaching doesn’t disappear as long the counterfeit of the true teaching hasn’t appeared in the world. But when the counterfeit of the true teaching appears in the world then the true teaching disappears. It’s like true gold, which doesn’t disappear as long as counterfeit gold hasn’t appeared in the world. But when counterfeit gold appears in the world then real gold disappears.*
->
->  *In the same way, the true teaching doesn’t disappear as long the counterfeit of the true teaching hasn’t appeared in the world. But when the counterfeit of the true teaching appears in the world then the true teaching disappears.* [Saddhammappatirūpaka Sutta SN 16.13 Trans. Sujato](https://suttacentral.net/sn16.13/en/sujato)
-
-It’s important to remember that this book is not Buddhist scripture. Like Coleman Bark's treatment of Rumi, where references to Islam were removed, Weingast systematically erases fundamental Buddhist doctrinal concepts from the original texts, often changing the meaning and doctrinal message entirely. He frequently removes references to the Buddha’s instructions from the poems; despite the nun’s themselves including these teachings, after all, those instructions helped them attain enlightenment, yet they are extraneous to Weingast. He also removes essential Buddhist concepts like the Eightfold Noble Path, the three enlightenment knowledges, stages of attainment, and the super-human powers claimed by the women themselves. References to Mara, rebirth, people and place names are frequently omitted. Even the Buddha himself is unceremoniously excluded!
-
 ### Comparison 3
 
 A good example of the pattern of addition and removal in Weingast’s poems can be seen in the case of Mettikā Theri:
@@ -252,8 +241,6 @@ The original Pali (Mettikātherīgāthā Thig 2.6):
 >  atha cittaṃ vimucci me;
 >  Tisso vijjā anuppattā,
 >  kataṃ buddhassa sāsanan”ti.
->
-> ###  
 
 A translation by Bhante Sujato:
 
@@ -301,9 +288,9 @@ Weingast’s Version
 
 
 
-In Weingast’s poem, we have the invention of a sister, an extra staff and a hug from the mountain. But more concerning is what is left out: the experience of Mettika’s freed mind (atha cittaṃ vimucci me ), her attainment of the Three Knowledges (Tisso vijjā anuppattā) and her completion of the Buddha’s instructions (kataṃ buddhassa sāsanan ). These are markers of the experience of enlightenment itself, an incredibly rare and precious attainment. This is the very reason Mettika recites the poem—to let us know about her enlightenment experience. This achievement was recorded and passed down the generations to inspire others. But this essential aspect of Mettika’s poem and her life is omitted, her enlightenment is obfuscated and the Buddha’s teachings are left unmentioned.
+In Weingast’s poem, we have the invention of a sister, an extra staff and a hug from the mountain. But more concerning is what is left out: the experience of Mettikā’s freed mind (atha cittaṃ vimucci me ), her attainment of the Three Knowledges (Tisso vijjā anuppattā) and her completion of the Buddha’s instructions (kataṃ buddhassa sāsanan ). These are markers of the experience of enlightenment itself, an incredibly rare and precious attainment. This is the very reason Mettikā recites the poem—to let us know about her enlightenment experience. This achievement was recorded and passed down the generations to inspire others. But this essential aspect of Mettikā’s poem and her life is omitted, her enlightenment is obfuscated and the Buddha’s teachings are left unmentioned.
 
- Instead, we have Weingast’s watered down, counterfeit version of the Dhamma—an extra staff, empty hands and a contrived experience with a mountain—but nothing more than that; no clear mention of enlightenment, no Buddha Dhamma—nothing.    
+Instead, we have Weingast’s watered down, counterfeit version of the Dhamma—an extra staff, empty hands and a contrived experience with a mountain—but nothing more than that; no clear mention of enlightenment, no Buddha Dhamma—nothing.    
  
  This pattern is repeated throughout Weingast’s collection. Instead of the powerful teachings that helped the nun’s attain liberation, he introduces his own invented and inaccurate versions of doctrine. These often have no basis in the text, no relationship to the poem’s meaning, and are frequently pseudo spiritual platitudes. This is a dumbing-down of the fierce and potent doctrines espoused by the nuns and a shockingly inept corruption of the teachings. The Buddha Dhamma is replaced with ersatz versions, which might make a good poem, but are completely lacking the nun’s profundity and wisdom.  
 
@@ -315,7 +302,7 @@ It is for such reasons that the Buddhist sacred scriptural tradition is not to b
 
 ## Mansplaining Women’s Enlightenment 
 
-Given what we know about the about Weingast’s interventions to the poems, one of the more perplexing aspects of the book’s success is that it has repeatedly been praised for representing the voices of women in Buddhism. An even more curious thing is that the book’s most energetic and enthusiastic supporters are women. This shows the thirst for women in Buddhist to be reflected by the tradition, but given the actual content has been written by a man, it seems a peculiar state of affairs to end up in. 
+Given what we know about the about Weingast’s interventions to the poems, one of the more perplexing aspects of the book’s success is that it has repeatedly been praised for representing the voices of women in Buddhism. An even more curious thing is that the book’s most energetic and enthusiastic supporters are women. This shows the yearning thirst for women in Buddhism to see themselves reflected by the tradition and culture of Buddhism, which is understandable, but given the actual content has been written by a man, it seems a peculiar state of affairs to end up in. 
 
 The many Buddhist famous teachers who wrote blurbs for Weingast’s book appeared unaware that they were promoting original poems written by a man, rather than authentic translations of ancient poems written by women. Here are some examples from the promotional reviews:
 
@@ -340,7 +327,6 @@ Weinsgast was aware of this problem. He has spoken about his ongoing personal di
 > *You know, like the best I could do was kind of be quiet, you know, and allow, especially female voices to kind of guide things for a while, because as we know, male voices have been doing the guiding and that’s been a big part of the problem. Um, so it wasn’t really conscious where I was like, Oh, I want to be involved in this. And I want to be part of this, you know, but it was playing somewhere in the background. And, but then once it started to happen and then, yeah, it was very uncomfortable for me knowing that I didn’t want to be one more male co-opting female voices. Um, there’s been a lot of that in for thousands of years, this has been going on. Um, and I knew that one way or another, if I was going to do this project, I would be one more male co-opting female voices.*
 >
 >  *And still to this day, I’m still very uncomfortable with it*
->
 > Source: [New Books Podcast](https://newbooksnetwork.com/matty-weingast-the-first-free-women-poems-of-the-early-buddhist-nuns-shambhala-2020) 
 
 
@@ -363,8 +349,8 @@ When writing the voices of other groups, it’s possible to do so in an ethical 
 >
 > **Audience member:** *It was her interpretation of the word or, not this word or that word?*
 >
-> **Weingast:** *Not so much to Pali, um, because she doesn’t have Pali actually. Um, so at that point we were just kind of reading the drafts that I had and it was kind of like, no, this one doesn’t ring true. This one does. And what can we do? You know? And then I would kind of go back to the drawing board and kind of see what else, and then we would be and she would be reading them aloud and I’d be like, read it aloud this way. We know that that way she’d be like, how about this way? How about that way?*
->  Source: [Interview with Pamela Weiss](https://soundcloud.com/user-426156245/the-first-free-women-with) 
+> **Weingast:** *Not so much to Pali, um, because she doesn’t have Pali actually. Um, so at that point we were just kind of reading the drafts that I had and it was kind of like, no, this one doesn’t ring true. This one does. And what can we do? You know? And then I would kind of go back to the drawing board and kind of see what else, and then we would be and she would be reading them aloud and I’d be like, read it aloud this way. We know that that way she’d be like, how about this way? How about that way?*   
+> Source: [Interview with Pamela Weiss](https://soundcloud.com/user-426156245/the-first-free-women-with) 
 
 
 
@@ -377,7 +363,7 @@ This is not what it means to be an ally. The golden rule for ally-ship is to alw
 
 Weingast sincerely wants to be an ally but contradictorily, he ends up making it all about himself. It’s about his creative and spiritual journey, his idea of these women's stories, his idea of what is kept and added to their stories. Weingast is certainly not a misogynist, but despite his seemingly good intentions, he acts just like any other man who refuses to give up his own privilege and instead takes over the space women should have. It’s no wonder there has been criticism of his process. This was not unexpected by him, and whilst writing the book his method did not go unchallenged. In interviews he mentions encountering strong resistance to his unorthodox approach: 
 
-> *But, I would say, I’m here to do the best I can. If for any reason people want to disagree – and some people have strongly disagreed – that’s an important conversation. Let’s empower ourselves to disagree. We all learn from that conversation.* 
+> *But, I would say, I’m here to do the best I can. If for any reason people want to disagree – and some people have strongly disagreed – that’s an important conversation. Let’s empower ourselves to disagree. We all learn from that conversation.*   
 > Source: [Creative Dharma Podcast](https://creativedharma.substack.com/p/cd06-translating-the-first-free-women)
 
 
