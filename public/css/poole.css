@@ -294,7 +294,7 @@ button.button-middle, p.button-middle, .call-to-action{
     border-radius: 5px;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    font-family: "EB Garamond";
+    font-family: "Alegreya", serif;
     font-weight: 500;
     color: white;
     background-color: #ac4142;
@@ -501,7 +501,7 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 4em;
-  font-family: EB Garamond;
+  font-family: "Alegreya", serif;
 }
 
 /* Blog post or page title */
