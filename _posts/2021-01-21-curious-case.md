@@ -194,11 +194,11 @@ Weingast is happy to blur the lines between translation and invention, and muddy
 
 In a revealing interview with Pamela Weiss, Weingast talks about his writing practice and demonstrates he was very much aware of blurring the line between translation and his own content:
 
-> **Weingast:** *...Oh, I’ll just make it something, but a little bit more accessible. It got way wider than that. How wide? Some poems are wider than others and depart more from the texts, you know, are fairly close and some are not. That’s a whole other discussion. That’s as clear as I go.*
+> **Weingast:** *...Oh, I’ll just make it something, but a little bit more accessible. It got way wider than that. How wide? Some poems are wider than others and depart more from the texts, you know, [some] are fairly close and some are not. That’s a whole other discussion. That’s as clear as I go.*
 >
 > **Pamela Weiss:** *Could you give an example of a line or couple of lines that like what a literal translation would be like and what, as an example of what you did?*
 >
-> **Weingast:** *Uh, [deep sigh] I mean, it’s almost, it’s almost gets even wider than that really [Pamela Weiss: laugh] so yeah, I mean, like, luckily I had no idea what I was doing, so like, it just kind of allowed me to just make it up as I went along and I spent a long time doing it and a lot of time editing them, some of these poems, I rewrote, you know, a hundred, 150 times more. So it was kind of always just this seeing what it was, seeing what it was for me, that was the important part. And then trying to kind of let that come through, how much of it was me and how much of it was the originals, something in between there. Yeah.*<br>   
+> **Weingast:** *Uh, [deep sigh] I mean, it’s almost, it’s almost gets even wider than that really. So yeah, I mean, like, luckily I had no idea what I was doing, so like, it just kind of allowed me to just make it up as I went along and I spent a long time doing it and a lot of time editing them, some of these poems, I rewrote, you know, a hundred, 150 times more. So it was kind of always just this seeing what it was, seeing what it was for me, that was the important part. And then trying to kind of let that come through, how much of it was me and how much of it was the originals, something in between there. Yeah.*<br>   
 >  Source: [Interview with Pamela Weiss](https://soundcloud.com/user-426156245/the-first-free-women-with) 
 
 
@@ -210,7 +210,7 @@ With every insertion and re-write Weingast made, the line protecting the integri
 
 
 
-Perhaps Weingast sees himself in the mould of the heroic modernist artist, struggling with his individual creative genius. Unfortunately, this role overshadows the creative talent of the women whose work he appropriates. He doesn’t seem to view himself as part of a historical and global Buddhist tradition, rather he outside it, an exception. Despite professing respect for the enlightened women of the Therigatha, he is willing to take radical liberties with their work, simply because it was creatively expedient, because it felt good for him, because it was ‘cool’ to do. Whilst this might be seen as misguided creativity or cultural naiveté, it’s clear from his own words that he was very much aware all along that his approach was controversial. He knew it would lead to valid objections in the Buddhist community, but he went ahead and did it anyway.
+Perhaps Weingast sees himself in the mould of the heroic modernist artist, struggling with his individual creative genius. Unfortunately, this role overshadows the creative talent of the women whose work he appropriates. He doesn’t seem to view himself as part of a historical and global Buddhist tradition, rather he is outside it, an exception. Despite professing respect for the enlightened women of the Therigatha, he is willing to take radical liberties with their work, simply because it was creatively expedient, because it felt good for him, because it was ‘cool’ to do. Whilst this might be seen as misguided creativity or cultural naiveté, it’s clear from his own words that he was very much aware all along that his approach was controversial. He knew it would lead to valid objections in the Buddhist community, but he went ahead and did it anyway.
 
 
 
