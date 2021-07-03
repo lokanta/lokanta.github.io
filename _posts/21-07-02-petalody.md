@@ -10,7 +10,7 @@ blurb: Learning about life and death in Grand-Mother Nature's garden.
 </p>
 <br>
 
-The camellia blossom plummets to earth. No longer supported by life, it falls swiftly and without ceremony. It lands with a barely audible plop, cushioned by the profusion of petals already lying on the moist grass beneath the tree. In the disappearing light of late afternoon the accumulation of scarlet petals blaze accusingly. They blush – as if surprised by their impermanence. 
+<h3>The camellia blossom plummets to earth.</h3> No longer supported by life, it falls swiftly and without ceremony. It lands with a barely audible plop, cushioned by the profusion of petals already lying on the moist grass beneath the tree. In the disappearing light of late afternoon the accumulation of scarlet petals blaze accusingly. They blush – as if surprised by their impermanence. 
 
  Accompanying the deepening shadows, a coolness creeps into the garden, and yet still the petals seem to resist the coldness of death. Mutely defiant, the flowers’ vivid hues continue to throb, emitting a rich warmth—even as the darkness envelops them. 
 
