@@ -8,6 +8,11 @@ blurb: Learning about life and death in Grand-Mother Nature's garden.
 ![alex kershaw photograph of a camelia tree in a garden](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Alex%20Kershaw%20Petalody%20He%20would%20bash%20his%20head%20against%20the%20pavement%20%232.jpg)
 <br>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Alex%20Kershaw%20Petalody%20He%20would%20bash%20his%20head%20against%20the%20pavement%20%232.jpg">
+</p>
+
+
 The camellia blossom plummets to earth. No longer supported by life, it falls swiftly and without ceremony. It lands with a barely audible plop, cushioned by the profusion of petals already lying on the moist grass beneath the tree. In the disappearing light of late afternoon the accumulation of scarlet petals blaze accusingly. They blush – as if surprised by their impermanence. 
 
  Accompanying the deepening shadows, a coolness creeps into the garden, and yet still the petals seem to resist the coldness of death. Mutely defiant, the flowers’ vivid hues continue to throb, emitting a rich warmth—even as the darkness envelops them. 
