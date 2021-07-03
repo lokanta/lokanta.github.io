@@ -9,7 +9,7 @@ blurb: Learning about life and death in Grand-Mother Nature's garden.
 <br>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Alex%20Kershaw%20Petalody%20He%20would%20bash%20his%20head%20against%20the%20pavement%20%232.jpg">
+<img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Alex%20Kershaw%20Petalody%20He%20would%20bash%20his%20head%20against%20the%20pavement%20%232.jpg" alt="alex kershaw photograph of a camelia tree in a garden, dark and moody">
 </p>
 
 
