@@ -113,4 +113,4 @@ This is an edited version of the catalogue essay I wrote for my artist friend, A
 
 * Alex Kershaw *You would not have any feelings at all if you didn't feel something* (2006) 50 x 80 cm, C - Type print on aluminium.
 
-See more artworks on (Alex Kershaw’s website)[http://www.alexkershaw.com.au/index.html]
+See more artworks on (Alex Kershaw’s website)[http://www.alexkershaw.com.au]
