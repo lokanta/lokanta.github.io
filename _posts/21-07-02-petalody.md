@@ -5,13 +5,10 @@ author: Bhante Akaliko
 blurb: Learning about life and death in Grand-Mother Nature's garden.
 ---
 
-![alex kershaw photograph of a camelia tree in a garden](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Alex%20Kershaw%20Petalody%20He%20would%20bash%20his%20head%20against%20the%20pavement%20%232.jpg)
-<br>
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Alex%20Kershaw%20Petalody%20He%20would%20bash%20his%20head%20against%20the%20pavement%20%232.jpg" alt="alex kershaw photograph of a camelia tree in a garden, dark and moody">
 </p>
-
+<br>
 
 The camellia blossom plummets to earth. No longer supported by life, it falls swiftly and without ceremony. It lands with a barely audible plop, cushioned by the profusion of petals already lying on the moist grass beneath the tree. In the disappearing light of late afternoon the accumulation of scarlet petals blaze accusingly. They blush – as if surprised by their impermanence. 
 
@@ -39,7 +36,10 @@ To a wise gardener, compost is more beautiful than a flower. It is both the resu
 
 <hr>
 <br> 
-![photo of older woman holding a flower and pointing it at a wodden urn](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Alex%20Kershaw%20Petalody%20Kill%20them%20with%20kindness.jpg)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Alex%20Kershaw%20Petalody%20Kill%20them%20with%20kindness.jpg" alt="alex kershaw photo of older woman holding a strelitzia flower and pointing it at a wodden urn">
+</p>
 <br>
 
 Mother Nature steps into her garden. She is not young. She wears a trench coat and sensible shoes. 
@@ -56,8 +56,9 @@ What does time matter to Grand-Mother Nature? A year, a day, an instant? It is a
 
 <hr>
 <br>
-
-![photograph of a wall with the sentence 'machine guns are simplicity itself' spelt out using camelia flowers](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Alex%20Kershaw%20Petalody%20%20Machine%20Guns%20are%20Simplicity%20Itself.jpg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Alex%20Kershaw%20Petalody%20%20Machine%20Guns%20are%20Simplicity%20Itself.jpg" alt="alex kershaw photograph of a wall with the sentence 'machine guns are simplicity itself' spelt out using camelia flowers">
+</p>
 <br>
 Grand-Mother Nature strolls about her garden. She nourishes all, and causes everything to flourish. Wherever she walks, plants sprout up, leaves unfurl, buds appear, blossoms swell and gently open. With each careful step a flower blooms between her toes. 
 
@@ -69,8 +70,9 @@ Memories are like seeds that, once planted, continue to blossom unbidden for yea
 
 <hr>
 <br>
-
-![photo of a flower in a silver gravy boat with black bettles climbing on it](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Alex%20Kershaw%20Petalody%20Sleeping%20and%20waking%20are%20not%20what%20they%20used%20to%20be.jpg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Alex%20Kershaw%20Petalody%20Sleeping%20and%20waking%20are%20not%20what%20they%20used%20to%20be.jpg" alt="alex kershaw photo of a flower in a silver gravy boat with black bettles climbing on it">
+</p>
 <br>
 She prunes her thoughts. The munificence of the garden is too much some days. Mentally she composes a single flower; an arrangement. A human habit. A necessity, perhaps. Snipped and brought in, removed from the overwhelming distractions of outside, the cut flower becomes an easier object of contemplation. A solitary flower in a vase is the lesson of the garden expressed in the singular. A poetic reduction that magnifies awareness on a miniature scale. A human scale; *contained*.
 
@@ -81,7 +83,9 @@ The rising moon releases Grand-Mother Nature from her mundane thoughts. The peta
 <hr>
 <br>
 
-![photo of an old woman's leg with veins, and a hydrangea flower between her toes](https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Alex%20Kershaw%20Petalody%20You%20would%20not%20have%20any%20feelings%20at%20all%20if%20you%20didn't%20feel%20something.jpg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Alex%20Kershaw%20Petalody%20You%20would%20not%20have%20any%20feelings%20at%20all%20if%20you%20didn't%20feel%20something.jpg" alt="photo of an old woman's leg with veins, and a hydrangea flower between her toes">
+</p>
 <br>
 
 Night-time bestows its melancholic illumination. In the moonlit garden a hydrangea is in bloom. Its profuse collection of petals creates a minor spectacle of transformation. The blossoms change before our very eyes, from a green-tinged cream, to a delicate powdery blue. Next, they become an intense azure that almost pulsates with iridescence, before darkening to a deep purple – the very colour of bruised blood.
@@ -92,27 +96,21 @@ He asks: “Grandma, why do you have blue feet and I don’t?” She replies, ge
 
 Unseen in the darkness, another camellia silently descends to the earth.
 
- 
 
 <hr> 
+<br>
+This is an edited version of the catalogue essay I wrote for my artist friend, Alex Kershaw in 2006. It was one of the first times I put Buddhist spiritual concepts into my creative work.
 
-This is an edited version of the catalogue essay I wrote for my artist friend, Alex Kershaw in 2006.
+**Images from the Petalody series by Alex Kershaw.**
 
-Images from the Petalody series by Alex Kershaw.
-
-Alex Kershaw *He would bash his head against the pavement #2*
-(2006) 82 x 65 cm, C - Type print on aluminium
+* Alex Kershaw, *He would bash his head against the pavement #2* (2006) 82 x 65 cm, C - Type print on aluminium.
  
-Alex Kershaw *Kill them with kindness*
-(2006)65 x 82 cm, C - Type print on aluminium
+* Alex Kershaw, *Kill them with kindness* (2006) 65 x 82 cm, C - Type print on aluminium.
 
-Alex Kershaw *Machine guns are simplicity itself*
-(2006) 50 x 66 cm C - Type print on aluminium
+* Alex Kershaw *Machine guns are simplicity itself* (2006) 50 x 66 cm, C - Type print on aluminium.
 
-Alex Kershaw *Sleeping and waking are not what they used to be*
-(2006) 50 x 67 cm C - Type print on aluminium
+* Alex Kershaw *Sleeping and waking are not what they used to be* (2006) 50 x 67 cm, C - Type print on aluminium.
 
-Alex Kershaw *You would not have any feelings at all if you didn't feel something*
-(2006) 50 x 80 cm, C - Type print on aluminium
+* Alex Kershaw *You would not have any feelings at all if you didn't feel something* (2006) 50 x 80 cm, C - Type print on aluminium.
 
-Alex Kershaw’s website: http://www.alexkershaw.com.au
+See more artworks on (Alex Kershaw’s website)[http://www.alexkershaw.com.au/index.html]
