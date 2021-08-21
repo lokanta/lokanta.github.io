@@ -23,3 +23,6 @@ So, where does the Buddha recommend we seek happiness? He says happiness is foun
 But the best way for us to experience real and meaningful happiness is to practice meditation. This is where we learn there is a type of happiness that is not dependent on our senses, or external objects and experiences. Meditation shows us a happiness that is generated from within our own minds, a happiness that is always there if we just turn inwards and let go. When we meditate, the mind becomes peaceful and calm, and this feels good—already we are happier than before. As our meditation progresses, we experience increasing levels of joy, rapture and bliss. These beautiful mind states are a spiritual happiness; they draw us deeper into stillness, leading to the development of wisdom which takes us away from suffering.
 
 There’s a reason that statues of the Buddha always show him smiling; meditation is the way to real happiness!
+
+
+Photo by Mattia Faloretti.
