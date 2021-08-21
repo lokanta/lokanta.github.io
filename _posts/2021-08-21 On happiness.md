@@ -14,7 +14,7 @@ Many of us don’t really know what true happiness is, or where to find it. The 
 >
 >“No, sir. Why not? Because that skeleton is scraped clean of flesh and smeared in blood. That dog will eventually get weary and frustrated.”
 >
->“In the same way, a noble disciple reflects: ‘With the simile of a skeleton the Buddha said that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks.’ Having truly seen this with right understanding, they reject equanimity based on diversity and develop only the equanimity based on unity, where all kinds of grasping to the world’s material delights cease without anything left over. ((Potaliya Sutta MN54))[https://suttacentral.net/mn54/en/sujato]
+>“In the same way, a noble disciple reflects: ‘With the simile of a skeleton the Buddha said that sensual pleasures give little gratification and much suffering and distress, and they are all the more full of drawbacks.’ Having truly seen this with right understanding, they reject equanimity based on diversity and develop only the equanimity based on unity, where all kinds of grasping to the world’s material delights cease without anything left over. [(Potaliya Sutta MN54)](https://suttacentral.net/mn54/en/sujato)
 
 It’s like this for all sensual pleasures.
 
