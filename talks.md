@@ -7,39 +7,35 @@ title: Dhamma Talks
 
 ## Bhante Sujato
 
-<h3>Dhammanet Youtube Channel</h3>
-Many of Bhante Sujato's older and recent talks can be found on the [Dhammanet youtube channel.](https://www.youtube.com/c/DhammanetOrg) 
-
 <h3>Life Hacks for the End of the World: 4-part Online Series with Bhante Sujato</h3>
      
-<p>With the Covid-19 pandemic, we became aware that the world that we know is rapidly changing. But this is just a small test for the challenges that still await us. The icesheets in Greenland have passed a critical point of melting, the North Pole will likely become ice free within the next decades. The sea level will rise and with that large numbers of people will be displaced. The unseen wildfires in Australia and California have shown us the destruction that global heating can cause and many places in the world are running out of drinking water. Hurricanes and other natural disasters are becoming more severe than ever and are wreaking havoc around the world. This is just the beginning of what awaits us. So how do we as Buddhists deal with these challenges and how can we help others through the difficult times that are still to come?</p>     
+<p>With the Covid-19 pandemic, we became aware that the world that we know is rapidly changing. But this is just a small test for the challenges that still await us. The icesheets in Greenland have passed a critical point of melting, The sea level will rise and with that large numbers of people will be displaced. Wildfires in Australia and California have shown us the destruction that global heating can cause and many places in the world are running out of drinking water. This is just the beginning of what awaits us. So how do we as Buddhists deal with these challenges and how can we help others through the difficult times that are still to come?</p>     
           
-<p><b>Watch the entire series</b></p>    
-* <b>Part 1: LIFE</b>
-<p>Watch  on <a href="https://youtu.be/Mchiiz5MBA8">YouTube.</a></p>
-     
-* <b> Part 2: LOVE</b>
-<p>Watch on <a href="https://youtu.be/8sqyfuIU0Yc">YouTube.</a></p>
-     
-* <b>Part 3: JOY</b>
-<p>Watch  on <a href="https://youtu.be/5aoa7X9RHTY">YouTube.</a></p>     
+<p><b>Watch the entire series here: </b></p>    
 
-* <b>Part 4: ACCEPTANCE</b>
- <p>Watch on <a href="https://youtu.be/EFjLqKIcptI">YouTube.</a></p> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTcGMzIEhlsbKfAZcvskwySCzzRQ1iiMb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
- <hr>
  
- **Dependent Origination in Early BUddhism: 5 Day Course by Bhnate Sujato and Ajahn Brahmali**
-View the playlist here:
+ <h3>Dependent Origination in Early Buddhism: 5 Day Course by Bhante Sujato and Ajahn Brahmali</h3>
+A detailed analysis of dependent orgination as found in the suttas by two of the world's leading experts. View the entire playlist here:
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL70fWqztn7OWZa-0W-rXPAzPNWT63yd8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- * *[Why I am an Anarchist](https://www.youtube.com/watch?v=jwFOZX813iw&t=27s)*<br>
+<h3> The Vissudhimagga for Sutta Lovers; a 3 Part series by Bhante Sujato</h3>
+Bhante discusses Ven Buddhaghosa'sfamous text, analysisng the 3 divisions of sila, samadhi, and panna, as seen throuigh the eyes of a sutta lover.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ghOF_Yc571A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<h3>Dhammanet Youtube Channel</h3>
+Many of Bhante Sujato's older and recent talks can be found on the [Dhammanet youtube channel.](https://www.youtube.com/c/DhammanetOrg) 
+
+<h4>Why I am an Anarchist<h4>
 Bhante discusses similarities between anarchism and the way the Buddha set up the Sangha.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jwFOZX813iw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-* *[Translating a 2500 year-old Sacred Text for a Modern Audience](https://www.youtube.com/watch?v=hLP-anSN8e0)*<br>
-In this talk at Stanford University for the Ho Centre for Buddhist Studies, Bhante Sujato describes his work translating Buddhist texts and making them available online.  
-
+  <h4> Life of Pleasure (Jhana)</h4>
+ A talk from 2013 where Bhante talks about the importance of pleaseure in meditation.
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/Ik0B4Kip_Sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
@@ -48,23 +44,32 @@ In this talk at Stanford University for the Ho Centre for Buddhist Studies, Bhan
 
 ## Bhante Akāliko ##
 
-* *[Saddha: Faith and Confidence](https://www.youtube.com/watch?v=Eiy1C0CfYXk&t=754s)*<br>
-Bhante talks about the various ways we can give rise to a sense of confidence in the Buddha's teachings and explains the benefits of a deep conviction in the spiritual path
+Watch talks by Bhante Akāliko on his [youtube channel](https://www.youtube.com/channel/UC3xBzf5s7IwNqzX00CH9w8Q).
+  
+  <h3> Spiritual Bypassing & Buddhism: 4 Part Series</h3>
+Bhante Akaliko discusses what happens when we misunderstand spiritual teachings and how to avoid common pitfalls on the spiritual path using humourous memes.
+Watch the full series here: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL49U-4vGbOQrznzFz48NzErTwNs3u6OA5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* *[The Five Frequent Reflections.](https://www.youtube.com/watch?v=vl8XK-0-hxo&t=781s)*<br>
-Bhante guides a meditation on each of the themes: old age, sickness, death, separation, and kamma.
+  <h3> Cemetary Contemplation</h3>
+A recording made at Sydney's Rookwood Necroplois examining the Buddha's teachings on death followed by a meditation on a decaying corpse. 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/6aVXEw-EqIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-* *[Overcoming Anger and Hatred](https://www.youtube.com/watch?v=bguMpoum8Qk&t=17s)*<br>
-Bhante Akāliko describes the drawbacks of the hindrance of hatred and provides some strategies to deal with it. 
+ <h3> Contenment</h3>
+Join Bhante Akāliko for a guided meditation and learn why the Buddha's path of gratitude, simplicity and contentment leads to real and lasting happiness.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jQziKSxSBTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+ <h3> The Urgency of Ethics & Guided Sīlānussati Contemplation</h3>
+Bhante Akāliko discusses the importance of ethics as a foundation for our meditation practice and gives a guided meditation called Sīlānussati, the practice of recollecting our ethical conduct
+iframe width="560" height="315" src="https://www.youtube.com/embed/Q71xs5lZmxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* *[Gratitude and Generosity](https://www.youtube.com/watch?v=U53wH04edfo&t=1165s)*<br>
-By recollecting our generosity we brighten the mind and bring joy to our heart. Akāliko Bhikkhu discusses the importance of gratitude, giving and kindness to create happiness in our life.
-
-* *[Spiritual Friendship](https://www.youtube.com/watch?v=GrZASbKSpjw&t=2147s)*<br>
-Bhante Akāliko talks about the importance of spiritual friendship and outlines the Six Principles of Cordiality.
+  <h3> Anger & Hatred </h3>
+If we are not careful, strong emotions like anger, hatred and resentment can overwhelm us and destroy our peace of mind. Bhnate Akaliko discusses the Buddha's strategies for dealing with these strong emaotions.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bguMpoum8Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-For more talks by Bhante Akāliko, visit his [youtube channel](https://www.youtube.com/channel/UC3xBzf5s7IwNqzX00CH9w8Q).
+
+
 
 
 
