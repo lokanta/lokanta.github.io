@@ -10,10 +10,6 @@ title: Dhamma Talks
 <h3>Dhammanet Youtube Channel</h3>
 Many of Bhante Sujato's older and recent talks can be found on the [Dhammanet youtube channel.](https://www.youtube.com/c/DhammanetOrg) 
 
-* *[Why I am an Anarchist](https://www.youtube.com/watch?v=jwFOZX813iw&t=27s)*<br>
-Bhante discusses similarities between anarchism and the way the Buddha set up the Sangha.
-  
-     
 <h3>Life Hacks for the End of the World: 4-part Online Series with Bhante Sujato</h3>
      
 <p>With the Covid-19 pandemic, we became aware that the world that we know is rapidly changing. But this is just a small test for the challenges that still await us. The icesheets in Greenland have passed a critical point of melting, the North Pole will likely become ice free within the next decades. The sea level will rise and with that large numbers of people will be displaced. The unseen wildfires in Australia and California have shown us the destruction that global heating can cause and many places in the world are running out of drinking water. Hurricanes and other natural disasters are becoming more severe than ever and are wreaking havoc around the world. This is just the beginning of what awaits us. So how do we as Buddhists deal with these challenges and how can we help others through the difficult times that are still to come?</p>     
@@ -32,26 +28,19 @@ Bhante discusses similarities between anarchism and the way the Buddha set up th
  <p>Watch on <a href="https://youtu.be/EFjLqKIcptI">YouTube.</a></p> 
  
  <hr>
+ 
+ **Dependent Origination in Early BUddhism: 5 Day Course by Bhnate Sujato and Ajahn Brahmali**
+View the playlist here:
 
-Catch up with some recent videos from Bhante Sujato’s 2019 teaching tour of USA and Europe.  
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL70fWqztn7OWZa-0W-rXPAzPNWT63yd8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ * *[Why I am an Anarchist](https://www.youtube.com/watch?v=jwFOZX813iw&t=27s)*<br>
+Bhante discusses similarities between anarchism and the way the Buddha set up the Sangha.
 
 * *[Translating a 2500 year-old Sacred Text for a Modern Audience](https://www.youtube.com/watch?v=hLP-anSN8e0)*<br>
 In this talk at Stanford University for the Ho Centre for Buddhist Studies, Bhante Sujato describes his work translating Buddhist texts and making them available online.  
 
-* *[Introduction to Meditation](https://www.facebook.com/buddhistinsights/videos/1276255332736276/)*<br>
-Bhante Sujato gives meditation advice on the first day of a five day retreat at Buddhist Insights in New York.
 
-* *[Question & Answer Session](https://www.facebook.com/buddhistinsights/videos/427166864665570/)*<br>
-Responding to questions from retreatants,Bhante Sujato discusses meditation and the nature of the mind.
-
-* *[Death Contemplation](https://www.facebook.com/buddhistinsights/videos/767005073741131/)*<br>
-A meditation contemplating the theme of death, followed by questions and answers.
-
-* *[Introduction to Metta Meditation](https://www.facebook.com/buddhistinsights/videos/409374479759947/)*<br>
-Bhante Sujato describes why we need metta and how to develop it, followed, by a meditation.
-
-
-For more of Bhante’s New York talks, visit the Buddhist Insights [video page](https://www.facebook.com/search/videos/?q=sujato&epa=SERP_TAB).
 
 ---
 
