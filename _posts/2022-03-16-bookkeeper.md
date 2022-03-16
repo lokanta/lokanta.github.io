@@ -25,7 +25,7 @@ A man walked into a shop. He went up to the counter and said, “I’d like twel
 
 “It’s an honorable profession.”
 
-“It is. Not the most exciting to be sure. But I did a good day’s work and went home to my lovely wife and two kids.”
+“It is. Not the most exciting to be sure. But it was a reputable company—Felix Bane Equity, maybe you’ve heard of them. I did a good day’s work and went home to my lovely wife and two kids.”
 
 “Congratulations.”
 
@@ -171,11 +171,11 @@ Taking the box of bees from the shelf, she began counting them out. “One. Two.
 
 “Not at all, sir,” said the lady behind the counter. “It’s more common than you think.”
 
-“I just need to know,” he said. “Once I know, I can settle it, go back back to the yacht.”
+“I just need to know,” he said. “Once I know, I can settle it, go back to my yacht.”
 
 “I’m sure your wife will love it.”
 
-“What? Her?” the man said. “Oh no, you misunderstand. I’m going back to my yacht, and I won’t be taking her. My new wife is much better. I just need to know.”
+“What? Her?” the man said. “Oh no, you misunderstand. I’m going back to my yacht, but I won’t be taking her. My new wife is much better. I just need to know.”
 
 “Oh,” said the lady behind the counter. “My apologies, I assumed …” She continued counting. “Five. Six. Seven. Eight.”
 
@@ -183,11 +183,11 @@ Taking the box of bees from the shelf, she began counting them out. “One. Two.
 
 “Indeed, sir.” she said. “Nine. Ten. Eleven. Twelve.”
 
-He thought, or imagined, a flicker behind her eyes. Like the studied facade of unquestioning service had slipped for a second. “Don’t judge me! I am just following my dream.”
+He thought, or imagined, a flicker behind her eyes. Like the studied facade of unquestioning service had slipped for a second. “Listen, miss …” checking her nametag, he said “Shesha. Who are you to judge me! I’m just following my dream.”
 
-“Of course, sir,” said the lady behind the counter. And looking him in the eye, she counted out an extra bee. “Thirteen.”
+“Of course, sir,” said the lady behind the counter. She caught his eye, and slowly counted out an extra bee. “Thirteen.”
 
-They stared right at each other, in silence for a moment.
+They stared right at each other in silence for a moment.
 
 “But madam,” he said. “I paid for twelve bees.”
 
