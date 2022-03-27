@@ -14,7 +14,7 @@ blurb: Finding treasure amid the trash on the streets of Harris Park.
 
 <p>Almost every day I go out for a walk in the neighbourhood. I have gotten to know the streets of Harris Park pretty well over the last few years, especially during the long months of covid lockdown when our movements were curtailed to a small radius around the Monastery at the End of the World. I'd go out each day for exercise and to get some fresh air. During that time, even sitting in parks was not allowed but I found some secret spots where I could have a feeling of solitude and where I could hide and sit in meditation; by the side of dingy drain-ways, or under the busy overpass, or behind thick tree trunks on dead end streets. </p>
 
-<p>However, a monk in robes stands out a bit and I am never truly hidden or alone on my walks. Instead, I'm a highly visible member of the local community. So I've met lots folks out for a walk, who smile and nod, or put their palms together in greeting. People are so kind and lovely here. There's a lady who beeps me from her car and beckons me over to offer whatever she has available; perhaps an apple, or a left over banana from her son's schoolbag. Then there's the old woman who is often gardening in her front yard, who once called me over with a wave of her hand to present me with a bright red amaryllis flower plucked straight from the soil, just for me. There's the people sitting on their verandahs who want to have a conversation about the weather or spirituality, or both. I've seen buildings torn down and new ones go up, with proud new home owners inviting me into their home to give a blessing. I've watched floodwaters rise and fall, and I've seen car accidents, and comforted children who had lost their pets. I love being a part of this community. There are so many treasures in Harris Park.</p>
+<p>However, a monk in robes stands out a bit and I am never truly hidden or alone on my walks. Instead, I'm a highly visible member of the local community. So I've met lots of folks out for a walk, who smile and nod, or put their palms together in greeting. People are so kind and lovely here. There's a lady who beeps me from her car and beckons me over to offer whatever she has available; perhaps an apple, or a left over banana from her son's schoolbag. Then there's the old woman who is often gardening in her front yard, who once called me over with a wave of her hand to present me with a bright red amaryllis flower plucked straight from the soil, just for me. There's the people sitting on their verandahs who want to have a conversation about the weather or spirituality, or both. I've seen buildings torn down and new ones go up, with proud new home owners inviting me into their home to give a blessing. I've watched floodwaters rise and fall, and I've seen car accidents, and comforted children who had lost their pets. I love being a part of this community. There are so many treasures in Harris Park.</p>
 <hr>
 <figure>
 <img alt="street trash with board and string art spelling the word dream" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure Dream and Clean.jpg">
@@ -42,7 +42,7 @@ blurb: Finding treasure amid the trash on the streets of Harris Park.
 
 <p>And so my walks around the neighbourhood have become powerful meditations for me, on the nature of craving for material things and identifying with stuff. Seeing all this once treasured stuff lying in the dirt brings up a lot of revulsion in me towards accumulating possessions and identifying with things. The photographs I take on my walks are meant to be instructive and cautionary, yet even in piles of trash there are moments of profound beauty and spiritual meaning that can be appreciated. As practitioners we are supposed to learn from observing nature. It's easy to be all peaceful and romantic as a monk in the pristine environment of the forest, but it takes a bit more spiritual depth to handle the relentless hellscape of late capitalism and still find some equanimity. After all, this is it now—this street filled with chocolate wrappers and broken chairs—this is what nature looks like now. </p>
 
-<p>There are feelings of loss and melancholy in these images, but also resilience. When we have completely destroyed this world, it seems nature will find a way, and is already pushing back against human encroachment. We too, must find a way to rise out of the trash, like the lotus rising out of the mud, unsullied and pure. 
+<p>There are feelings of loss and melancholy in these images, but also resilience. When we have completely destroyed this world, it seems nature will find a way to rebound, and is already pushing back against human encroachment. We too, must find a way to rise out of the trash and becomefreefrom suffering, like the lotus rising out of the mud, unsullied and pure. 
 <hr>
 
 <figure>
@@ -55,11 +55,11 @@ blurb: Finding treasure amid the trash on the streets of Harris Park.
 </figure>
 <figure>
 <img alt="purple childs potty with wisteria petals inside it" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure Purple Potty 2.jpg">
-<figcaption>Purple Potty 2</figcaption>
+<figcaption>Purple Potty</figcaption>
 </figure>
 <figure>
 <img alt="wisteria on wall in laneway with childrens potty" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure Purple Potty 1.jpg">
-<figcaption>Purple Potty 1</figcaption>
+<figcaption>Purple Potty with Wisteria</figcaption>
 </figure>
 <figure>
 <img alt="box of books on street with How to Be Happy stickered with words reduced to five dollars" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure Reduced to Just $5.jpg">
@@ -71,7 +71,7 @@ blurb: Finding treasure amid the trash on the streets of Harris Park.
 </figure>
 <figure>
 <img alt="sunlight through wisteria and graffiti on garage door" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure Suburban Sublime.jpg">
-<figcaption>Suburban Sublime</figcaption>
+<figcaption>The Suburban Sublime</figcaption>
 </figure>
 <figure>
 <img alt="telegraph pole with grass growing out of it" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure Telegrass Pole.jpg">
@@ -83,7 +83,7 @@ blurb: Finding treasure amid the trash on the streets of Harris Park.
 </figure>
 <figure>
 <img alt="gate overgrown with weeds" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure The Gate.jpg">
-<figcaption>The Gate</figcaption>
+<figcaption>The Yellow Gate</figcaption>
 </figure>
 <figure>
 <img alt="empty seven e,pty bottles of beer on grass" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure 7 Bottles of Beer.jpg">
@@ -91,7 +91,7 @@ blurb: Finding treasure amid the trash on the streets of Harris Park.
 </figure>
 <figure>
 <img alt="toy elephant on street" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure An Elephant Never Forgets.jpg">
-<figcaption>An Elephant Never Forgets</figcaption>
+<figcaption>Never Forget</figcaption>
 </figure>
 <figure>
 <img alt="melted garbage bin" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure Wicked.jpg">
@@ -99,7 +99,7 @@ blurb: Finding treasure amid the trash on the streets of Harris Park.
 </figure>
 <figure>
 <img alt="plant growing in a drainpipe" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure World in a Downpipe.jpg">
-<figcaption>World in a Downpipe</figcaption>
+<figcaption>World in a Drainpipe</figcaption>
 </figure>
 <figure>
 <img alt="plants growing through corrugated iron fence" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure  Breaking Through.jpg">
@@ -115,7 +115,7 @@ blurb: Finding treasure amid the trash on the streets of Harris Park.
 </figure>
 <figure>
 <img alt="storm water canal with shopping trolleys" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure Selling Downstream.jpg">
-<figcaption>Selling Downstream</figcaption>
+<figcaption>Downstream</figcaption>
 </figure>
 <figure>
 <img alt="long grass with toilet seat" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure Organic Fertilser.jpg">
