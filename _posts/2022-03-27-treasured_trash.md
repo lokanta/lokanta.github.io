@@ -42,7 +42,7 @@ blurb: Finding treasure amid the trash on the streets of Harris Park.
 
 <p>And so my walks around the neighbourhood have become powerful meditations for me, on the nature of craving for material things and identifying with stuff. Seeing all this once treasured stuff lying in the dirt brings up a lot of revulsion in me towards accumulating possessions and identifying with things. The photographs I take on my walks are meant to be instructive and cautionary, yet even in piles of trash there are moments of profound beauty and spiritual meaning that can be appreciated. As practitioners we are supposed to learn from observing nature. It's easy to be all peaceful and romantic as a monk in the pristine environment of the forest, but it takes a bit more spiritual depth to handle the relentless hellscape of late capitalism and still find some equanimity. After all, this is it now—this street filled with chocolate wrappers and broken chairs—this is what nature looks like now. </p>
 
-<p>There are feelings of loss and melancholy in these images, but also resilience. When we have completely destroyed this world, it seems nature will find a way to rebound, and is already pushing back against human encroachment. We too, must find a way to rise out of the trash and becomefreefrom suffering, like the lotus rising out of the mud, unsullied and pure. 
+<p>There are feelings of loss and melancholy in these images, but also resilience. When we have completely destroyed this world, it seems nature will find a way to rebound, and is already pushing back against human encroachment. We too, must find a way to rise out of the trash and become free from suffering, like the lotus rising out of the mud, unsullied and pure. 
 <hr>
 
 <figure>
