@@ -36,7 +36,7 @@ blurb: Finding treasure amid the trash on the streets of Harris Park.
 <figcaption>Hello Shoppers</figcaption>
 </figure>
 
-<p>And so my walks around the neighbourhood have been powerful meditations for me, on the nature of craving for material things. Seeing all this once treasured stuff lying in the dirt brings up a lot of revulsion in me for towards accumulating possessions and things. The photographs I take on my walks are meant to be instructive and cautionary, but there are moments of profound beauty and spiritual meaning that can be appreciated, even in the middle of a pile of trash. And even when we have completely destroyed this world, it seems nature will always find a way, and is already pushing back against human encroachment.  
+<p>And so my walks around the neighbourhood have become powerful meditations for me, on the nature of craving for material things and identifying with stuff. Seeing all this once treasured stuff lying in the dirt brings up a lot of revulsion in me for towards accumulating possessions and things. The photographs I take on my walks are meant to be instructive and cautionary, yet even in piles of trash there are moments of profound beauty and spiritual meaning that can be appreciated. There are feelings of loss and melancholy in these images, but also resilience. When we have completely destroyed this world, it seems nature will always find a way, and is already pushing back against human encroachment.  
 <hr>
 
 <figure>
