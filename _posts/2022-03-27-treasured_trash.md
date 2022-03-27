@@ -2,12 +2,12 @@
 layout: post
 title: Treasured Trash
 author: Bhante Akaliko
-blurb: Finding treasure amid the trash in Harris Park.
+blurb: Finding treasure amid the trash on the streets of Harris Park.
 ---
 
-<p class="preamble"> Finding beauty is surprising places!</p>
+<p class="preamble">Over the last few years I have gotten to know the streets of Harris Park pretty well, especially during the months of covid lockdown  </p>
 
-Whoa, here we go.
+
 
 <img alt="mornig glory flower in sun" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure Morning Glory 2.jpg">
 <img alt="colourful discarded toys in box with pink and purple unicorn" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure My Little Unicorn.jpg">
