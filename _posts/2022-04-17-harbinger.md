@@ -5,7 +5,7 @@ author: Bhante Sujato
 blurb: A cli-fi novel of despair and enlightenment for the reasonably hopeless.
 ---
 
-<p class="preamble"> “Harbingers” was an ongoing series of articles, stories, and reflections by Bhante Sujato on living in the age of global warming. Then it became a novel.</p>
+<p class="preamble">“Harbingers” was an ongoing series of articles, stories, and reflections by Bhante Sujato on living in the age of global warming. Then it became a novel.</p>
 
 My first novel, *The Harbingers*, is released. Order a print copy, or read as ebook or online.
 
