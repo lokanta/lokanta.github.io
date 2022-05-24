@@ -635,7 +635,3 @@ a.pagination-item:hover {
 .pindapata-schedule tr:last-of-type td{
     padding-bottom: .75em
 }
-
-.pindapata-schedule tbody tr:last-of-type {
-    border-bottom: 8px dotted white;
-}
