@@ -606,6 +606,7 @@ a.pagination-item:hover {
     border: none;
     border-radius: 1em;
     overflow: hidden;
+    background-color: #ac4142;
     background-clip: padding-box;
 }
 
@@ -614,8 +615,7 @@ a.pagination-item:hover {
 }
 
 .pindapata-schedule tbody tr{
-    background-color: #ac4142;
-    color: white
+        color: white
 }
 
 .pindapata-schedule tfoot tr {
