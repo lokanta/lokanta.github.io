@@ -602,3 +602,42 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+
+/* style pindapata table */
+
+.pindapata-schedule {
+    font-weight: bold;
+    border-radius: 1em;
+    overflow: hidden;
+    background-clip: padding-box;
+}
+
+.pindapata-schedule caption {
+    padding: .5em
+}
+
+.pindapata-schedule tbody tr,
+.pindapata-schedule tbody tr:nth-child(2n+1) td,
+.pindapata-schedule tbody tr:nth-child(2n+1) th {
+    background-color: #ac4142;
+    color: white
+}
+
+.pindapata-schedule tfoot tr {
+    background-color: #d28445;
+    color: white
+}
+
+.pindapata-schedule td {
+    border: none;
+    padding: .25em 1em
+}
+
+.pindapata-schedule tr:first-of-type td{
+    padding-top: .75em
+}
+
+.pindapata-schedule tr:last-of-type td{
+    padding-bottom: .75em
+}
