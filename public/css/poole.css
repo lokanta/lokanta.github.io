@@ -410,11 +410,6 @@ th {
   padding: .25rem .5rem;
   border: 1px solid #e5e5e5;
 }
-tbody tr:nth-child(odd) td,
-tbody tr:nth-child(odd) th {
-  background-color: #f9f9f9;
-}
-
 
 /*
  * Custom type
@@ -608,6 +603,7 @@ a.pagination-item:hover {
 
 .pindapata-schedule {
     font-weight: bold;
+    border: none;
     border-radius: 1em;
     overflow: hidden;
     background-clip: padding-box;
@@ -617,9 +613,7 @@ a.pagination-item:hover {
     padding: .5em
 }
 
-.pindapata-schedule tbody tr,
-.pindapata-schedule tbody tr:nth-child(2n+1) td,
-.pindapata-schedule tbody tr:nth-child(2n+1) th {
+.pindapata-schedule tbody tr{
     background-color: #ac4142;
     color: white
 }
@@ -640,4 +634,8 @@ a.pagination-item:hover {
 
 .pindapata-schedule tr:last-of-type td{
     padding-bottom: .75em
+}
+
+.pindapata-schedule tbody tr:last-of-type {
+    border-bottom: 8px dotted white;
 }
