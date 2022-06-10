@@ -50,6 +50,10 @@ blurb: Finding treasure amid the trash on the streets of Harris Park.
 <figcaption>Morning Glory</figcaption>
 </figure>
 <figure>
+<img alt="discarded stuffed body with bag on its head" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/victim.jpg">
+<figcaption>Victim</figcaption>
+</figure>
+<figure>
 <img alt="yellow digger covered in green vines" loading="lazy" src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/Images/Trashed Treasure Nature's Revenge.jpg">
 <figcaption>Nature's Revenge</figcaption>
 </figure>
