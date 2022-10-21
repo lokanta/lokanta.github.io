@@ -9,13 +9,11 @@ title: Dhamma Talks
 
 <h3>Monks in Cyberspace</h3>
 
-<p>The regular Frioday night talks are recorded and available here.</p>
+<p>The regular Friday night talks are recorded and available here.</p>
 
  <a class="call-to-action" target="_blank" href="https://lokanta.live/">Listen to Dhamma talks</a>
 
-
-  
-  ## Bhante Sujato
+## Bhante Sujato
   
   <h3>Bhante Sujato’s Youtube</h3>
   
