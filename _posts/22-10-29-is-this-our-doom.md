@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the meaning of doom
+title: is this our doom?
 author: Bhante Sujato
 blurb: Let us follow it through. What happens when things get bad?
 ---
