@@ -25,11 +25,12 @@ But on the positive side:
 
 The good things are fantasies. None of them change anything about what matters: global atmospheric CO2.
 
-|September 2022:     |415.95 ppm|
-|---|---|
-|**September 2021:**     |**413.30 ppm**|
+<table>
+  <tr><td>September 2022:</td><td>415.95 ppm</td></tr>
+  <tr><td>September 2022:</td><td>415.95 ppm</td></tr>
+</table>
 
-https://gml.noaa.gov/webdata/ccgg/trends/co2_data_mlo.png
+<img src='https://gml.noaa.gov/webdata/ccgg/trends/co2_data_mlo.png'>
 
 Is this, then, to be our doom?
 
