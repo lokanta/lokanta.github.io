@@ -5,8 +5,6 @@ author: Bhante Sujato
 blurb: Let us follow it through. What happens when things get bad?
 ---
 
-# Is this our doom?
-
 In 2019, [I wrote a little article](https://lokanta.github.io/2019/05/08/harbinger3/) about how, when the media talk about climate change they try to balance things, the good with the bad. But as I pointed out, too often in such articles:
 
 >bad things are facts; good things are fantasies
