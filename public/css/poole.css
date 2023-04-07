@@ -633,3 +633,11 @@ a.pagination-item:hover {
 .pindapata-schedule tr:last-of-type td{
     padding-bottom: .75em
 }
+
+address {
+	display: inline
+}
+
+.program-list {
+	margin-top: 0
+}
