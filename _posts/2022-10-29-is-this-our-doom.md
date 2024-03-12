@@ -26,8 +26,8 @@ But on the positive side:
 The good things are fantasies. None of them change anything about what matters: global atmospheric CO2.
 
 <table>
-  <tr><td>September 2022:</td><td>415.95 ppm</td></tr>
-  <tr><td>September 2022:</td><td>415.95 ppm</td></tr>
+  <tr><td>February 2023:</td><td>420.30 ppm</td></tr>
+  <tr><td>February 2024:</td><td>424.55 ppm ppm</td></tr>
 </table>
 
 <img src='https://gml.noaa.gov/webdata/ccgg/trends/co2_data_mlo.png'>
