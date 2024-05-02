@@ -3,11 +3,7 @@ layout: page
 title: Dhamma Talks
 ---
   
-<img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/master/bhante%20sujato%20image.jpg" alt="image of Bhante Sujato">  
-
-
-
-<h3>Monks in Cyberspace</h3>
+<h3>Monks in Space</h3>
 
 <p>The regular Friday night talks are recorded and available here.</p>
 
