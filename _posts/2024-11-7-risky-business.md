@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Risky Business: secular materialism is the philosophy of the apocalypse
+title: Risky Business—secular materialism is the philosophy of the apocalypse
 author: Bhante Sujato
 blurb: We thought we had mastered matter, and ended up its slaves.
 ---
