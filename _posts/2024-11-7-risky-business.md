@@ -1,6 +1,12 @@
 # Risky Business: secular materialism is the philosophy of the apocalypse
 
-- Bhikkhu Sujato
+---
+layout: post
+title: Harbingers—It’s Nice to Have a Choice
+author: Bhante Sujato
+blurb: We thought we had mastered matter, and ended up its slaves.
+---
+
 - Late 2024
 - Global Atmospheric CO2: 422 ppm
 
