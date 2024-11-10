@@ -144,7 +144,7 @@ Modernity poo-pooed all that and told us that we can ensure the fertility of the
 But what of that other, hidden thing? The day that we cannot see? That time in the future when the ice has melted and the coiling dragons of oceanic currents have failed; when the jungles are deserts and the fish are rotting carcasses; when the plankton has vanished; when fire hunts naked in cities; when the endless expanses of wheatlands are reduced to howling dust. On that day, what oil-powered machine, what petrochemical will restore life to the lifeless earth? 
 
 <figure>
-  <img src="https://github.com/lokanta/lokanta.github.io/blob/master/_posts/img/clear-sky-china.jpg" alt="." />
+  <img src="https://github.com/lokanta/lokanta.github.io/blob/master/_posts/img/clear-sky-china.jpg" alt="Huge billboard with an image of clear sky in a city of smog." />
   <figcaption>When even the sacred Air, the breath of the gods, who has selflessly given us oxygen to breath every moment of our lives, is utterly despoiled, we deploy our industrial machinery and technological knowhow to create illusions reminding us of what once was and is no more.</figcaption>
 </figure>
 
