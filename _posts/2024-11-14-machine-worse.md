@@ -60,7 +60,10 @@ the masters and commanders
 they know    
 they must    
 they see further than us    
-because they have better machines    
+because they have 
+more machines    
+better machines    
+bigger machines    
 and if the machines do not fix the problem    
 and if the machines do not solve the issue    
 and if the machines do not repair the damage    
