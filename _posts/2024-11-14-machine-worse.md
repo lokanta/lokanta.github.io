@@ -70,15 +70,15 @@ and if the machines do not repair the damage
 if they just make everything worse    
 at least we can     
 bow    
-for it feels good to bow    
+it feels good to bow    
 it feels good to give in    
-it feels good to let    
-the machines fulfill their destiny    
+it feels good     
+to let the machines fulfill their destiny    
 to let the machines be greater    
 and us lesser    
 to worship them     
 our new gods    
-because what did the old gods do for us anyway?    
+what did the old gods do for us anyway?    
 let our souls be acid    
 and our thoughts be fire    
 and our veins be metal    
@@ -98,4 +98,4 @@ a sea shell
 and you remembered    
 so long ago a child    
 and you put it to your ear    
-~whoosh~ ~whoosh~~whoosh~ ~whoosh~
+~whoosh~ ~whoosh~ ~whoosh~ ~whoosh~
