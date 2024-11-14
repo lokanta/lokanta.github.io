@@ -2,7 +2,7 @@
 layout: post    
 title: machines make everything worse    
 author: Bhante Sujato    
-blurb: A poem about machines and how they make everything worse. Written in Poland.    
+blurb: A poem about machines and how they make everything worse. This came to me in Poland.    
 ---    
     
 - Late 2024    
