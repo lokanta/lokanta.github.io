@@ -62,4 +62,5 @@ And thoughts does a machine think? That’s the question they want you to ask. B
 
 “A mind of metal and machines,” said Tolkien of the wizard-industrialist Saruman. And that is what we are choosing. A perpetuity of ever-deepening mental health crisis, as a generation chooses machine-generated seratonin buzz over painful insight.
 
-A therapist’s deepest wish is to never see you again. There is no prouder day in their life than when they say to you, “You seem well, do you think we should finish off here? You’ve found your way, I just know you’ll do great.” The days they can say that are all-too-rare. They will be fighting back tears, trying to keep a professional demeanor. You will casually melt their heart with your smile and say, “Well, I will miss this. But yeah, I think maybe I can do it.”
+The deepest wish of a therapist is to never see you again. There is no prouder day in their life than when they say to you, “You seem well, do you think we should finish off here? You’ve found your way, I just know you’ll do great.” The days they can say that are all-too-rare. They will be fighting back tears, trying to keep a professional demeanor. You will casually melt their heart with your smile and say, “Well, I will miss this. But yeah, I think maybe I can do it.”
+
