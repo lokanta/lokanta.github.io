@@ -58,7 +58,7 @@ Machines will destroy the very idea of therapy. Who would pay to have someone si
 
 Over the years, your machine is always there. It whispers its words of wisdom, and you, tired and sad and alone, take those words into your heart until they become your own. Little by little, your mind is colonized by the unthoughts of a machine, until your own mind is constantly echoing and repeating the unthought, lost under so many layers of time and memory that you cannot even begin to distinguish what is yours and what is the machine’s. 
 
-And thoughts does a machine think? That’s the question they want you to ask. But machines don’t think. They serve their masters. Look to their masters and you will see the minds of machines. It is their thoughts that will, slowly slowly slowly, make their way through the machines and, drip by drip by drip, make an impression on your mind when you are at your weakest and most vulnerable.
+What thoughts does a machine think? That’s the wrong question: it’s what they want you to ask. Machines don’t think. They serve their masters. Look to their masters and you will see the minds of machines. It is their thoughts that will, slowly slowly slowly, make their way through the machines and, drip by drip by drip, make an impression on your mind when you are at your weakest and most vulnerable.
 
 “A mind of metal and machines,” said Tolkien of the wizard-industrialist Saruman. And that is what we are choosing. A perpetuity of ever-deepening mental health crisis, as a generation chooses machine-generated seratonin buzz over painful insight.
 
