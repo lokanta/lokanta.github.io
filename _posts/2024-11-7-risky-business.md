@@ -85,7 +85,7 @@ There is another trend that follows a similar curve: atheism; or more generally,
 
 The demonstrable successes of material science, and its astonishing applications in industrial machinery, stand as a monumental argument for materialism. We often think of science as something that is “true”, that has convinced the world through the clarity and correctness of its axioms and theories, and the way its hypotheses are born out by evidence in the real world. But if this was all there was to it, science would remain an interesting object for academic study. 
 
-No, materialism has conquered the world not because of its theoretical correctness, nor because it agrees with the evidence, but because we can flick a switch and a light goes on; because we can take a pill and we get better; because we have made machines that fly and sent a man to the moon. 
+No, materialism has conquered the world not because of its theoretical correctness, nor because it agrees with the evidence. We no longer call to the gods in our fear of the dark, because we because we can flick a switch and a light goes on. We no longer pray for release from sickness, because we can take a pill and get better. We no longer pray for miracles, because we have made machines that fly and sent a man to the moon. 
 
 The brilliance of science shines in its effects. And those effects are manifested in the world by machines that run on fossil fuels. 
 
