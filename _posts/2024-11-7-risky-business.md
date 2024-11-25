@@ -183,7 +183,7 @@ Could it possibly be we, rather, who are the superstitious ones, we who believe 
 
 <figure>
   <img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/refs/heads/master/_posts/img/tornado.jpg" alt="A tornado reaches down." />
-  <figcaption>The gods of storm and sky lash out.</figcaption>
+  <figcaption>The hand of god reaches out to punished the Unbeliever.</figcaption>
 </figure>
 
 Gods, according to Buddhism, are pretty much like like you and I. They are just born temporarily in a more exalted, more powerful state. And like us they feel the full measure of emotions. 
