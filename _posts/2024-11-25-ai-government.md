@@ -1,4 +1,13 @@
-# how to build a government out of ai
+---    
+layout: post    
+title: how to build a government out of ai    
+author: Bhante Sujato    
+blurb: How the tech oligarchs will realize their dream of replacing government with machines. 
+---    
+    
+- Written in Germany, November 2024    
+- Global Atmospheric CO2: 424 ppm   
+- Temperature record while writing this essay: highest November minimum in Germany, 17.8 ℃. 
 
 It has been clear for a long time that the tech community wants to replace government with AI. That this will happen is an article of faith, a resigned (or hopeful) “when” rather than “if”. We are now far enough down the road to catch a glimpse of how they will do it—or try to. 
 
