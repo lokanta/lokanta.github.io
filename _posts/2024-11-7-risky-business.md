@@ -157,7 +157,7 @@ Yet it is a singular fact that none of them, not a single one of the supposedly 
   <figcaption>We think we can save the planet by planting trees; but what is the point of planting new trees while we relentlessly annihilate the old?</figcaption>
 </figure>
 
-Could it be that the ancient traditions of the world did, in fact, hold a precious wisdom, one through which humanity was able to find its balance in nature? Could it be that the arrogant, reductive elimination of myth and meaning, of the divinity of the stars, is leading to the exact result foretold in the ancient wisdom?
+Could it be that the ancient traditions of the world did, in fact, hold a precious wisdom, one through which humanity was able to find its balance in nature? Could it be that the arrogant, reductive elimination of myth and meaning, of the divinity in the stars, is leading to the exact result foretold in the ancient wisdom?
 
 >Hereafter, when kings shall be stingy and unrighteous, and when folk shall be unrighteous, in days when the world is perverted, when good is waning and evil waxing apace—in those days of the world’s discontent there shall fall no rain from the heavens, the feet of the storm shall be lamed, the crops shall wither, and famine shall be on the land. Then shall the clouds gather as if for rain from the four quarters of the heavens, but they shall flee away without raining. (Jātaka 77)
 
@@ -183,12 +183,12 @@ Could it possibly be we, rather, who are the superstitious ones, we who believe 
 
 <figure>
   <img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/refs/heads/master/_posts/img/tornado.jpg" alt="A tornado reaches down." />
-  <figcaption>The hand of god reaches out to punished the Unbeliever.</figcaption>
+  <figcaption>The hand of god reaches out to punish the Unbeliever.</figcaption>
 </figure>
 
 Gods, according to Buddhism, are pretty much like like you and I. They are just born temporarily in a more exalted, more powerful state. And like us they feel the full measure of emotions. 
 
-One story tells us of a monk who cut down a tree, and in doing so injured the arm of the tree nymph’s son. She decided to kill the monk, only to change her mind at the last minute. If this is how the gods react to the felling of a single tree, what are they thinking now as they gaze on the ruin of the world? 
+One story tells us of a monk who cut down a tree, and in doing so injured the arm of the tree nymph’s son. She decided to kill the monk, only to change her mind at the last minute. If this is how the gods react to the felling of a single tree, what are they thinking now as they gaze upon the ruin of the world? 
 
 <figure>
   <img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/refs/heads/master/_posts/img/apsara.jpg" alt="Nymph hidden in tree." />
