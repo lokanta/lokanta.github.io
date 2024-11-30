@@ -35,7 +35,7 @@ Underlying this is the long-term decline of democracy. A [2020 study found that]
 
 >Between 1974 and 2005, a majority of states became democratic for the first time in history. However, a global democratic recession began in 2006 and has persisted – and deepened – over the past 14 years. Not only have average levels of freedom (or democratic quality) been declining globally and in most parts of the world, but the pace of democratic breakdown accelerated and the number of democratic transitions declined, particularly in the past five years.
 
-The process is ongoing; the *Global State of Democracy 2024* study says, “[Declines in the quality of democracy continue to outnumber advances. One is four countries is moving forward, while four in nine are worse off](https://www.idea.int/gsod/2024/)”. 
+The process is ongoing; the *Global State of Democracy 2024* study says, “[Declines in the quality of democracy continue to outnumber advances. One in four countries is moving forward, while four in nine are worse off](https://www.idea.int/gsod/2024/)”. 
 
 “Democracy” is the “rule by the people”. When the people lose faith in humanity, they look to inhumanity for leadership: a brutal dictator, or, even better, a machine more soulless than any psychopath. 
 
