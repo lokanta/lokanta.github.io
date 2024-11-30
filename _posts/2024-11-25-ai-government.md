@@ -21,9 +21,13 @@ At the time, [Romanian PM Nicolae Ciuca said](https://www.theguardian.com/world/
 
 >I have the conviction that the use of AI should not be an option but an obligation to make better informed decisions.
 
-A little over a year later, and suddenly Romanian elections are dominated by an extreme right figure who popped out of nowhere, unknown to almost anyone until the current election cycle. 
+A little over a year later and suddenly Romanian elections are dominated by an extreme right figure who popped out of nowhere, unknown to almost anyone until the current election cycle. 
 
 Pundits on social media wonder where he came from, speculating that he is a Russian plant. [But the Guardian is surely correct to attribute his rise to the feckless leadership of mainstream parties](https://www.theguardian.com/world/2024/nov/25/calin-georgescu-romania-election-hard-right-candidate). Extremism may well be promoted by foreign powers, but it only finds a foothold in weak nations. 
+
+His popularity is entirely due to his massive TikTok presence. TikTok was the first social media based on AI, its uncanny recommendations powered by AI ultimately trained on Chinese social media data. Romanian TikTok is full of bots, and there is little doubt that a massive AI disinformation campaign boosted his rankings.
+
+So both sides are using AI, in very different ways. The incumbent is using AI for what it is marketed as, a reliable source of accurate information. The challenger is using AI for what it is actually good for, gaming attention and amplifying delusion. Guess who wins?
 
 Far from improving governance, the use of AI merely highlighted the incapacity of current leadership, unable to take a step without consulting the machine. Did the use of AI pave the way for an extreme right takeover? Well, clearly it did not help. It was posited as the solution to problems, but those problems just got worse. It’s a pattern where the capacity of humans to lead humanity is continually eroded, and the solution, somehow, is always, “less humanity, more machines”. 
 
