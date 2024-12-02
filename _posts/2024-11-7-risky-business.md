@@ -150,7 +150,7 @@ But what of that other, hidden thing? The day that we cannot see? That time in t
 
 We have relentlessly scoured the sacred from the world, filling the earth’s veins with acid, scoffing contemptuously at those who worship the sky and the rivers. We point and laugh at how useless their endless rites were, how cruel their sacrifices; and how, even when they served their gods properly with ritual and oblation, they were still struck with drought or failure. 
 
-Yet it is a singular fact that none of them, not a single one of the supposedly benighted superstitions of the past, bequeathed us a planet decimated with ruin. 
+Yet it is a singular fact that none of them, not a single one of the supposedly benighted superstitions of the past, bequeathed us a planet decimated with ruin. When it comes to apocalypse, religions like to talk big. We speak of the end of the world, our words laden with prophecy and portent. Yet our dooms are, in the end, domestic affairs, more local tragedy than global annihilation. 
 
 <figure>
   <img src="https://raw.githubusercontent.com/lokanta/lokanta.github.io/refs/heads/master/_posts/img/forest.jpg" alt="A forest is clearfelled up to a line." />

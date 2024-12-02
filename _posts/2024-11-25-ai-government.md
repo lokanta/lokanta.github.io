@@ -27,7 +27,7 @@ Pundits on social media wonder where he came from, speculating that he is a Russ
 
 His popularity is entirely due to his massive TikTok presence. TikTok was the first social media based on AI, its uncanny recommendations powered by AI ultimately trained on Chinese social media data. Romanian TikTok is full of bots, and there is little doubt that a massive AI disinformation campaign boosted his rankings.
 
-So both sides are using AI, in very different ways. The incumbent is using AI for what it is marketed as, a reliable source of accurate information. The challenger is using AI for what it is actually good for, gaming attention and amplifying delusion. Guess who wins?
+So both sides are using AI, in very different ways. The incumbent is using AI for what it is marketed as, a reliable source of accurate information. The challenger is using AI for what it is actually good for, gaming attention and amplifying delusion. 
 
 Far from improving governance, the use of AI merely highlighted the incapacity of current leadership, unable to take a step without consulting the machine. Did the use of AI pave the way for an extreme right takeover? Well, clearly it did not help. It was posited as the solution to problems, but those problems just got worse. It’s a pattern where the capacity of humans to lead humanity is continually eroded, and the solution, somehow, is always, “less humanity, more machines”. 
 
@@ -97,7 +97,7 @@ When it gets too bad, will people get that they have been hoodwinked, and realiz
 
 Let us march crisply towards our glorious future, “[all watched over by machines of loving grace](https://web.archive.org/web/20211125232026/http://www.brautigan.net/graphics/machines/machines-loudspeaker.gif)”. Of course, it won’t be “our” future, exactly. We will be just another inefficiency, soon to be optimized away, or retained only [at the pleasure of the machine](https://en.wikipedia.org/wiki/I_Have_No_Mouth%2C_and_I_Must_Scream). 
 
-Perhaps the saddest part of all this is that, as far as Musk’s plans go, it’s all a side issue. It’s not that he wants to create a fascist authoritarian state on earth, particularly. What he wants is to colonize Mars. And to that end, as he has said many times, he must get rid of [EPA restrictions](https://www.npr.org/2024/10/10/nx-s1-5145776/spacex-texas-wetlands) on his Starship program. [That’s why he is doing what he is doing](https://www.eenews.net/articles/trump-musk-head-to-site-of-spacex-permit-problems/): don’t be distracted. 
+Perhaps the saddest part of all this is that, as far as Musk’s plans go, it’s all a side issue. It’s not that he wants to create a fascist authoritarian state on earth, particularly. What he wants is to colonize Mars. And to that end, as he has said many times, he must get rid of [EPA restrictions](https://www.npr.org/2024/10/10/nx-s1-5145776/spacex-texas-wetlands) on his Starship program. [That’s why he is doing what he is doing](https://www.eenews.net/articles/trump-musk-head-to-site-of-spacex-permit-problems/): don’t be fooled. 
 
 I realize it’s uncool to like normal things, but it is a fact that for centuries people fought and died so that we could enjoy democracy. They bled oceans as humanity blundered on in our violent, messy way, towards a concept of a state that actually works. I’m no great fan of the nation-state idea as such, but since that is what we have, we should recognize that it is quite possible to run a nation in a reasonably okay way. We were doing it long before AI. 
 
