@@ -189,7 +189,7 @@ As the military becomes more dependent on AI, it will inevitably become more dep
 
 Thus the downward spiral accelerates: government gets worse, so its capacity to improve is undermined, so more AI is used, which makes it worse still. The enshittification of government. 
 
-When it gets too bad, will people get that they have been hoodwinked, and realize that humans must remain forever the agents of human destiny? Some, surely. But I fear it will be too late, and perhaps not even then. Rather, the sentiment will shift to, “Who even needs a government anyway? [What has the government ever done for us?](https://www.youtube.com/watch?v=ExWfh6sGyso)” We will replace the very idea of government with a fantasy of machine utopia. 
+Will there come a time when people get that they have been hoodwinked, and realize that humans must remain forever the agents of human destiny? For some, surely. But I fear it will be too late, and perhaps not even then. Rather, the sentiment will shift to, “Who even needs a government anyway? [What has the government ever done for us?](https://www.youtube.com/watch?v=ExWfh6sGyso)” We will replace the very idea of government with a fantasy of machine utopia. 
 
 Let us march crisply towards our glorious future, “[all watched over by machines of loving grace](https://web.archive.org/web/20211125232026/http://www.brautigan.net/graphics/machines/machines-loudspeaker.gif)”. Of course, it won’t be “our” future, exactly. We will be just another inefficiency, soon to be optimized away, or retained only [at the pleasure of the machine](https://en.wikipedia.org/wiki/I_Have_No_Mouth%2C_and_I_Must_Scream). 
 
