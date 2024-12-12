@@ -77,7 +77,7 @@ The palantir were created by the Numenoreans of old to manage their vast empire.
 
 So far did he fall in his hubris that he even believed Sauron would share power. Saruman was fool enough to believe he could ally with Sauron in the “union of the two towers”. His overreach was to prove his doom.
 
-The 2024 U.S. election also witnessed a union of the two towers: the conmen, rapists, and mafioso of Trump and his circle with the technofascists Elon Musk and Peter Thiel. (I want you to know that when I call these people rapists or fascists, these terms are not meant as insults. They are simple factual descriptors. We should use the word for the thing.)
+The 2024 U.S. election also witnessed a union of the two towers: the conmen, rapists, and mafioso of Trump and his circle with the technofascists Elon Musk and Peter Thiel. (I want you to know that when I call these people “rapists” or “fascists”, these terms are not meant as insults. They are simple factual descriptors. We should use the word for the thing.)
 
 Up till now, the world of technology has retained a skepticism about government, leaning towards a libertarian ethos of innovation and progress, in the fervent belief that the future will be built by the unfettered genius of the engineers. Now they are not merely supporting one side, they have joined it decisively, sponsoring the electoral campaign, mentoring the vice-presidential candidate, and even setting up their own government department.
 
