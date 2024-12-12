@@ -37,9 +37,9 @@ The union of the two towers.
 
 I’m just a monk. What would I know? Not much, really. I’ve no illusion about that. 
 
-I know about early Buddhist texts, and I’m pretty confident when I speak on them. 
+I know about early Buddhist texts, and I’m pretty confident when I speak on them. They tell us that we should learn to recognize evil; and when we recognize it, to stop doing it. This, then, is an essay about evil, about how to recognize it, and how to stop participating in it. 
 
-I know something about my own mind, too. Well, I picked up a thing or two. 
+I know a little something something about my own mind, too. Well, I picked up a thing or two. 
 
 I’m a child of the eighties. Most kids my age were doing the thing, getting a career and a job, listening to Wham! I was too cool for that. I listened to The Clash, or The Triffids, or Do Re Mi, or later, Nina Simone and Charles Mingus. And I helped pass out leaflets warning that Rupert Murdoch was a threat to society.
 
@@ -51,7 +51,7 @@ I like a good scalpel, one that cuts so deep it lets out not blood, but light. I
 
 As a Buddhist monk, I’m surrounded by nice people who like to imagine that other people are nice too. It’s a comforting thought. I like being around people like that. 
 
-But I don’t believe them. I don’t trust comforting thoughts. I see evil all around, rising like the tide, like the warming oceans. I fear it. It harrows my soul. And I don’t know what to do, except bear witness with my words. 
+But I don’t believe them. I don’t trust comforting thoughts. I see evil all around, rising like the tide, rising like the warming oceans. I fear it. It harrows my soul. I don’t have answers or solutions. All I can do is bear witness with my words. 
 
 I’ve come across the writings of Sarah Kendzior. She’s the Cassandra of Calamity, a writer whose every sentence slices and dices to get at the truth. At first I thought she was, well, a bit much. Too dark. Then over time I began to realize that pretty much everything she had predicted was coming true. 
 
@@ -63,7 +63,7 @@ This essay leans heavily on her work. I won’t document the details; better jus
 
 I want to understand this moment in time, because it will define the place we will all live in. 
 
-What is the union of the two towers?
+I want to understand the union of the two towers.
 
 ## of dark lords past and present
 
@@ -136,7 +136,6 @@ AI advice becomes AI decisions, and suddenly the machine decides [who gets healt
 This won’t affect those who make AI. It is not for them. AI is a gun they hold, aimed at the poor. The rich will still have human nannies, human teachers, human doctors and human nurses. The poor will be fobbed off with crappy machines because of “cost-cutting”, because we as a society have decided that they are not worth the time and attention and care of another human being. 
 
 A report by Techtonic Justice called “[Inescapable AI: The Ways AI Decides How Low-Income People Work, Live, Learn, and Survive](https://www.techtonicjustice.org/reports/inescapable-ai)”, found that:
-
 
 >The use of artificial intelligence, or AI, by governments, landlords, employers, and other powerful private interests restricts the opportunities of low-income people in every basic aspect of life: at home, at work, in school, at government offices, and within families. AI technologies derive from a lineage of automation and algorithms that have been in use for decades with established patterns of harm to low-income communities. … essentially all 92 million low-income people in the U.S. states—everyone whose income is less than 200 percent of the federal poverty line—have some basic aspect of their lives decided by AI. 
 
@@ -246,7 +245,7 @@ The two towers will set AI to the task of looting the state, hollowing out the g
 
 This is where Musk the technofascist and Trump the sadist come together: they both love firing people. Trump’s fame came from his public display of cruelty—his catchword was “you’re fired!” And Musk sacked 80% of the staff at Twitter, driving it into the ground in the name of efficiency. 
 
-Behold the union of the two towers: the crooks and the technofascists, the Russian model and the Chinese, wedded by the machine and united in their contempt for humanity. 
+Behold the union of the two towers: the crooks and the technofascists, the Russian model and the Chinese, wedded by the machine and united in their rapacious contempt for humanity. 
 
 The irony is, if Musk succeeds, he will end up destroying both forms of authoritarianism. Climate change will burn the gangsters and the technofascists along with the rest of us. We are NPCs, he is “Imperator of Mars”. He’ll never reach the stars, but he may just kill us all trying. 
 
