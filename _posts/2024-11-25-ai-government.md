@@ -13,7 +13,7 @@ blurb: How the tech oligarchs will realize their dream of replacing government w
 
 Monks shouldn’t be political, they say. 
 
-Like as not, monks who say that have a framed photo of the Thai king and queen elevated near their shrine. Not quite worshiped, exactly. But when they speak of Thai royalty they say things like, “those great beings from the national pantheon”. 
+Like as not, monks who say that have a framed photo of the king and queen elevated near their shrine. Not quite worshiped, exactly. But when they speak of royalty they say things like, “those great beings from the national pantheon”. 
 
 The Thai king’s wealth is counted in tens of billions of dollars. Poor people know exactly what they have, down to the last cent, and they have to account for it all. When it comes to the rich, is it thirty billion? Or fifty billion? Or much, much more? Who can say? 
 
@@ -47,7 +47,7 @@ We had moral conviction, but we passed the time chatting in pubs, our minds too 
 
 And here we are. I gave up hope long ago. I’m not expecting to change anything, least of all anyone’s mind. So I don’t really think of myself as political. It’s just who I am. Call it a failure of imagination. I just can’t imagine being the kind of person who would live at a time when the whole world was burning and never say or feel anything. 
 
-I love a good scalpel, one that cuts so deep it lets out not blood, but light. I write not to persuade but to make sense; for myself, and maybe for someone else.
+I like a good scalpel, one that cuts so deep it lets out not blood, but light. I write not to persuade but to make sense; for myself, and maybe for someone else.
 
 As a Buddhist monk, I’m surrounded by nice people who like to imagine that other people are nice too. It’s a comforting thought. I like being around people like that. 
 
@@ -61,9 +61,9 @@ Her politics is one of character. The character of criminals, for the most part,
 
 This essay leans heavily on her work. I won’t document the details; better just go to the source. [She doesn’t paywall her writing](https://sarahkendzior.substack.com/). 
 
-I want to understand this moment in time, because I think it will define the place we will all live in. This essay is an attempt at an answer. 
+I want to understand this moment in time, because it will define the place we will all live in. 
 
-Why have the two towers united?
+What is the union of the two towers?
 
 ## of dark lords past and present
 
@@ -81,7 +81,7 @@ The 2024 U.S. election also witnessed a union of the two towers: the conmen, rap
 
 Up till now, the world of technology has retained a skepticism about government, leaning towards a libertarian ethos of innovation and progress, in the fervent belief that the future will be built by the unfettered genius of the engineers. Now they are not merely supporting one side, they have joined it decisively, sponsoring the electoral campaign, mentoring the vice-presidential candidate, and even setting up their own government department.
 
-It is no coincidence that the AI surveillance company owned by Peter Thiel is called Palantir. It is a digital analogue of Tolkien’s seeing-stones; except, as usual, Thiel seems to miss the point, unaware that he is the bad guy. He controls a system that lets governments see what he wants them to see, in the way he wants them to see it. His systems are ostensibly about information and intelligence, but in fact they create a new layer of unreality, so that a nation’s leaders do not have to respond to the actual people who believe themselves to be citizens; all that matters is their digital representation.
+It is no coincidence that the AI surveillance company owned by Peter Thiel is called Palantir. It is a digital analogue of Tolkien’s seeing-stones. As usual, Thiel seems to miss the point, unaware that he is the bad guy. He controls a system that lets governments see what he wants them to see, in the way he wants them to see it. His systems are ostensibly about information and intelligence, but in fact they create a new layer of unreality, so that a nation’s leaders do not have to respond to the actual people who believe themselves to be citizens. All that matters is their digital representation.
 
 ## ai weirding the romanian election
 
@@ -101,9 +101,9 @@ A little over a year later and suddenly Romanian elections are dominated by an e
 
 Early speculation that he was a Russian plant was soon confirmed. [His rise was also boosted](https://bsky.app/profile/ridt.bsky.social/post/3lcqtd5h3q223) by an unholy combination of [crypto](https://www.digi24.ro/stiri/actualitate/evenimente/perchezitii-in-brasov-la-finantatorul-campaniei-lui-calin-georgescu-acuzatii-de-spalare-a-banilor-si-coruperea-alegatorilor-3037419?__grsc=cookieIsUndef0&__grts=57787031&__grua=0845b309c7b9b957afd9ecf775a4c21f&__grrn=1), “[underworld clans](https://ziare.com/alegeri-prezidentiale-2024/clanurile-interlope-sustin-calin-georgescu-1910030?utm_source=Ziare.com&utm_medium=copy-paste%22)”, [paid influencers](https://www.stiripesurse.ro/fug-sustinatorii-lui-calin-georgescu--influenceri-care-ar-fi-dat-mesaje-politice-pe-bani-au-disparut-makavelli-ar-fi-trecut-dunarea-in-bulgaria_3516607.html), even “[natural medicine and saints](https://snoop.ro/strategia-cu-bani-rusesti-cum-au-ajuns-reclamele-la-medicina-naturista-si-stirile-cu-sfinti-sa-influenteze-votul-romanilor-la-prezidentiale/)”. But the Guardian is surely correct to attribute his rise to [the feckless leadership of mainstream parties](https://www.theguardian.com/world/2024/nov/25/calin-georgescu-romania-election-hard-right-candidate). Extremism may well be promoted by foreign powers, but it only finds a foothold in weak nations. 
 
-His popularity was entirely due to his massive TikTok presence. TikTok was the first social media based on AI, its uncanny recommendations powered by AI ultimately trained on Chinese social media data. Romanian TikTok is full of bots, and there is no doubt that a massive AI disinformation campaign boosted his rankings.
+His popularity was entirely due to his massive TikTok presence. TikTok was the first social media based on AI, its uncanny recommendations powered by a machine ultimately trained on Chinese social media data. Romanian TikTok is full of bots, and there is no doubt that a massive AI disinformation campaign boosted his rankings.
 
-Both sides use AI, but in very different ways. The incumbent is using AI for what it is marketed as, a reliable source of accurate information. The challenger is using AI for what it is actually good for, gaming attention and amplifying delusion. 
+Both sides used AI, but in very different ways. The incumbent used AI for what it is marketed as, a reliable source of accurate information. The challenger used AI for what it is actually good for, gaming attention and amplifying delusion. 
 
 Far from improving governance, the use of AI merely highlighted the incapacity of current leadership, unable to take a step without consulting the oracle. Did the use of AI pave the way for an extreme right takeover? Well, clearly it did not help. It was posited as the solution to problems, but those problems just got worse. 
 
@@ -123,17 +123,17 @@ Most governments do not have an official AI adviser. But how many of the politic
 
 In doing so, they not only reveal their collapsing faith in humanity, they advance it. No longer do they trust their own judgment or the judgment of the people around them. They would rather listen to the unthoughts of a machine. 
 
-“I could never write this well,” they muse, as the machine spits out yet another stream of statistically-determined, plagiarized unthought. They are content to be the editor and checker of machine dribble, serving its fancy, and every day finding that their role becomes less and less necessary.
+“I could never write this well,” they muse, as the machine spits out yet another stream of statistically-determined, plagiarized unthought. They are content to be the editor and checker of machine dribble, serving its fancy, and every day finding that their role becomes less and less necessary. 
 
 We have seen a similar process unfold with smartphones. When they were introduced, people started developing new services and capabilities, offering new ways of paying for things, or identifying yourself, or verifying a service. As time went on, more people got phones, and providers started assuming that almost everyone has one. Other methods were neglected, and ultimately only the phone was left. We never really asked to live in a world where you need a phone to read a restaurant menu; it just kind of … happened. And now we throw away [15 million phones every day](https://www.bbc.com/news/science-environment-63245150).
 
-The way AI works, it slides imperceptibly from “advising” to “deciding”. A student gets a machine to spit out an essay, then, theoretically, uses their critical thinking skills to fact check, evaluate, and rewrite. Except if the machine output is good already, or if they left it to the last minute, or if they never developed critical thinking skills because machines were always there. 
+AI slides imperceptibly from “advising” to “deciding”. A student gets a machine to spit out an essay, then, theoretically, uses their critical thinking skills to fact check, evaluate, and rewrite. Except if the machine output is good already, or if they left it to the last minute, or if they never developed critical thinking skills because machines were always there. 
 
 AI targets families and children for the Israeli army to murder, then leaves the decision up to the operator. In theory. But there are thousands of targets and no time so they just press “go” every time. Technocrats promise us a glorious AI future, but those innocents, the fathers and brothers, the infants, the mothers and daughters, they have no future. AI decided that for them. It decided death.
 
-AI advice becomes AI decisions, and suddenly the machine decides [who gets health care](https://www.worldprivacyforum.org/2024/11/ai-governance-on-the-ground-chiles-social-security-and-medical-insurance-agency-grapples-with-balancing-new-responsible-ai-criteria-and-vendor-cost/), who gets welfare, who gets to go to school. 
+AI advice becomes AI decisions, and suddenly the machine decides [who gets health care](https://www.worldprivacyforum.org/2024/11/ai-governance-on-the-ground-chiles-social-security-and-medical-insurance-agency-grapples-with-balancing-new-responsible-ai-criteria-and-vendor-cost/), who gets welfare, who goes to school. 
 
-This won’t affect those who make AI. It is not for them. AI is a gun they hold, aimed at the poor. The rich will still have human nannies, human teachers, human doctors and nurses. The poor will be fobbed off with crappy machines because of “cost-cutting”, because we as a society have decided that they are not worth the time and attention and care of another human being. 
+This won’t affect those who make AI. It is not for them. AI is a gun they hold, aimed at the poor. The rich will still have human nannies, human teachers, human doctors and human nurses. The poor will be fobbed off with crappy machines because of “cost-cutting”, because we as a society have decided that they are not worth the time and attention and care of another human being. 
 
 A report by Techtonic Justice called “[Inescapable AI: The Ways AI Decides How Low-Income People Work, Live, Learn, and Survive](https://www.techtonicjustice.org/reports/inescapable-ai)”, found that:
 
@@ -229,7 +229,7 @@ How does he plan to do this? By building a fleet of a thousand Starships.
 What does he need in order to achieve this? 
 
 - Lots of money. That shouldn’t be a problem. The LA Times estimated that up to 2015 he had received about $5 billion from the US government. But that’s chump change. I’m writing a month after the 2024 US election, in which time [Musk’s estimated wealth](https://www.bloomberg.com/news/articles/2024-12-11/elon-musk-net-worth-tops-400-billion-a-historic-first) has grown by two-thirds, from $264 billion to over $400 billion. That’s nearly $5 billion per day, or $50,000 per second. In the time it takes you to read this sentence, he’s earned more than you in the entire year. 
-- Lots of methane. Starship burns 1,000 tonnes of methane each launch. A thousand ships, each launching three times daily, will burn 3,000,000 tonnes of methane every day, putting an end to any hope of preventing catastrophic global warming. This also should be no problem. [Markets are bullish](https://www.globenewswire.com/news-release/2024/01/25/2816419/0/en/Methane-Global-Industry-Report-2024-Market-to-Surge-with-Projected-Growth-in-Renewable-Energy-and-Automotive-Industries-Long-term-Forecasts-to-2028-and-2033.html) about continued massive expansion of global production and shipping of methane—which is [worse for global warming than coal](https://news.cornell.edu/stories/2024/10/liquefied-natural-gas-carbon-footprint-worse-coal)—as prices drop. 
+- Lots of methane. Starship burns 1,000 tonnes of methane each launch. A thousand ships, each launching three times daily, will burn 3,000,000 tonnes of methane every day, putting an end to any hope of preventing catastrophic global warming. This also should be no problem for Musk to achieve. [Markets are bullish](https://www.globenewswire.com/news-release/2024/01/25/2816419/0/en/Methane-Global-Industry-Report-2024-Market-to-Surge-with-Projected-Growth-in-Renewable-Energy-and-Automotive-Industries-Long-term-Forecasts-to-2028-and-2033.html) about continued massive expansion of global production and shipping of methane—which is [worse for global warming than coal](https://news.cornell.edu/stories/2024/10/liquefied-natural-gas-carbon-footprint-worse-coal)—as prices drop. 
 - Get rid of environmental restrictions. Ideally he would end the EPA itself, or at least disembowel it. He has repeatedly said that he cannot achieve his aims with the burden of environmental regulation. 
 
 More than any of these, he needs a vast and highly skilled industrial manufacturing capacity. Most US manufacturing has, of course, been moved to China, but Tesla is built in the US. He can’t outsource to China, because then he would be under their thumb. Anyway, [he’s a white supremacist](https://www.theatlantic.com/technology/archive/2024/11/x-white-supremacist-site/680538/).
@@ -242,7 +242,7 @@ He creates businesses whose success on Earth enable him to colonize Mars.
 
 In taking over the government, he is doing the same thing. He doesn’t care about government efficiency, any more than he cares about public transport (hyperloop, Boring Company), or trucks (cybertruck), or renewable energy. He does these things because they will help him colonize Mars. And AI is the magic key, the palantir, that lets him connect Trump’s gangsterism with technofascist control. 
 
-The two towers will set AI to the task of looting the state, hollowing out the government until only the shell remains, while at the same time, increasing powers of police surveillance and citizen control. They will retain only the essential functions of a state: lavishing money on the rich and pain on the poor and undeserving. AI will do this by getting rid of those who stand in the way, namely, government employees. 
+The two towers will set AI to the task of looting the state, hollowing out the government until only the shell remains, while at the same time, increasing powers of police surveillance and citizen control. They will retain only the essential functions of a state: lavishing money on the rich and pain on the poor and undeserving. AI will get rid of those who stand in the way, namely, government employees. 
 
 This is where Musk the technofascist and Trump the sadist come together: they both love firing people. Trump’s fame came from his public display of cruelty—his catchword was “you’re fired!” And Musk sacked 80% of the staff at Twitter, driving it into the ground in the name of efficiency. 
 
@@ -254,8 +254,8 @@ The irony is, if Musk succeeds, he will end up destroying both forms of authorit
 
 They tell us the future belongs to the machines.
 
-The machines answer not to the common good, to reason, or to humanity. They answer only to the wills of their masters. Governance by AI means governance by tech oligarchs. We are sleep-walking into a future of global machine totalitarianism, oohing and aahing over their toys as their dreams play out on the lids of our own serenely closed eyes.
+What they don’t tell us is that the machines answer not to the common good, to reason, or to humanity. They answer only to the wills of their masters. Governance by AI means governance by tech oligarchs. We are sleep-walking into a future of global machine totalitarianism, oohing and aahing over their toys as their dreams play out on the lids of our own serenely closed eyes.
 
-Can we stop it? For a little while, perhaps. So long as government remains in the hands of humans, we can pass our own laws. Every day that passes, I look at the trees and breathe in the air, and a full-on [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad) grows more appealing. 
+Can we stop it? For a little while, perhaps. So long as governments remain in the hands of humans, we can pass our own laws. The thing about machines, you can turn them off. Every day that passes, I look at the trees and breathe in the air, and a full-on [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad) grows more appealing. 
 
 Let us not make machines in the likeness of a human mind. 
