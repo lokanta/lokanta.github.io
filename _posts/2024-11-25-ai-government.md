@@ -155,7 +155,7 @@ Coding a modern AI model itself is straightforward. The limiting factors are:
 
 A large LLM requires the energy of a city. It feeds on enormous fields of servers, housed in giant warehouses, full of expensive processors running at full speed for months at a time. This is not something that can be optimized away; we have been optimizing chips and energy production for a long time now, and we know how they will improve in future. 
 
-This costs billions, so it will forever remain in the hands of a few massive corporations. Nor *should* such capabilities be available to just anyone. [The environmental cost of AI is staggering](https://www.nature.com/articles/d41586-024-00478-x): the energy, the water usage, the land displacement, the minerals mined for the chips and other infrastructure, and much more.
+This costs billions, so it will forever remain in the hands of a few massive corporations. Nor *should* such capabilities be available to just anyone. [The environmental cost of AI is staggering](https://www.nature.com/articles/d41586-024-00478-x): the energy, the land displacement, the minerals mined for the chips and other infrastructure, and much more.
 
 So long as we continue to allow them to exist, LLMs will be monopolized in the hands of a few corporations. History shows us that technology tends towards monopolization. (Have you tried buying a phone recently? Did you enjoy trying the Firefox OS, or Ubuntu Touch, or Nokia’s Symbian, or Samsung’s Tizen, or Palm’s webOS, or Blackberry OS, or Microsoft’s Windows Mobile? No, you chose between iOS and Android, between a 3.5 trillion dollar company and a 2 trillion dollar company. All those operating systems lost in time, like tears in rain.) This tendency is true even in fields where scale is not needed—how much more so in a field where scale is the defining feature?
 
@@ -229,7 +229,7 @@ What does he need in order to achieve this?
 
 - Lots of money. That shouldn’t be a problem. The LA Times estimated that up to 2015 he had received about $5 billion from the US government. But that’s chump change. I’m writing a month after the 2024 US election, in which time [Musk’s estimated wealth](https://www.bloomberg.com/news/articles/2024-12-11/elon-musk-net-worth-tops-400-billion-a-historic-first) has grown by two-thirds, from $264 billion to over $400 billion. That’s nearly $5 billion per day, or $50,000 per second. In the time it takes you to read this sentence, he’s earned more than you in the entire year. 
 - Lots of methane. Starship burns 1,000 tonnes of methane each launch. A thousand ships, each launching three times daily, will burn 3,000,000 tonnes of methane every day, putting an end to any hope of preventing catastrophic global warming. This also should be no problem for Musk to achieve. [Markets are bullish](https://www.globenewswire.com/news-release/2024/01/25/2816419/0/en/Methane-Global-Industry-Report-2024-Market-to-Surge-with-Projected-Growth-in-Renewable-Energy-and-Automotive-Industries-Long-term-Forecasts-to-2028-and-2033.html) about continued massive expansion of global production and shipping of methane—which is [worse for global warming than coal](https://news.cornell.edu/stories/2024/10/liquefied-natural-gas-carbon-footprint-worse-coal)—as prices drop. 
-- Get rid of environmental restrictions. Ideally he would end the EPA itself, or at least disembowel it. He has repeatedly said that he cannot achieve his aims with the burden of environmental regulation. 
+- Get rid of environmental restrictions. Ideally he would end the EPA itself, or at least disembowel it. He has repeatedly said that he cannot achieve his aims with the burden of environmental regulation. This, too, looks to be a solved problem, as Trump has promised to “expedite” environmental regulations on large investments, [to Musk’s delight](https://bsky.app/profile/leopardsatemyface.bsky.social/post/3ld4kqd2dhc2b). 
 
 More than any of these, he needs a vast and highly skilled industrial manufacturing capacity. Most US manufacturing has, of course, been moved to China, but Tesla is built in the US. He can’t outsource to China, because then he would be under their thumb. Anyway, [he’s a white supremacist](https://www.theatlantic.com/technology/archive/2024/11/x-white-supremacist-site/680538/).
 
@@ -258,3 +258,6 @@ What they don’t tell us is that the machines answer not to the common good, to
 Can we stop it? For a little while, perhaps. So long as governments remain in the hands of humans, we can pass our own laws. The thing about machines, you can turn them off. Every day that passes, I look at the trees and breathe in the air, and a full-on [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad) grows more appealing. 
 
 Let us not make machines in the likeness of a human mind. 
+
+
+https://futurism.com/the-byte/sauron-secures-funding
