@@ -205,7 +205,7 @@ I realize it’s uncool to like normal things, but it is a fact that for centuri
 
 Sure there are problems. But the biggest threat to a well-functioning state is always the same: the corrupting power of the rich. States function well when they rein in that power, moderate inequality, and ensure that the benefits of work go to the people. They tend towards autocracy, or fall apart completely, when the power of the rich is unfettered. 
 
-The core [neoliberal strategy](https://www.theguardian.com/books/2016/apr/15/neoliberalism-ideology-problem-george-monbiot) has always been to undermine faith in government, for a well-functioning government acts in the public good, not in the interests of the rich. AI is the perfect instrument to achieve this aim, indeed, to take it to new heights, as it works by undermining faith in humanity itself. No nation became better off by transferring wealth to the rich—but that is exactly what AI is accelerating. We can now envisage a world where there is not just small government, but no government at all. Only the machines matter. 
+The core [neoliberal strategy](https://jaredyatessexton.substack.com/p/what-the-hell-is-going-on-an-explainer) has always been to undermine faith in government, for a well-functioning government acts in the public good, not in the interests of the rich. AI is the perfect instrument to achieve this aim, indeed, to take it to new heights, as it works by undermining faith in humanity itself. No nation became better off by transferring wealth to the rich—but that is exactly what AI is accelerating. We can now envisage a world where there is not just small government, but no government at all. Only the machines matter. 
 
 ## the two towers
 
@@ -262,5 +262,4 @@ What they don’t tell us is that the machines answer not to the common good, to
 Can we stop it? For a little while, perhaps. So long as governments remain in the hands of humans, we can pass our own laws. The thing about machines, you can turn them off. Every day that passes, I look at the trees and breathe in the air, and a full-on [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad) grows more appealing. 
 
 Let us not make machines in the likeness of a human mind. 
-
 
