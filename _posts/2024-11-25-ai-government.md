@@ -83,6 +83,8 @@ Up till now, the world of technology has retained a skepticism about government,
 
 It is no coincidence that the AI surveillance company owned by Peter Thiel is called Palantir. It is a digital analogue of Tolkien’s seeing-stones. As usual, Thiel seems to miss the point, unaware that he is the bad guy. He controls a system that lets governments see what he wants them to see, in the way he wants them to see it. His systems are ostensibly about information and intelligence, but in fact they create a new layer of unreality, so that a nation’s leaders do not have to respond to the actual people who believe themselves to be citizens. All that matters is their digital representation.
 
+Palantir does not operate in isolation. They partner with an AI firm [named Anduril](https://finance.yahoo.com/video/palantir-partners-anduril-advance-ai-154658126.html), after the elvish sword wielded by Aragorn. One of their signature products is named Anduril Menace, [described as a](https://finance.yahoo.com/news/anduril-palantir-accelerate-ai-capabilities-220000806.html) “family of deployable compute and communications systems to instrument the tactical edge for the government’s secure, large-scale data retention and distribution.” And they are linked to a [home security company that is named Sauron](https://futurism.com/the-byte/sauron-secures-funding) after the all-seeing Eye, the dark lord himself, faithless and accursed. I guess I respect their honesty. They’re not playing pretend any more. 
+
 ## ai weirding the romanian election
 
 For a long time the technocrats have wanted to replace government with AI. That this will happen is an article of faith, a resigned (or hopeful) “when” rather than “if”. We are now far enough down the road to see how they will do it—or try to. 
@@ -179,13 +181,15 @@ It’s got nothing to do with efficiency, obviously. The idea, it seems, is to p
 
 Musk sacked the safety and ethics people at Twitter. With their departure the place was overrun by Nazis and bots, which, it now seems clear, was the plan all along. It’s what they meant by “free speech”. It seems equally clear that the same plan will be applied to the US government. This should be of utmost concern to every person on the planet. After all, Twitter sends messages, but the US sends bombs.
 
-They’ll claim to use AI to replace the “unnecessary” workers. I’m feeling pretty good about predicting that this will go just as great as Romania’s AI. From the start, government will be hugely impacted and many services will fail altogether. 
+They’ll claim to use AI to replace the “unnecessary” workers. This will hugely impact basic government services, which will, like most things run by AI, fail repeatedly in new and exciting ways. 
 
 Meanwhile, with the government “savings” they will grant even more tax cuts to the rich in order to “balance the budget”. The budget will get even further out of balance as money flows into the coffers of the AI overlords. It is widely underappreciated how much of Elon Musk’s wealth is due to his ability to [convince governments to give him money](https://www.latimes.com/business/la-fi-hy-musk-subsidies-20150531-story.html). 
 
-The benefactors will include other criminals and oligarchs as well. The [crypto world invested big in the Trump administration](https://www.theguardian.com/us-news/2024/dec/07/campaign-spending-crypto-tech-influence), so they’ll be paid nicely. Worse will be the growing role of AI in the military. It’s the same companies, the same players, the same fascists and psychopaths, who are supplying the tech that pilots drones or targets missiles. 
+The benefactors will include other criminals and oligarchs as well. The [crypto world invested big in the Trump administration](https://www.theguardian.com/us-news/2024/dec/07/campaign-spending-crypto-tech-influence), so they’ll be paid nicely. 
 
-As the military becomes more dependent on AI, it will inevitably become more dependent on the men running AI. And as multiple governments deploy competing AI systems, they will engage, machine to machine, in an escalating gameplay of one-upmanship, in which genocide will be a mere side effect. The machines won’t care. And their overlords will reassure us that, if only we grant them more power, their machines will make sure the right side wins. 
+Even worse will be the growing role of AI in the military. It’s the same companies, the same players, the same fascists and psychopaths, who are supplying the tech that pilots drones or targets missiles. 
+
+As the military becomes more dependent on AI, it will become more dependent on the men running AI. And as multiple governments deploy competing AI systems, they will engage, machine to machine, in an escalating gameplay of one-upmanship, in which genocide will be a mere side effect. The machines won’t care. And their overlords will reassure us that, if only we grant them more power, their machines will make sure the right side wins. 
 
 Thus the downward spiral accelerates: government gets worse, so its capacity to improve is undermined, so more AI is used, which makes it worse still. The enshittification of government. 
 
@@ -227,7 +231,7 @@ How does he plan to do this? By building a fleet of a thousand Starships.
 
 What does he need in order to achieve this? 
 
-- Lots of money. That shouldn’t be a problem. The LA Times estimated that up to 2015 he had received about $5 billion from the US government. But that’s chump change. I’m writing a month after the 2024 US election, in which time [Musk’s estimated wealth](https://www.bloomberg.com/news/articles/2024-12-11/elon-musk-net-worth-tops-400-billion-a-historic-first) has grown by two-thirds, from $264 billion to over $400 billion. That’s nearly $5 billion per day, or $50,000 per second. In the time it takes you to read this sentence, he’s earned more than you in the entire year. 
+- Lots of money. That shouldn’t be a problem. The LA Times estimated that by 2015 he had received about $5 billion from the US government. But that’s chump change. I’m writing a month after the 2024 US election, in which time [Musk’s estimated wealth](https://www.bloomberg.com/news/articles/2024-12-11/elon-musk-net-worth-tops-400-billion-a-historic-first) has grown by two-thirds, from $264 billion to over $400 billion. That’s nearly $5 billion per day, or $50,000 per second. In the time it takes you to read this sentence, he’s earned more than you in the entire year. By the time you’ve read these three list items, he’s earned more than you your entire life. 
 - Lots of methane. Starship burns 1,000 tonnes of methane each launch. A thousand ships, each launching three times daily, will burn 3,000,000 tonnes of methane every day, putting an end to any hope of preventing catastrophic global warming. This also should be no problem for Musk to achieve. [Markets are bullish](https://www.globenewswire.com/news-release/2024/01/25/2816419/0/en/Methane-Global-Industry-Report-2024-Market-to-Surge-with-Projected-Growth-in-Renewable-Energy-and-Automotive-Industries-Long-term-Forecasts-to-2028-and-2033.html) about continued massive expansion of global production and shipping of methane—which is [worse for global warming than coal](https://news.cornell.edu/stories/2024/10/liquefied-natural-gas-carbon-footprint-worse-coal)—as prices drop. 
 - Get rid of environmental restrictions. Ideally he would end the EPA itself, or at least disembowel it. He has repeatedly said that he cannot achieve his aims with the burden of environmental regulation. This, too, looks to be a solved problem, as Trump has promised to “expedite” environmental regulations on large investments, [to Musk’s delight](https://bsky.app/profile/leopardsatemyface.bsky.social/post/3ld4kqd2dhc2b). 
 
@@ -239,9 +243,9 @@ Musk is no genius. But for all his many flaws he has shown a rather extraordinar
 
 He creates businesses whose success on Earth enable him to colonize Mars. 
 
-In taking over the government, he is doing the same thing. He doesn’t care about government efficiency, any more than he cares about public transport (hyperloop, Boring Company), or trucks (cybertruck), or renewable energy. He does these things because they will help him colonize Mars. And AI is the magic key, the palantir, that lets him connect Trump’s gangsterism with technofascist control. 
+In taking over the government, he is doing the same thing. He doesn’t care about government efficiency, any more than he cares about public transport (hyperloop, Boring Company), or trucks (cybertruck), or renewable energy (SolarCity), or electric cars (Tesla), or payment systems (Paypal). He does these things because they will help him colonize Mars. And AI is the magic key, the palantir, that lets him connect Trump’s criminal cabal with technofascist control. 
 
-The two towers will set AI to the task of looting the state, hollowing out the government until only the shell remains, while at the same time, increasing powers of police surveillance and citizen control. They will retain only the essential functions of a state: lavishing money on the rich and pain on the poor and undeserving. AI will get rid of those who stand in the way, namely, government employees. 
+The two towers will set AI to the task of looting the state, hollowing out the government until only the shell remains, while at the same time, increasing powers of police surveillance and citizen control (that part is Peter Thiel’s job). They will retain only the essential functions of a state: lavishing money on the rich and pain on the poor and undeserving. AI will get rid of those who stand in the way, namely, government employees. 
 
 This is where Musk the technofascist and Trump the sadist come together: they both love firing people. Trump’s fame came from his public display of cruelty—his catchword was “you’re fired!” And Musk sacked 80% of the staff at Twitter, driving it into the ground in the name of efficiency. 
 
@@ -260,4 +264,3 @@ Can we stop it? For a little while, perhaps. So long as governments remain in th
 Let us not make machines in the likeness of a human mind. 
 
 
-https://futurism.com/the-byte/sauron-secures-funding
