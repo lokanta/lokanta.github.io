@@ -17,7 +17,7 @@ Like as not, monks who say that have a framed photo of the king and queen elevat
 
 The Thai king’s wealth is counted in tens of billions of dollars. Poor people know exactly what they have, down to the last cent, and they have to account for it all. When it comes to the rich, is it thirty billion? Or fifty billion? Or much, much more? Who can say? 
 
-If you think that kind of money is clean, you don’t understand what money is. 
+Do you really think that kind of money can ever be clean? 
 
 It turns out, monks doing politics is fine, if it’s the right sort of politics—elitist, royalist, misogynist, patriarchal. The kind of politics that reinforces monks’ prestige and wealth. 
 
