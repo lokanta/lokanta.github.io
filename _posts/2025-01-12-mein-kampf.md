@@ -43,7 +43,7 @@ Gas ovens are “just tools”.
 
 LA is burning because people used machines that are “just tools”. 
 
-Nothing is “just” a tool. Tools are the most destructive thing ever invented. Tools are the difference between a club and a nuke. 
+Nothing is “just” a tool. Tools are the most destructive thing ever invented. Tools are the difference between a stick and a nuke. 
 
 People are so easily fooled by skins. Take some bones, some organs and sinews, wrap it in some skin, and *ooh la la*, how pretty. Never a thought to what lies beneath. 
 
