@@ -2,7 +2,7 @@
 layout: post    
 title: on reading Mein Kampf    
 author: Bhante Sujato    
-blurb: How the tech oligarchs will realize their dream of replacing government with machines. 
+blurb: A world of beauty and love is a world where humans draw a line under evil. 
 
 ---    
     
