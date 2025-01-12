@@ -11,7 +11,7 @@ blurb: A world of beauty and love is a world where humans draw a line under evil
 - While writing, multiple suburbs of LA were burning due to climate change. 
 
 
-I’ve never read *Mein Kampf*. My history teacher, Br. Keven Paull, did though. He said it was the worst book he’d ever read. And he read a lot of books. 
+I’ve never read *Mein Kampf*. My history teacher, Br. Kevin Paull, did though. He said it was the worst book he’d ever read. And he read a lot of books. 
 
 Reading *Mein Kampf* from a critical history point of view is important, even essential. As the evils of Nazism drift into sentimental soft-focus, their ills re-emerge from the swamp. Like a Hydra. We are forgetting, not because of the fog of memory, but because of the fog of lies. 
 
